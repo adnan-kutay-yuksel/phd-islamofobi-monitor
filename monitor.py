@@ -82,5 +82,20 @@ def main():
 
     print(f"✅ {len(results)} post bulundu → {filename}")
 
+    # Mevcut index'i oku
+    index_file = "data/index.json"
+    try:
+        with open(index_file, "r", encoding="utf-8") as f:
+            index = json.load(f)
+    except:
+        index = []
+    
+    # Yeni dosyayı ekle
+    index.append(filename)
+    index = index[-168:]  # Son 168 saat (1 hafta) tut
+    
+    with open(index_file, "w", encoding="utf-8") as f:
+        json.dump(index, f)
+
 if __name__ == "__main__":
     main()
