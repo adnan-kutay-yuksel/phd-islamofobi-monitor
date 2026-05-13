@@ -2,50 +2,83 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>İslamofobi Monitor</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: system-ui; background: #0f0f0f; color: #e0e0e0; padding: 24px; }
-  h1 { color: #fff; margin-bottom: 8px; }
-  .stats { display: flex; gap: 16px; margin: 24px 0; flex-wrap: wrap; }
-  .stat { background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 16px 24px; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: #0f0f0f; color: #e0e0e0; padding: 24px; }
+  h1 { color: #fff; font-size: 1.6em; }
+  .subtitle { color: #666; margin-top: 4px; font-size: 0.9em; }
+
+  .stats { display: flex; gap: 12px; margin: 24px 0; flex-wrap: wrap; }
+  .stat { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 16px 24px; min-width: 140px; }
   .stat-num { font-size: 2em; font-weight: bold; color: #e05252; }
-  .stat-label { font-size: 0.85em; color: #888; margin-top: 4px; }
-  .cards { display: grid; gap: 12px; }
-  .card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 8px; padding: 16px; }
-  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
-  .author { color: #5b9bd5; font-weight: 600; }
-  .severity { padding: 2px 8px; border-radius: 12px; font-size: 0.8em; font-weight: bold; }
-  .s1,.s2 { background: #2a2a00; color: #ffcc00; }
-  .s3 { background: #2a1a00; color: #ff8800; }
-  .s4,.s5 { background: #2a0000; color: #ff4444; }
-  .category { font-size: 0.75em; color: #888; margin-bottom: 6px; }
-  .content { color: #ccc; line-height: 1.5; }
-  .url a { color: #5b9bd5; font-size: 0.8em; text-decoration: none; }
-  .engagement { font-size: 0.75em; padding: 2px 6px; border-radius: 4px; background: #222; }
-  .viral { color: #ff4444; }
-  .high { color: #ff8800; }
+  .stat-label { font-size: 0.8em; color: #666; margin-top: 4px; }
+
+  /* CHART */
+  .chart-box { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 20px; margin-bottom: 24px; }
+  .chart-title { font-size: 0.9em; color: #888; margin-bottom: 16px; }
+  .chart-wrap { display: flex; align-items: flex-end; gap: 4px; height: 100px; }
+  .bar-col { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+  .bar { width: 100%; background: #e05252; border-radius: 3px 3px 0 0; min-height: 2px; transition: height 0.3s; position: relative; cursor: pointer; }
+  .bar:hover { background: #ff6b6b; }
+  .bar-label { font-size: 0.6em; color: #555; white-space: nowrap; }
+  .bar-zero { color: #333; }
+
+  /* FILTERS */
   .filters { margin-bottom: 16px; display: flex; gap: 8px; flex-wrap: wrap; }
-  button { background: #222; color: #ccc; border: 1px solid #444; padding: 6px 14px; 
-           border-radius: 6px; cursor: pointer; font-size: 0.85em; }
+  button { background: #1a1a1a; color: #aaa; border: 1px solid #333; padding: 6px 14px;
+           border-radius: 6px; cursor: pointer; font-size: 0.82em; transition: all 0.2s; }
+  button:hover { border-color: #555; color: #ddd; }
   button.active { background: #e05252; color: white; border-color: #e05252; }
-  .timeline { margin-bottom: 24px; }
-  #chart { width: 100%; height: 80px; }
-  .loading { text-align: center; padding: 40px; color: #666; }
-  .timestamp { font-size: 0.75em; color: #555; margin-top: 8px; }
+
+  /* CARDS */
+  .cards { display: grid; gap: 10px; }
+  .card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 16px; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 8px; }
+  .author { color: #5b9bd5; font-weight: 600; font-size: 0.95em; }
+  .badges { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
+  .severity { padding: 2px 8px; border-radius: 10px; font-size: 0.75em; font-weight: bold; }
+  .s1,.s2 { background: #1a1a00; color: #ccaa00; }
+  .s3 { background: #1a0f00; color: #ff8800; }
+  .s4,.s5 { background: #1a0000; color: #ff4444; }
+  .eng { font-size: 0.72em; padding: 2px 6px; border-radius: 4px; background: #222; }
+  .eng.viral { color: #ff4444; }
+  .eng.high { color: #ff8800; }
+  .eng.medium { color: #ffcc00; }
+  .eng.low { color: #666; }
+  .cat { font-size: 0.75em; color: #555; margin-bottom: 8px; }
+  .content { color: #ccc; line-height: 1.55; font-size: 0.9em; }
+  .card-footer { margin-top: 10px; display: flex; justify-content: space-between; align-items: center; }
+  .url a { color: #5b9bd5; font-size: 0.8em; text-decoration: none; }
+  .url a:hover { text-decoration: underline; }
+  .ts { font-size: 0.72em; color: #444; }
+
+  .loading { text-align: center; padding: 60px; color: #444; }
+  .empty { text-align: center; padding: 40px; color: #555; font-size: 0.9em; }
+  .refresh-note { font-size: 0.75em; color: #444; margin-top: 8px; }
 </style>
 </head>
 <body>
+
 <h1>🔍 İslamofobi Monitor</h1>
-<p style="color:#666; margin-top:4px">X (Twitter) gerçek zamanlı nefret söylemi takibi</p>
+<p class="subtitle">X (Twitter) gerçek zamanlı nefret söylemi takibi · Her saat güncellenir</p>
 
 <div class="stats">
   <div class="stat"><div class="stat-num" id="total">-</div><div class="stat-label">Son 24 saat toplam</div></div>
   <div class="stat"><div class="stat-num" id="viral-count">-</div><div class="stat-label">Viral içerik</div></div>
   <div class="stat"><div class="stat-num" id="high-sev">-</div><div class="stat-label">Yüksek şiddet (4-5)</div></div>
-  <div class="stat"><div class="stat-num" id="last-update">-</div><div class="stat-label">Son güncelleme</div></div>
+  <div class="stat"><div class="stat-num" id="last-update">-</div><div class="stat-label">Son güncelleme (UTC)</div></div>
 </div>
 
+<!-- HOURLY CHART -->
+<div class="chart-box">
+  <div class="chart-title">📊 Saatlik içerik sayısı (son 24 saat)</div>
+  <div class="chart-wrap" id="chart"></div>
+  <p class="refresh-note">Sayfa her 5 dakikada bir otomatik güncellenir.</p>
+</div>
+
+<!-- FILTERS -->
 <div class="filters">
   <button class="active" onclick="filter('all', this)">Tümü</button>
   <button onclick="filter('dehumanization', this)">Dehumanizasyon</button>
@@ -56,93 +89,121 @@
   <button onclick="filter('direct_hatred', this)">Doğrudan Nefret</button>
 </div>
 
-<div class="cards" id="cards"><div class="loading">Veriler yükleniyor...</div></div>
+<div class="cards" id="cards">
+  <div class="loading">⏳ Veriler yükleniyor...</div>
+</div>
 
 <script>
-let allData = [];
-let currentFilter = 'all';
+// Repo adını buraya yaz
+const REPO = "adnan-kutay-yuksel/phd-islamofobi-monitor";
+const RAW  = `https://raw.githubusercontent.com/${REPO}/master/`;
+
+let allData   = [];
+let hourlyMap = {}; // { "2025-05-13T14": 3, ... }
+
+async function fetchFile(url) {
+  try {
+    const r = await fetch(url + "?nocache=" + Date.now());
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
 
 async function loadData() {
-  // data/ klasöründeki son 24 saatlik JSON dosyalarını çek
-  // GitHub raw content üzerinden
-  const repoBase = window.location.href.includes('github.io') 
-    ? '' 
-    : 'https://raw.githubusercontent.com/adnan-kutay-yuksel/islamofobi-monitor/master/';
-  
-  // Son 24 saatin timestamp'lerini üret
-  const files = [];
   const now = new Date();
+  const fetches = [];
+
   for (let i = 0; i < 24; i++) {
     const d = new Date(now - i * 3600000);
-    const pad = n => String(n).padStart(2,'0');
-    const fname = `data/${d.getUTCFullYear()}-${pad(d.getUTCMonth()+1)}-${pad(d.getUTCDate())}T${pad(d.getUTCHours())}-00-00.json`;
-    files.push(fname);
+    const pad = n => String(n).padStart(2, '0');
+    const key = `${d.getUTCFullYear()}-${pad(d.getUTCMonth()+1)}-${pad(d.getUTCDate())}T${pad(d.getUTCHours())}`;
+    const fname = `data/${key}-00-00.json`;
+    fetches.push({ key, url: RAW + fname });
   }
 
-  const results = await Promise.allSettled(
-    files.map(f => fetch(repoBase + f).then(r => r.ok ? r.json() : null))
-  );
+  const results = await Promise.allSettled(fetches.map(f => fetchFile(f.url)));
 
-  allData = [];
-  results.forEach(r => {
+  allData   = [];
+  hourlyMap = {};
+
+  results.forEach((r, i) => {
+    const key = fetches[i].key;
+    hourlyMap[key] = 0;
     if (r.status === 'fulfilled' && r.value?.results) {
+      hourlyMap[key] = r.value.results.length;
       allData.push(...r.value.results.map(item => ({
         ...item,
-        timestamp: r.value.timestamp
+        timestamp: r.value.timestamp || key
       })));
     }
   });
 
   updateStats();
+  renderChart();
   renderCards(allData);
 }
 
 function updateStats() {
-  document.getElementById('total').textContent = allData.length;
-  document.getElementById('viral-count').textContent = 
-    allData.filter(d => d.engagement_estimate === 'viral').length;
-  document.getElementById('high-sev').textContent = 
-    allData.filter(d => d.severity >= 4).length;
-  
-  if (allData.length > 0) {
-    const latest = allData.sort((a,b) => b.timestamp?.localeCompare(a.timestamp))[0];
-    document.getElementById('last-update').textContent = 
-      latest.timestamp?.replace('T',' ').substring(0,16) + ' UTC' || '-';
-  }
+  document.getElementById('total').textContent       = allData.length;
+  document.getElementById('viral-count').textContent = allData.filter(d => d.engagement_estimate === 'viral').length;
+  document.getElementById('high-sev').textContent    = allData.filter(d => d.severity >= 4).length;
+
+  const timestamps = allData.map(d => d.timestamp).filter(Boolean).sort().reverse();
+  document.getElementById('last-update').textContent = timestamps[0]
+    ? timestamps[0].substring(0, 16).replace('T', ' ')
+    : '-';
+}
+
+function renderChart() {
+  const container = document.getElementById('chart');
+  const keys   = Object.keys(hourlyMap).sort(); // kronolojik
+  const values = keys.map(k => hourlyMap[k]);
+  const maxVal = Math.max(...values, 1);
+
+  container.innerHTML = keys.map((k, i) => {
+    const v      = values[i];
+    const height = Math.round((v / maxVal) * 90) + (v > 0 ? 4 : 0);
+    const hour   = k.substring(11, 13) + ":00";
+    return `
+      <div class="bar-col" title="${hour} → ${v} içerik">
+        <div class="bar" style="height:${height}px" data-count="${v}"></div>
+        <div class="bar-label ${v === 0 ? 'bar-zero' : ''}">${hour}</div>
+      </div>`;
+  }).join('');
 }
 
 function renderCards(data) {
   const container = document.getElementById('cards');
-  if (data.length === 0) {
-    container.innerHTML = '<div class="loading">Bu kategoride veri bulunamadı.</div>';
+  if (!data.length) {
+    container.innerHTML = '<div class="empty">Bu kategoride veri bulunamadı.</div>';
     return;
   }
 
-  const sorted = [...data].sort((a,b) => (b.severity||0) - (a.severity||0));
-  
+  const sorted = [...data].sort((a, b) => (b.severity || 0) - (a.severity || 0));
+
   container.innerHTML = sorted.map(item => `
     <div class="card">
       <div class="card-header">
         <span class="author">${item.author || 'Bilinmeyen'}</span>
-        <div style="display:flex;gap:8px;align-items:center">
-          <span class="engagement ${item.engagement_estimate}">${item.engagement_estimate || ''}</span>
-          <span class="severity s${item.severity}">Şiddet: ${item.severity}/5</span>
+        <div class="badges">
+          <span class="eng ${item.engagement_estimate || ''}">${item.engagement_estimate || ''}</span>
+          <span class="severity s${item.severity}">⚡ ${item.severity}/5</span>
         </div>
       </div>
-      <div class="category">📂 ${item.category || 'kategorisiz'} · 🕐 ${item.timestamp?.substring(0,16).replace('T',' ')} UTC</div>
+      <div class="cat">📂 ${(item.category || 'kategorisiz').replace(/_/g,' ')}</div>
       <div class="content">${item.content_summary || item.raw || ''}</div>
-      ${item.url ? `<div class="url" style="margin-top:8px"><a href="${item.url}" target="_blank">🔗 Posta git</a></div>` : ''}
+      <div class="card-footer">
+        ${item.url ? `<div class="url"><a href="${item.url}" target="_blank">🔗 Posta git →</a></div>` : '<div></div>'}
+        <div class="ts">${(item.timestamp || '').substring(0,16).replace('T',' ')} UTC</div>
+      </div>
     </div>
   `).join('');
 }
 
 function filter(cat, btn) {
-  currentFilter = cat;
   document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  
-  const filtered = cat === 'all' ? allData : allData.filter(d => d.category === cat);
-  renderCards(filtered);
+  renderCards(cat === 'all' ? allData : allData.filter(d => d.category === cat));
 }
 
 loadData();
