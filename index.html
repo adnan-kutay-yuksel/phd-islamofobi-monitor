@@ -110,30 +110,31 @@ async function fetchFile(url) {
 }
 
 async function loadData() {
-  const now = new Date();
-  const fetches = [];
-
-  for (let i = 0; i < 24; i++) {
-    const d = new Date(now - i * 3600000);
-    const pad = n => String(n).padStart(2, '0');
-    const key = `${d.getUTCFullYear()}-${pad(d.getUTCMonth()+1)}-${pad(d.getUTCDate())}T${pad(d.getUTCHours())}`;
-    const fname = `data/${key}-00-00.json`;
-    fetches.push({ key, url: RAW + fname });
+  const indexData = await fetchFile(RAW + "data/index.json");
+  if (!indexData) {
+    document.getElementById('cards').innerHTML = '<div class="empty">Henüz veri yok.</div>';
+    return;
   }
 
-  const results = await Promise.allSettled(fetches.map(f => fetchFile(f.url)));
+  // Son 24 saatteki dosyaları al
+  const files = indexData.slice(-24);
 
   allData   = [];
   hourlyMap = {};
 
+  const results = await Promise.allSettled(
+    files.map(f => fetchFile(RAW + f))
+  );
+
   results.forEach((r, i) => {
-    const key = fetches[i].key;
-    hourlyMap[key] = 0;
+    const fname = files[i];
+    const hour  = fname.substring(5, 18); // key olarak kullan
+    hourlyMap[hour] = 0;
     if (r.status === 'fulfilled' && r.value?.results) {
-      hourlyMap[key] = r.value.results.length;
+      hourlyMap[hour] = r.value.results.length;
       allData.push(...r.value.results.map(item => ({
         ...item,
-        timestamp: r.value.timestamp || key
+        timestamp: r.value.timestamp || hour
       })));
     }
   });
