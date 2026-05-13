@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-13T13-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/patchwork26/status/2054547896444371294",
+      "author": "@patchwork26",
+      "content_summary": "Calls out 'muslim invasion of england' in response to another user",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Maiku167/status/2054545665313632737",
+      "author": "@Maiku167",
+      "content_summary": "Lists 'Muslims terrorism committed in the name of Islam' in recent weeks, claims majority silent",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheCutieVixen/status/2054543049179464154",
+      "author": "@TheCutieVixen",
+      "content_summary": "Calls Muslim invasion 'the one good thing' as it will end other problems",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Kmil_59/status/2054542781108883678",
+      "author": "@Kmil_59",
+      "content_summary": "Calls selective Islam 'le plus grand cancer de cette époque'",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ANGELEYES15978/status/2054542263594692807",
+      "author": "@ANGELEYES15978",
+      "content_summary": "Accuses party of loving Muslims to rape girls and no grooming gang inquiry",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/frogmaster300/status/2054542115095335086",
+      "author": "@frogmaster300",
+      "content_summary": "Claims in Iran they rape female prisoners before execution because 'islam believes most women go to hell anyway'",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Zeeeee_xx/status/2054541406773907918",
+      "author": "@Zeeeee_xx",
+      "content_summary": "Accuses Piers Morgan of damage control for Islam and 'the rape of little women and children'",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
