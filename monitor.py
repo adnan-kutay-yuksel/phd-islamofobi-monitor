@@ -70,7 +70,7 @@ def main():
 
     # data/ klasörüne kaydet
     os.makedirs("data", exist_ok=True)
-    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H-%M-%S")
+    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H-00-00")
     filename = f"data/{timestamp}.json"
 
     with open(filename, "w", encoding="utf-8") as f:
