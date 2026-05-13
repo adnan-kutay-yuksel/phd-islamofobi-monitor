@@ -2,41 +2,35 @@ name: İslamofobi Monitor
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'   # Her saat başı
   workflow_dispatch:
 
-# İzinleri açıkça veriyoruz (en önemli düzeltme)
 permissions:
   contents: write
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # Bu satırı ekle
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
       - name: Run Monitor
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
         run: python monitor.py
 
-      - name: Commit and push results (if any)
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git status
-          git commit -m "Monitor sonuçları $(date)" || echo "No changes"
+          git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "No changes"
           git push
