@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-13T08-03-41",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/barkingmad775/status/2054472300934901825",
+      "author": "@barkingmad775",
+      "content_summary": "Better yet, lets deport all Muslims",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/cpo_Hattori/status/2054472057967268001",
+      "author": "@cpo_Hattori",
+      "content_summary": "We're real One piece fans not your jihadi bastards... we feel the pain of Islam daily that's why Indians are Islamophobic",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/33SHAWN1/status/2054471957350072649",
+      "author": "@33SHAWN1",
+      "content_summary": "Step 1: Islamic terrorists will rape and kill members of other religious groups. Step 2: Muslims around the world will stay silent while these acts occur",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Bhumi2345/status/2054471748914172361",
+      "author": "@Bhumi2345",
+      "content_summary": "99% of Muslims in Hindustan are linked to terrorism directly or indirectly, whether girl, boy, child or old",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TSRBSKBLR/status/2054471748914172361",
+      "author": "@TSRBSKBLR",
+      "content_summary": "Threat from Muslim community... how these unpeacefuls function & follow sharia blindly",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
