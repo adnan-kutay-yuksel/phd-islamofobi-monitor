@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-13T18-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/Boogalours/status/2054637370180280363",
+      "author": "@Boogalours",
+      "content_summary": "Jokes that it's easier to joke about cancer than Islam because cancer patients don't decapitate people.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/0305commonsense/status/2054637312408006703",
+      "author": "@0305commonsense",
+      "content_summary": "Claims Democrats perpetuated an 'Islam invasion' on America, making streets unsafe.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CAwake95582/status/2054637280665461182",
+      "author": "@CAwake95582",
+      "content_summary": "Islam has 'demonic plans' that threaten livelihoods, safety, women, girls, and the Christian West.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CraptacularMax/status/2054637028323496003",
+      "author": "@CraptacularMax",
+      "content_summary": "Claims learning about Islam involves 'civilization scale pedophilia, rape, and murder'.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GrowBCBud2010/status/2054636994647752994",
+      "author": "@GrowBCBud2010",
+      "content_summary": "Calls Islam a Satanic cult linked to rape, demands sending all Muslims back.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Biteths1/status/2054636888880038008",
+      "author": "@Biteths1",
+      "content_summary": "Islam poses a threat to America via terror attacks and Sharia law.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/war_politico/status/2054636877790245201",
+      "author": "@war_politico",
+      "content_summary": "Islam is cancer for the world.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
