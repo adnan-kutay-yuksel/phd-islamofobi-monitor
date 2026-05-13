@@ -3,212 +3,388 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>İslamofobi Monitor</title>
+<title>İSLAMOFOBİ MONİTÖR</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: system-ui, -apple-system, sans-serif; background: #0f0f0f; color: #e0e0e0; padding: 24px; }
-  h1 { color: #fff; font-size: 1.6em; }
-  .subtitle { color: #666; margin-top: 4px; font-size: 0.9em; }
+:root {
+  --bg: #050508;
+  --surface: #0a0a10;
+  --surface2: #0f0f18;
+  --border: #1a1a2e;
+  --accent: #ff3333;
+  --accent2: #ff6b35;
+  --accent3: #ffcc00;
+  --green: #00ff88;
+  --blue: #4488ff;
+  --text: #e0e0e0;
+  --muted: #555570;
+  --mono: 'Share Tech Mono', monospace;
+  --display: 'Bebas Neue', sans-serif;
+  --body: 'Inter', sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--body);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px);
+  pointer-events: none;
+  z-index: 1000;
+}
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(rgba(255,51,51,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,51,51,0.03) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+  z-index: 0;
+}
+.container { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 20px 24px; }
 
-  .stats { display: flex; gap: 12px; margin: 24px 0; flex-wrap: wrap; }
-  .stat { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 16px 24px; min-width: 140px; }
-  .stat-num { font-size: 2em; font-weight: bold; color: #e05252; }
-  .stat-label { font-size: 0.8em; color: #666; margin-top: 4px; }
+/* HEADER */
+.header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 28px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+.system-tag { font-family: var(--mono); font-size: 0.7em; color: var(--accent); letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6px; animation: blink 2s step-end infinite; }
+@keyframes blink { 0%,100%{opacity:1}50%{opacity:0.3} }
+h1 { font-family: var(--display); font-size: 3em; letter-spacing: 4px; color: #fff; line-height: 1; text-shadow: 0 0 40px rgba(255,51,51,0.3); }
+.header-right { text-align: right; font-family: var(--mono); font-size: 0.75em; color: var(--muted); line-height: 2; }
+.live-badge { display: inline-flex; align-items: center; gap: 6px; background: rgba(255,51,51,0.1); border: 1px solid rgba(255,51,51,0.3); color: var(--accent); padding: 4px 10px; border-radius: 4px; font-family: var(--mono); font-size: 0.7em; letter-spacing: 2px; margin-bottom: 8px; }
+.live-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s ease-in-out infinite; }
+@keyframes pulse { 0%,100%{opacity:1;transform:scale(1);box-shadow:0 0 0 0 rgba(255,51,51,0.4)}50%{opacity:0.8;transform:scale(1.2);box-shadow:0 0 0 6px rgba(255,51,51,0)} }
 
-  /* CHART */
-  .chart-box { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 20px; margin-bottom: 24px; }
-  .chart-title { font-size: 0.9em; color: #888; margin-bottom: 16px; }
-  .chart-wrap { display: flex; align-items: flex-end; gap: 4px; height: 100px; }
-  .bar-col { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
-  .bar { width: 100%; background: #e05252; border-radius: 3px 3px 0 0; min-height: 2px; transition: height 0.3s; position: relative; cursor: pointer; }
-  .bar:hover { background: #ff6b6b; }
-  .bar-label { font-size: 0.6em; color: #555; white-space: nowrap; }
-  .bar-zero { color: #333; }
+/* STATS */
+.stats { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; margin-bottom: 20px; }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 16px 20px; position: relative; overflow: hidden; transition: border-color 0.3s; }
+.stat::before { content:''; position:absolute; top:0;left:0;right:0; height:2px; background:var(--accent); transform:scaleX(0); transform-origin:left; transition:transform 0.6s ease; }
+.stat.loaded::before { transform:scaleX(1); }
+.stat-label { font-family: var(--mono); font-size: 0.65em; color: var(--muted); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px; }
+.stat-num { font-family: var(--display); font-size: 2.8em; color: var(--accent); line-height: 1; text-shadow: 0 0 20px rgba(255,51,51,0.4); }
+.stat-num.green { color: var(--green); text-shadow: 0 0 20px rgba(0,255,136,0.3); }
+.stat-num.yellow { color: var(--accent3); text-shadow: 0 0 20px rgba(255,204,0,0.3); }
+.stat-num.blue { color: var(--blue); text-shadow: 0 0 20px rgba(68,136,255,0.3); }
 
-  /* FILTERS */
-  .filters { margin-bottom: 16px; display: flex; gap: 8px; flex-wrap: wrap; }
-  button { background: #1a1a1a; color: #aaa; border: 1px solid #333; padding: 6px 14px;
-           border-radius: 6px; cursor: pointer; font-size: 0.82em; transition: all 0.2s; }
-  button:hover { border-color: #555; color: #ddd; }
-  button.active { background: #e05252; color: white; border-color: #e05252; }
+/* TICKER */
+.ticker { background: rgba(255,51,51,0.08); border-top: 1px solid rgba(255,51,51,0.2); border-bottom: 1px solid rgba(255,51,51,0.2); padding: 8px 0; margin-bottom: 20px; overflow: hidden; }
+.ticker-inner { display: flex; white-space: nowrap; animation: ticker 40s linear infinite; }
+.ticker-item { font-family: var(--mono); font-size: 0.72em; color: var(--accent); padding: 0 40px; letter-spacing: 1px; }
+.ticker-sep { color: var(--muted); padding: 0 10px; }
+@keyframes ticker { from{transform:translateX(0)}to{transform:translateX(-50%)} }
 
-  /* CARDS */
-  .cards { display: grid; gap: 10px; }
-  .card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 16px; }
-  .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 8px; }
-  .author { color: #5b9bd5; font-weight: 600; font-size: 0.95em; }
-  .badges { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
-  .severity { padding: 2px 8px; border-radius: 10px; font-size: 0.75em; font-weight: bold; }
-  .s1,.s2 { background: #1a1a00; color: #ccaa00; }
-  .s3 { background: #1a0f00; color: #ff8800; }
-  .s4,.s5 { background: #1a0000; color: #ff4444; }
-  .eng { font-size: 0.72em; padding: 2px 6px; border-radius: 4px; background: #222; }
-  .eng.viral { color: #ff4444; }
-  .eng.high { color: #ff8800; }
-  .eng.medium { color: #ffcc00; }
-  .eng.low { color: #666; }
-  .cat { font-size: 0.75em; color: #555; margin-bottom: 8px; }
-  .content { color: #ccc; line-height: 1.55; font-size: 0.9em; }
-  .card-footer { margin-top: 10px; display: flex; justify-content: space-between; align-items: center; }
-  .url a { color: #5b9bd5; font-size: 0.8em; text-decoration: none; }
-  .url a:hover { text-decoration: underline; }
-  .ts { font-size: 0.72em; color: #444; }
+/* CHART */
+.chart-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 20px; margin-bottom: 20px; }
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.section-title { font-family: var(--mono); font-size: 0.72em; color: var(--muted); letter-spacing: 2px; text-transform: uppercase; }
+.section-title span { color: var(--accent); margin-right: 8px; }
+.chart-area { display: flex; align-items: flex-end; gap: 3px; height: 130px; padding-bottom: 28px; position: relative; }
+.chart-area::before { content:''; position:absolute; inset:0 0 28px 0; background:repeating-linear-gradient(180deg,transparent,transparent calc(33% - 1px),rgba(255,255,255,0.03) calc(33% - 1px),rgba(255,255,255,0.03) 33%); pointer-events:none; }
+.bar-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; position: relative; }
+.bar-wrap { width: 100%; display: flex; align-items: flex-end; justify-content: center; flex: 1; }
+.bar { width: 82%; background: linear-gradient(180deg, var(--accent) 0%, rgba(255,51,51,0.3) 100%); border-radius: 2px 2px 0 0; position: relative; cursor: pointer; transition: filter 0.2s; }
+.bar.empty { background: rgba(255,255,255,0.04); height: 3px !important; }
+.bar:not(.empty):hover { filter: brightness(1.3); }
+.bar-tooltip { position: absolute; bottom: calc(100% + 6px); left: 50%; transform: translateX(-50%); background: #1a1a2e; border: 1px solid var(--accent); color: #fff; font-family: var(--mono); font-size: 0.68em; padding: 4px 8px; border-radius: 3px; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity 0.2s; z-index: 10; }
+.bar:hover .bar-tooltip { opacity: 1; }
+.bar-label { font-family: var(--mono); font-size: 0.56em; color: var(--muted); white-space: nowrap; position: absolute; bottom: 0; }
+.bar-col.current .bar-label { color: var(--accent); }
+.bar-col.current .bar:not(.empty) { box-shadow: 0 0 14px rgba(255,51,51,0.5); }
 
-  .loading { text-align: center; padding: 60px; color: #444; }
-  .empty { text-align: center; padding: 40px; color: #555; font-size: 0.9em; }
-  .refresh-note { font-size: 0.75em; color: #444; margin-top: 8px; }
+/* BREAKDOWN */
+.breakdown { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 20px; }
+.cat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; cursor: pointer; transition: all 0.2s; }
+.cat-card:hover, .cat-card.active { border-color: var(--accent); background: rgba(255,51,51,0.05); }
+.cat-card.active .cat-name { color: var(--accent); }
+.cat-name { font-family: var(--mono); font-size: 0.62em; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; }
+.cat-track { height: 3px; background: var(--border); border-radius: 2px; margin-bottom: 8px; overflow: hidden; }
+.cat-fill { height: 100%; border-radius: 2px; transition: width 1s ease; }
+.cat-count { font-family: var(--display); font-size: 1.6em; color: #fff; }
+.cat-pct { font-family: var(--mono); font-size: 0.38em; color: var(--muted); }
+
+/* FEED */
+.feed-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+.sort-btns { display: flex; gap: 6px; }
+.sort-btn { background: transparent; color: var(--muted); border: 1px solid var(--border); padding: 4px 10px; border-radius: 4px; cursor: pointer; font-family: var(--mono); font-size: 0.65em; letter-spacing: 1px; transition: all 0.2s; }
+.sort-btn:hover, .sort-btn.active { border-color: var(--accent); color: var(--accent); }
+.feed { display: grid; gap: 8px; }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 16px; display: grid; grid-template-columns: 3px 1fr auto; gap: 14px; align-items: start; transition: border-color 0.2s, transform 0.2s; }
+.card:hover { border-color: #2a2a40; transform: translateX(3px); }
+.sev-bar { border-radius: 2px; align-self: stretch; min-height: 40px; }
+.sv1,.sv2 { background: var(--accent3); }
+.sv3 { background: var(--accent2); }
+.sv4,.sv5 { background: var(--accent); box-shadow: 0 0 8px rgba(255,51,51,0.4); }
+
+.card-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; flex-wrap: wrap; }
+.author { font-family: var(--mono); font-size: 0.8em; color: var(--blue); }
+.cat-tag { font-family: var(--mono); font-size: 0.62em; color: var(--muted); background: var(--surface2); padding: 2px 7px; border-radius: 3px; letter-spacing: 1px; text-transform: uppercase; }
+.card-content { font-size: 0.88em; color: #c0c0d0; line-height: 1.6; }
+.card-right { text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+.sev-badge { font-family: var(--mono); font-size: 0.68em; padding: 2px 8px; border-radius: 3px; white-space: nowrap; }
+.sev-badge.sv1,.sev-badge.sv2 { background: rgba(255,204,0,0.1); color: var(--accent3); border: 1px solid rgba(255,204,0,0.2); }
+.sev-badge.sv3 { background: rgba(255,107,53,0.1); color: var(--accent2); border: 1px solid rgba(255,107,53,0.2); }
+.sev-badge.sv4,.sev-badge.sv5 { background: rgba(255,51,51,0.1); color: var(--accent); border: 1px solid rgba(255,51,51,0.3); }
+.eng-badge { font-family: var(--mono); font-size: 0.65em; color: var(--muted); }
+.eng-badge.viral { color: var(--accent); font-weight: 700; }
+.eng-badge.high { color: var(--accent2); }
+.eng-badge.medium { color: var(--accent3); }
+.card-link { font-family: var(--mono); font-size: 0.65em; color: var(--muted); text-decoration: none; transition: color 0.2s; }
+.card-link:hover { color: var(--blue); }
+.card-time { font-family: var(--mono); font-size: 0.6em; color: var(--muted); }
+.state-msg { text-align: center; padding: 60px; font-family: var(--mono); font-size: 0.8em; color: var(--muted); letter-spacing: 2px; }
+
+@media(max-width:900px){
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .breakdown{grid-template-columns:repeat(2,1fr)}
+  h1{font-size:2em}
+}
 </style>
 </head>
 <body>
+<div class="container">
 
-<h1>🔍 İslamofobi Monitor</h1>
-<p class="subtitle">X (Twitter) gerçek zamanlı nefret söylemi takibi · Her saat güncellenir</p>
+  <div class="header">
+    <div>
+      <div class="system-tag">● SİSTEM AKTİF // GERÇEK ZAMANLI</div>
+      <h1>İSLAMOFOBİ MONİTÖR</h1>
+    </div>
+    <div class="header-right">
+      <div class="live-badge"><div class="live-dot"></div>CANLI</div>
+      <div style="font-family:var(--mono);font-size:0.8em;color:#fff;margin-bottom:4px" id="clock">--:--:--</div>
+      <div>Son yenileme: <span id="last-refresh">—</span></div>
+      <div>Kaynak: X · Grok AI · GMT+3</div>
+    </div>
+  </div>
 
-<div class="stats">
-  <div class="stat"><div class="stat-num" id="total">-</div><div class="stat-label">Son 24 saat toplam</div></div>
-  <div class="stat"><div class="stat-num" id="viral-count">-</div><div class="stat-label">Viral içerik</div></div>
-  <div class="stat"><div class="stat-num" id="high-sev">-</div><div class="stat-label">Yüksek şiddet (4-5)</div></div>
-  <div class="stat"><div class="stat-num" id="last-update">-</div><div class="stat-label">Son güncelleme (UTC)</div></div>
+  <div class="stats">
+    <div class="stat" id="s0"><div class="stat-label">// 24 SAAT TOPLAM</div><div class="stat-num" id="total">—</div></div>
+    <div class="stat" id="s1"><div class="stat-label">// VİRAL İÇERİK</div><div class="stat-num green" id="viral-count">—</div></div>
+    <div class="stat" id="s2"><div class="stat-label">// YÜKSEK ŞİDDET (4-5)</div><div class="stat-num" id="high-sev">—</div></div>
+    <div class="stat" id="s3"><div class="stat-label">// SON SAAT</div><div class="stat-num yellow" id="last-hour">—</div></div>
+  </div>
+
+  <div class="ticker" id="ticker-wrap" style="display:none">
+    <div class="ticker-inner" id="ticker"></div>
+  </div>
+
+  <div class="chart-section">
+    <div class="section-header">
+      <div class="section-title"><span>▶</span> SAATLİK DAĞILIM (GMT+3, SON 24 SAAT)</div>
+      <div style="font-family:var(--mono);font-size:0.65em;color:var(--muted)">Her bar = 1 saat · Hover için detay</div>
+    </div>
+    <div class="chart-area" id="chart"><div class="state-msg">YÜKLENİYOR...</div></div>
+  </div>
+
+  <div class="breakdown" id="breakdown"></div>
+
+  <div class="feed-header">
+    <div class="section-title"><span>▶</span> ALGILANAN İÇERİKLER</div>
+    <div class="sort-btns">
+      <button class="sort-btn active" onclick="setSort('severity',this)">ŞİDDET</button>
+      <button class="sort-btn" onclick="setSort('time',this)">ZAMAN</button>
+      <button class="sort-btn" onclick="setSort('engagement',this)">ETKİLEŞİM</button>
+    </div>
+  </div>
+  <div class="feed" id="feed"><div class="state-msg">YÜKLENİYOR...</div></div>
+
 </div>
-
-<!-- HOURLY CHART -->
-<div class="chart-box">
-  <div class="chart-title">📊 Saatlik içerik sayısı (son 24 saat)</div>
-  <div class="chart-wrap" id="chart"></div>
-  <p class="refresh-note">Sayfa her 5 dakikada bir otomatik güncellenir.</p>
-</div>
-
-<!-- FILTERS -->
-<div class="filters">
-  <button class="active" onclick="filter('all', this)">Tümü</button>
-  <button onclick="filter('dehumanization', this)">Dehumanizasyon</button>
-  <button onclick="filter('threat_narrative', this)">Tehdit Anlatısı</button>
-  <button onclick="filter('crime_association', this)">Suç İlişkilendirme</button>
-  <button onclick="filter('replacement_theory', this)">Replacement Theory</button>
-  <button onclick="filter('dog_whistle', this)">Dog Whistle</button>
-  <button onclick="filter('direct_hatred', this)">Doğrudan Nefret</button>
-</div>
-
-<div class="cards" id="cards">
-  <div class="loading">⏳ Veriler yükleniyor...</div>
-</div>
-
 <script>
-// Repo adını buraya yaz
-const REPO = "adnan-kutay-yuksel/phd-islamofobi-monitor";
-const RAW  = `https://raw.githubusercontent.com/${REPO}/master/`;
+const REPO   = "adnan-kutay-yuksel/phd-islamofobi-monitor";
+const RAW    = `https://raw.githubusercontent.com/${REPO}/master/`;
+const TZ_OFF = 3;
 
-let allData   = [];
-let hourlyMap = {}; // { "2025-05-13T14": 3, ... }
+let allData     = [];
+let hourlyMap   = {};
+let activeFilter = 'all';
+let sortMode    = 'severity';
 
-async function fetchFile(url) {
-  try {
-    const r = await fetch(url + "?nocache=" + Date.now());
-    if (!r.ok) return null;
+const CATS = {
+  dehumanization:    { label:'DEHUMANİZASYON',   color:'#ff3333' },
+  threat_narrative:  { label:'TEHDİT ANLATISI',  color:'#ff6b35' },
+  crime_association: { label:'SUÇ İLİŞK.',        color:'#ff8800' },
+  replacement_theory:{ label:'REPLACEMENT',       color:'#cc44ff' },
+  dog_whistle:       { label:'DOG WHISTLE',       color:'#ffcc00' },
+  direct_hatred:     { label:'DOĞRUDAN NEFRET',   color:'#ff0055' },
+};
+const ENG_ORDER = { viral:4, high:3, medium:2, low:1 };
+
+// Clock
+function updateClock(){
+  const d = new Date(Date.now() + TZ_OFF*3600000);
+  const p = n=>String(n).padStart(2,'0');
+  document.getElementById('clock').textContent =
+    `${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())} GMT+3`;
+}
+setInterval(updateClock,1000); updateClock();
+
+async function fetchFile(url){
+  try{
+    const r = await fetch(url+'?nc='+Date.now());
+    if(!r.ok) return null;
     return await r.json();
-  } catch { return null; }
+  }catch{return null;}
 }
 
-async function loadData() {
-  const indexData = await fetchFile(RAW + "data/index.json");
-  if (!indexData) {
-    document.getElementById('cards').innerHTML = '<div class="empty">Henüz veri yok.</div>';
-    return;
+async function loadData(){
+  const idx = await fetchFile(RAW+'data/index.json');
+  allData=[]; hourlyMap={};
+
+  // init 24 slot
+  const now = new Date(Date.now()+TZ_OFF*3600000);
+  const curH = now.getUTCHours();
+  for(let i=0;i<24;i++){
+    const h = (curH-i+24)%24;
+    hourlyMap[String(h).padStart(2,'0')] = 0;
   }
 
-  // Son 24 saatteki dosyaları al
-  const files = indexData.slice(-24);
+  if(idx && Array.isArray(idx)){
+    const files = idx.slice(-48);
+    const fetches = await Promise.allSettled(files.map(f=>fetchFile(RAW+f)));
+    fetches.forEach((r,i)=>{
+      if(r.status==='fulfilled'&&r.value?.results){
+        const ts = r.value.timestamp||'';
+        const utcH = parseInt(ts.substring(11,13))||0;
+        const localH = (utcH+TZ_OFF)%24;
+        const key = String(localH).padStart(2,'0');
+        hourlyMap[key] = (hourlyMap[key]||0) + r.value.results.length;
+        allData.push(...r.value.results.map(item=>({...item,_ts:ts,_localH:localH})));
+      }
+    });
+  }
 
-  allData   = [];
-  hourlyMap = {};
+  updateStats(); renderChart(); renderBreakdown(); renderFeed(); renderTicker();
 
-  const results = await Promise.allSettled(
-    files.map(f => fetchFile(RAW + f))
-  );
-
-  results.forEach((r, i) => {
-    const fname = files[i];
-    const hour  = fname.substring(5, 18); // key olarak kullan
-    hourlyMap[hour] = 0;
-    if (r.status === 'fulfilled' && r.value?.results) {
-      hourlyMap[hour] = r.value.results.length;
-      allData.push(...r.value.results.map(item => ({
-        ...item,
-        timestamp: r.value.timestamp || hour
-      })));
-    }
-  });
-
-  updateStats();
-  renderChart();
-  renderCards(allData);
+  const nowLocal = new Date(Date.now()+TZ_OFF*3600000);
+  const p=n=>String(n).padStart(2,'0');
+  document.getElementById('last-refresh').textContent = `${p(nowLocal.getUTCHours())}:${p(nowLocal.getUTCMinutes())} GMT+3`;
 }
 
-function updateStats() {
+function updateStats(){
   document.getElementById('total').textContent       = allData.length;
-  document.getElementById('viral-count').textContent = allData.filter(d => d.engagement_estimate === 'viral').length;
-  document.getElementById('high-sev').textContent    = allData.filter(d => d.severity >= 4).length;
-
-  const timestamps = allData.map(d => d.timestamp).filter(Boolean).sort().reverse();
-  document.getElementById('last-update').textContent = timestamps[0]
-    ? timestamps[0].substring(0, 16).replace('T', ' ')
-    : '-';
+  document.getElementById('viral-count').textContent = allData.filter(d=>d.engagement_estimate==='viral').length;
+  document.getElementById('high-sev').textContent    = allData.filter(d=>d.severity>=4).length;
+  const curH = new Date(Date.now()+TZ_OFF*3600000).getUTCHours();
+  document.getElementById('last-hour').textContent   = hourlyMap[String(curH).padStart(2,'0')]??0;
+  ['s0','s1','s2','s3'].forEach(id=>document.getElementById(id).classList.add('loaded'));
 }
 
-function renderChart() {
+function renderChart(){
   const container = document.getElementById('chart');
-  const keys   = Object.keys(hourlyMap).sort(); // kronolojik
-  const values = keys.map(k => hourlyMap[k]);
-  const maxVal = Math.max(...values, 1);
+  const now = new Date(Date.now()+TZ_OFF*3600000);
+  const curH = now.getUTCHours();
+  const hours=[];
+  for(let i=23;i>=0;i--) hours.push(String((curH-i+24)%24).padStart(2,'0'));
+  const values = hours.map(h=>hourlyMap[h]||0);
+  const maxVal = Math.max(...values,1);
 
-  container.innerHTML = keys.map((k, i) => {
-    const v      = values[i];
-    const height = Math.round((v / maxVal) * 90) + (v > 0 ? 4 : 0);
-    const hour   = k.substring(11, 13) + ":00";
-    return `
-      <div class="bar-col" title="${hour} → ${v} içerik">
-        <div class="bar" style="height:${height}px" data-count="${v}"></div>
-        <div class="bar-label ${v === 0 ? 'bar-zero' : ''}">${hour}</div>
-      </div>`;
+  container.innerHTML = hours.map((h,i)=>{
+    const v = values[i];
+    const heightPct = v===0 ? 0 : Math.max(Math.round((v/maxVal)*96), 6);
+    const isCur = h===String(curH).padStart(2,'0');
+    return `<div class="bar-col ${isCur?'current':''}">
+      <div class="bar-wrap">
+        <div class="bar ${v===0?'empty':''}" style="height:${v===0?3:heightPct}%">
+          ${v>0?`<div class="bar-tooltip">${h}:00 → ${v} içerik</div>`:''}
+        </div>
+      </div>
+      <div class="bar-label">${h}</div>
+    </div>`;
   }).join('');
 }
 
-function renderCards(data) {
-  const container = document.getElementById('cards');
-  if (!data.length) {
-    container.innerHTML = '<div class="empty">Bu kategoride veri bulunamadı.</div>';
-    return;
-  }
+function renderBreakdown(){
+  const container = document.getElementById('breakdown');
+  const total = allData.length||1;
+  const entries = Object.entries(CATS).map(([key,meta])=>{
+    const count = allData.filter(d=>d.category===key).length;
+    const pct   = Math.round((count/total)*100);
+    return {key,meta,count,pct};
+  });
 
-  const sorted = [...data].sort((a, b) => (b.severity || 0) - (a.severity || 0));
+  container.innerHTML = entries.map(({key,meta,count,pct})=>`
+    <div class="cat-card ${activeFilter===key?'active':''}" onclick="filterCat('${key}')">
+      <div class="cat-name">${meta.label}</div>
+      <div class="cat-track"><div class="cat-fill" style="width:${pct}%;background:${meta.color}"></div></div>
+      <div class="cat-count">${count} <span class="cat-pct">%${pct}</span></div>
+    </div>`).join('')+
+  `<div class="cat-card ${activeFilter==='all'?'active':''}" onclick="filterCat('all')">
+    <div class="cat-name">TÜMÜ</div>
+    <div class="cat-track"><div class="cat-fill" style="width:100%;background:var(--muted)"></div></div>
+    <div class="cat-count">${allData.length}</div>
+  </div>`;
+}
 
-  container.innerHTML = sorted.map(item => `
-    <div class="card">
-      <div class="card-header">
-        <span class="author">${item.author || 'Bilinmeyen'}</span>
-        <div class="badges">
-          <span class="eng ${item.engagement_estimate || ''}">${item.engagement_estimate || ''}</span>
-          <span class="severity s${item.severity}">⚡ ${item.severity}/5</span>
+function renderFeed(){
+  const container = document.getElementById('feed');
+  let data = activeFilter==='all' ? allData : allData.filter(d=>d.category===activeFilter);
+  if(sortMode==='severity')   data=[...data].sort((a,b)=>(b.severity||0)-(a.severity||0));
+  if(sortMode==='time')       data=[...data].sort((a,b)=>(b._ts||'').localeCompare(a._ts||''));
+  if(sortMode==='engagement') data=[...data].sort((a,b)=>(ENG_ORDER[b.engagement_estimate]||0)-(ENG_ORDER[a.engagement_estimate]||0));
+
+  if(!data.length){container.innerHTML='<div class="state-msg">// VERİ BULUNAMADI</div>';return;}
+
+  const p=n=>String(n).padStart(2,'0');
+  container.innerHTML=data.map((item,idx)=>{
+    const s = item.severity||1;
+    const ts = item._ts ? (()=>{
+      const h=(parseInt(item._ts.substring(11,13))+TZ_OFF)%24;
+      const m=item._ts.substring(14,16)||'00';
+      return `${p(h)}:${m} GMT+3`;
+    })() : '—';
+    const catLabel = CATS[item.category]?.label || item.category || '?';
+    return `<div class="card" style="animation:fadeIn 0.3s ${idx*0.03}s both">
+      <div class="sev-bar sv${s}"></div>
+      <div>
+        <div class="card-meta">
+          <span class="author">${item.author||'?'}</span>
+          <span class="cat-tag">${catLabel}</span>
         </div>
+        <div class="card-content">${item.content_summary||item.raw||'—'}</div>
       </div>
-      <div class="cat">📂 ${(item.category || 'kategorisiz').replace(/_/g,' ')}</div>
-      <div class="content">${item.content_summary || item.raw || ''}</div>
-      <div class="card-footer">
-        ${item.url ? `<div class="url"><a href="${item.url}" target="_blank">🔗 Posta git →</a></div>` : '<div></div>'}
-        <div class="ts">${(item.timestamp || '').substring(0,16).replace('T',' ')} UTC</div>
+      <div class="card-right">
+        <div class="sev-badge sv${s}">ŞİDDET ${s}/5</div>
+        <div class="eng-badge ${item.engagement_estimate||''}">${(item.engagement_estimate||'').toUpperCase()}</div>
+        ${item.url?`<a class="card-link" href="${item.url}" target="_blank">→ GÖRÜNTÜLE</a>`:''}
+        <div class="card-time">${ts}</div>
       </div>
-    </div>
-  `).join('');
+    </div>`;
+  }).join('');
 }
 
-function filter(cat, btn) {
-  document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  renderCards(cat === 'all' ? allData : allData.filter(d => d.category === cat));
+function renderTicker(){
+  const high = allData.filter(d=>d.severity>=4).slice(0,10);
+  if(!high.length){document.getElementById('ticker-wrap').style.display='none';return;}
+  const items=[...high,...high];
+  document.getElementById('ticker').innerHTML=items.map(item=>
+    `<span class="ticker-item">⚠ ${item.author} · ${(item.content_summary||'').substring(0,80)}...</span>`
+  ).join('<span class="ticker-sep">◆</span>');
+  document.getElementById('ticker-wrap').style.display='block';
 }
+
+function filterCat(cat){
+  activeFilter=cat;
+  renderBreakdown();
+  renderFeed();
+}
+function setSort(mode,btn){
+  sortMode=mode;
+  document.querySelectorAll('.sort-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  renderFeed();
+}
+
+// fadeIn keyframe
+const style=document.createElement('style');
+style.textContent='@keyframes fadeIn{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}';
+document.head.appendChild(style);
 
 loadData();
-setInterval(loadData, 300000); // 5 dakikada bir yenile
+setInterval(loadData,300000);
 </script>
 </body>
 </html>
