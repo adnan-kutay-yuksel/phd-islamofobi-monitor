@@ -18,7 +18,7 @@ def main():
     )
     
     prompt = """
-    Son 24 saatte X'te İslamofobik, anti-Muslim, genelleyici olumsuz içerikleri semantic olarak ara.
+    Son 1 saatte X'te İslamofobik, anti-Muslim, genelleyici olumsuz içerikleri semantic olarak ara.
     'İslam = cancer/evil/istila/terör', Muslims = grooming/rape/takeover gibi temaları bul.
     En çarpıcı 5-10 örneği listele, özetle ve genel trend hakkında kısa yorum yap.
     """
