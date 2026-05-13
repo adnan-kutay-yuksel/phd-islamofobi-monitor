@@ -28,7 +28,7 @@ def main():
     chat.append(user(prompt))
     response = chat.sample()
     
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filename = f"results_{timestamp}.md"
     
     with open(filename, "w", encoding="utf-8") as f:
