@@ -7,187 +7,189 @@
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #050508;
-  --surface: #0a0a10;
-  --surface2: #0f0f18;
-  --border: #1a1a2e;
-  --accent: #ff3333;
-  --accent2: #ff6b35;
-  --accent3: #ffcc00;
-  --green: #00ff88;
-  --blue: #4488ff;
-  --text: #e0e0e0;
-  --muted: #555570;
-  --mono: 'Share Tech Mono', monospace;
-  --display: 'Bebas Neue', sans-serif;
-  --body: 'Inter', sans-serif;
+  --bg:#050508; --surface:#0a0a10; --surface2:#0f0f18; --border:#1a1a2e;
+  --accent:#ff3333; --accent2:#ff6b35; --accent3:#ffcc00;
+  --blue:#4488ff; --text:#e0e0e0; --muted:#8888aa;
+  --mono:'Share Tech Mono',monospace; --display:'Bebas Neue',sans-serif; --body:'Inter',sans-serif;
 }
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--body);
-  min-height: 100vh;
-  overflow-x: hidden;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px);
-  pointer-events: none;
-  z-index: 1000;
-}
-body::after {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image: linear-gradient(rgba(255,51,51,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,51,51,0.03) 1px, transparent 1px);
-  background-size: 40px 40px;
-  pointer-events: none;
-  z-index: 0;
-}
-.container { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 20px 24px; }
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:var(--body);min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.03) 2px,rgba(0,0,0,0.03) 4px);pointer-events:none;z-index:1000}
+body::after{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(255,51,51,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,51,51,0.03) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+.wrap{position:relative;z-index:1;max-width:1400px;margin:0 auto;padding:20px 24px}
 
 /* HEADER */
-.header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 28px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
-.system-tag { font-family: var(--mono); font-size: 0.7em; color: var(--accent); letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6px; animation: blink 2s step-end infinite; }
-@keyframes blink { 0%,100%{opacity:1}50%{opacity:0.3} }
-h1 { font-family: var(--display); font-size: 3em; letter-spacing: 4px; color: #fff; line-height: 1; text-shadow: 0 0 40px rgba(255,51,51,0.3); }
-.header-right { text-align: right; font-family: var(--mono); font-size: 0.75em; color: var(--muted); line-height: 2; }
-.live-badge { display: inline-flex; align-items: center; gap: 6px; background: rgba(255,51,51,0.1); border: 1px solid rgba(255,51,51,0.3); color: var(--accent); padding: 4px 10px; border-radius: 4px; font-family: var(--mono); font-size: 0.7em; letter-spacing: 2px; margin-bottom: 8px; }
-.live-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s ease-in-out infinite; }
-@keyframes pulse { 0%,100%{opacity:1;transform:scale(1);box-shadow:0 0 0 0 rgba(255,51,51,0.4)}50%{opacity:0.8;transform:scale(1.2);box-shadow:0 0 0 6px rgba(255,51,51,0)} }
+.hdr{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:28px;padding-bottom:16px;border-bottom:1px solid var(--border)}
+.sys-tag{font-family:var(--mono);font-size:.75em;color:var(--accent);letter-spacing:3px;text-transform:uppercase;margin-bottom:6px;animation:blink 2s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+h1{font-family:var(--display);font-size:3em;letter-spacing:4px;color:#fff;line-height:1;text-shadow:0 0 40px rgba(255,51,51,.3)}
+.hdr-r{text-align:right;font-family:var(--mono);font-size:.82em;color:#aaaacc;line-height:2.2}
+.live-badge{display:inline-flex;align-items:center;gap:6px;background:rgba(255,51,51,.1);border:1px solid rgba(255,51,51,.3);color:var(--accent);padding:5px 12px;border-radius:4px;font-family:var(--mono);font-size:.75em;letter-spacing:2px;margin-bottom:8px}
+.live-dot{width:7px;height:7px;background:var(--accent);border-radius:50%;animation:pulse 1.5s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1);box-shadow:0 0 0 0 rgba(255,51,51,.4)}50%{opacity:.8;transform:scale(1.2);box-shadow:0 0 0 6px rgba(255,51,51,0)}}
 
 /* STATS */
-.stats { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; margin-bottom: 20px; }
-.stat { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 16px 20px; position: relative; overflow: hidden; transition: border-color 0.3s; }
-.stat::before { content:''; position:absolute; top:0;left:0;right:0; height:2px; background:var(--accent); transform:scaleX(0); transform-origin:left; transition:transform 0.6s ease; }
-.stat.loaded::before { transform:scaleX(1); }
-.stat-label { font-family: var(--mono); font-size: 0.65em; color: var(--muted); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px; }
-.stat-num { font-family: var(--display); font-size: 2.8em; color: var(--accent); line-height: 1; text-shadow: 0 0 20px rgba(255,51,51,0.4); }
-.stat-num.green { color: var(--green); text-shadow: 0 0 20px rgba(0,255,136,0.3); }
-.stat-num.yellow { color: var(--accent3); text-shadow: 0 0 20px rgba(255,204,0,0.3); }
-.stat-num.blue { color: var(--blue); text-shadow: 0 0 20px rgba(68,136,255,0.3); }
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:18px 22px;position:relative;overflow:hidden}
+.stat::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--accent);transform:scaleX(0);transform-origin:left;transition:transform .6s ease}
+.stat.loaded::before{transform:scaleX(1)}
+.stat-lbl{
+  font-family:var(--mono);
+  font-size:.78em;        /* was .65em */
+  color:#aaaacc;          /* was var(--muted) — much more visible */
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  margin-bottom:10px;
+  font-weight:700;
+}
+.stat-num{font-family:var(--display);font-size:2.8em;color:var(--accent);line-height:1;text-shadow:0 0 20px rgba(255,51,51,.4)}
+.stat-num.y{color:var(--accent3);text-shadow:0 0 20px rgba(255,204,0,.3)}
+.stat-num.b{color:var(--blue);text-shadow:0 0 20px rgba(68,136,255,.3)}
+.stat-num.sm{font-size:1.5em;padding-top:6px}
 
 /* TICKER */
-.ticker { background: rgba(255,51,51,0.08); border-top: 1px solid rgba(255,51,51,0.2); border-bottom: 1px solid rgba(255,51,51,0.2); padding: 8px 0; margin-bottom: 20px; overflow: hidden; }
-.ticker-inner { display: flex; white-space: nowrap; animation: ticker 40s linear infinite; }
-.ticker-item { font-family: var(--mono); font-size: 0.72em; color: var(--accent); padding: 0 40px; letter-spacing: 1px; }
-.ticker-sep { color: var(--muted); padding: 0 10px; }
-@keyframes ticker { from{transform:translateX(0)}to{transform:translateX(-50%)} }
+.ticker{background:rgba(255,51,51,.08);border-top:1px solid rgba(255,51,51,.2);border-bottom:1px solid rgba(255,51,51,.2);padding:9px 0;margin-bottom:20px;overflow:hidden}
+.ticker-inner{display:flex;white-space:nowrap;animation:tick 50s linear infinite}
+.ticker-item{font-family:var(--mono);font-size:.78em;color:var(--accent);padding:0 40px;letter-spacing:1px}
+.ticker-sep{color:var(--muted);padding:0 10px}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* CHART SECTION */
+.chart-box{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:20px;margin-bottom:20px}
+.sec-hdr{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;flex-wrap:wrap;gap:10px}
+.sec-title{font-family:var(--mono);font-size:.82em;color:#ccccee;letter-spacing:2px;text-transform:uppercase;font-weight:700}
+.sec-title span{color:var(--accent);margin-right:8px}
+.chart-hint{font-family:var(--mono);font-size:.75em;color:#8888aa;margin-top:10px}
+
+/* TIME RANGE TOGGLE */
+.range-btns{display:flex;gap:4px}
+.rbtn{background:transparent;color:#8888aa;border:1px solid var(--border);padding:5px 14px;border-radius:4px;cursor:pointer;font-family:var(--mono);font-size:.72em;letter-spacing:1px;transition:all .2s}
+.rbtn:hover{border-color:var(--accent);color:var(--accent)}
+.rbtn.active{background:rgba(255,51,51,.15);border-color:var(--accent);color:var(--accent)}
 
 /* CHART */
-.chart-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 20px; margin-bottom: 20px; }
-.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
-.section-title { font-family: var(--mono); font-size: 0.72em; color: var(--muted); letter-spacing: 2px; text-transform: uppercase; }
-.section-title span { color: var(--accent); margin-right: 8px; }
-.chart-area { display: flex; align-items: flex-end; gap: 3px; height: 130px; padding-bottom: 28px; position: relative; }
-.chart-area::before { content:''; position:absolute; inset:0 0 28px 0; background:repeating-linear-gradient(180deg,transparent,transparent calc(33% - 1px),rgba(255,255,255,0.03) calc(33% - 1px),rgba(255,255,255,0.03) 33%); pointer-events:none; }
-.bar-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; position: relative; }
-.bar-wrap { width: 100%; display: flex; align-items: flex-end; justify-content: center; flex: 1; }
-.bar { width: 82%; background: linear-gradient(180deg, var(--accent) 0%, rgba(255,51,51,0.3) 100%); border-radius: 2px 2px 0 0; position: relative; cursor: pointer; transition: filter 0.2s; }
-.bar.empty { background: rgba(255,255,255,0.04); height: 3px !important; }
-.bar:not(.empty):hover { filter: brightness(1.3); }
-.bar-tooltip { position: absolute; bottom: calc(100% + 6px); left: 50%; transform: translateX(-50%); background: #1a1a2e; border: 1px solid var(--accent); color: #fff; font-family: var(--mono); font-size: 0.68em; padding: 4px 8px; border-radius: 3px; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity 0.2s; z-index: 10; }
-.bar:hover .bar-tooltip { opacity: 1; }
-.bar-label { font-family: var(--mono); font-size: 0.56em; color: var(--muted); white-space: nowrap; position: absolute; bottom: 0; }
-.bar-col.current .bar-label { color: var(--accent); }
-.bar-col.current .bar:not(.empty) { box-shadow: 0 0 14px rgba(255,51,51,0.5); }
+.chart-area{display:flex;align-items:flex-end;gap:2px;height:130px;padding-bottom:30px;position:relative}
+.chart-area::before{content:'';position:absolute;inset:0 0 30px 0;background:repeating-linear-gradient(180deg,transparent,transparent calc(33% - 1px),rgba(255,255,255,.03) calc(33% - 1px),rgba(255,255,255,.03) 33%);pointer-events:none}
+.bc{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;position:relative}
+.bw{width:100%;display:flex;align-items:flex-end;justify-content:center;flex:1}
+.bar{width:85%;background:linear-gradient(180deg,var(--accent) 0%,rgba(255,51,51,.3) 100%);border-radius:2px 2px 0 0;position:relative;cursor:pointer;transition:filter .2s}
+.bar.empty{background:rgba(255,255,255,.04);height:3px!important}
+.bar:not(.empty):hover{filter:brightness(1.3)}
+.btt{position:absolute;bottom:calc(100% + 6px);left:50%;transform:translateX(-50%);background:#1a1a2e;border:1px solid var(--accent);color:#fff;font-family:var(--mono);font-size:.72em;padding:5px 10px;border-radius:3px;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .2s;z-index:10}
+.bar:hover .btt{opacity:1}
+.blbl{font-family:var(--mono);font-size:.62em;color:#8888aa;white-space:nowrap;position:absolute;bottom:0}
+.bc.cur .blbl{color:var(--accent);font-weight:700}
+.bc.cur .bar:not(.empty){box-shadow:0 0 14px rgba(255,51,51,.5)}
 
 /* BREAKDOWN */
-.breakdown { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 20px; }
-.cat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; cursor: pointer; transition: all 0.2s; }
-.cat-card:hover, .cat-card.active { border-color: var(--accent); background: rgba(255,51,51,0.05); }
-.cat-card.active .cat-name { color: var(--accent); }
-.cat-name { font-family: var(--mono); font-size: 0.62em; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; }
-.cat-track { height: 3px; background: var(--border); border-radius: 2px; margin-bottom: 8px; overflow: hidden; }
-.cat-fill { height: 100%; border-radius: 2px; transition: width 1s ease; }
-.cat-count { font-family: var(--display); font-size: 1.6em; color: #fff; }
-.cat-pct { font-family: var(--mono); font-size: 0.38em; color: var(--muted); }
+.breakdown{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:20px}
+.cat-card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:14px 16px;cursor:pointer;transition:all .2s}
+.cat-card:hover,.cat-card.active{border-color:var(--accent);background:rgba(255,51,51,.05)}
+.cat-card.active .cname{color:var(--accent)}
+.cname{font-family:var(--mono);font-size:.7em;color:#aaaacc;letter-spacing:1px;text-transform:uppercase;margin-bottom:8px;font-weight:700}
+.ctrack{height:3px;background:var(--border);border-radius:2px;margin-bottom:8px;overflow:hidden}
+.cfill{height:100%;border-radius:2px;transition:width 1s ease}
+.ccount{font-family:var(--display);font-size:1.6em;color:#fff}
+.cpct{font-family:var(--mono);font-size:.4em;color:#8888aa}
 
 /* FEED */
-.feed-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
-.sort-btns { display: flex; gap: 6px; }
-.sort-btn { background: transparent; color: var(--muted); border: 1px solid var(--border); padding: 4px 10px; border-radius: 4px; cursor: pointer; font-family: var(--mono); font-size: 0.65em; letter-spacing: 1px; transition: all 0.2s; }
-.sort-btn:hover, .sort-btn.active { border-color: var(--accent); color: var(--accent); }
-.feed { display: grid; gap: 8px; }
+.feed-hdr{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+.sort-btns{display:flex;gap:6px}
+.sbtn{background:transparent;color:#8888aa;border:1px solid var(--border);padding:5px 12px;border-radius:4px;cursor:pointer;font-family:var(--mono);font-size:.72em;letter-spacing:1px;transition:all .2s}
+.sbtn:hover,.sbtn.active{border-color:var(--accent);color:var(--accent)}
+.feed{display:grid;gap:8px}
 
-.card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 16px; display: grid; grid-template-columns: 3px 1fr auto; gap: 14px; align-items: start; transition: border-color 0.2s, transform 0.2s; }
-.card:hover { border-color: #2a2a40; transform: translateX(3px); }
-.sev-bar { border-radius: 2px; align-self: stretch; min-height: 40px; }
-.sv1,.sv2 { background: var(--accent3); }
-.sv3 { background: var(--accent2); }
-.sv4,.sv5 { background: var(--accent); box-shadow: 0 0 8px rgba(255,51,51,0.4); }
+.card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:16px;display:grid;grid-template-columns:3px 1fr auto;gap:14px;align-items:start;transition:border-color .2s,transform .2s}
+.card:hover{border-color:#2a2a40;transform:translateX(3px)}
+.sv-bar{border-radius:2px;align-self:stretch;min-height:40px}
+.sv1,.sv2{background:var(--accent3)}
+.sv3{background:var(--accent2)}
+.sv4,.sv5{background:var(--accent);box-shadow:0 0 8px rgba(255,51,51,.4)}
 
-.card-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; flex-wrap: wrap; }
-.author { font-family: var(--mono); font-size: 0.8em; color: var(--blue); }
-.cat-tag { font-family: var(--mono); font-size: 0.62em; color: var(--muted); background: var(--surface2); padding: 2px 7px; border-radius: 3px; letter-spacing: 1px; text-transform: uppercase; }
-.card-content { font-size: 0.88em; color: #c0c0d0; line-height: 1.6; }
-.card-right { text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
-.sev-badge { font-family: var(--mono); font-size: 0.68em; padding: 2px 8px; border-radius: 3px; white-space: nowrap; }
-.sev-badge.sv1,.sev-badge.sv2 { background: rgba(255,204,0,0.1); color: var(--accent3); border: 1px solid rgba(255,204,0,0.2); }
-.sev-badge.sv3 { background: rgba(255,107,53,0.1); color: var(--accent2); border: 1px solid rgba(255,107,53,0.2); }
-.sev-badge.sv4,.sev-badge.sv5 { background: rgba(255,51,51,0.1); color: var(--accent); border: 1px solid rgba(255,51,51,0.3); }
-.eng-badge { font-family: var(--mono); font-size: 0.65em; color: var(--muted); }
-.eng-badge.viral { color: var(--accent); font-weight: 700; }
-.eng-badge.high { color: var(--accent2); }
-.eng-badge.medium { color: var(--accent3); }
-.card-link { font-family: var(--mono); font-size: 0.65em; color: var(--muted); text-decoration: none; transition: color 0.2s; }
-.card-link:hover { color: var(--blue); }
-.card-time { font-family: var(--mono); font-size: 0.6em; color: var(--muted); }
-.state-msg { text-align: center; padding: 60px; font-family: var(--mono); font-size: 0.8em; color: var(--muted); letter-spacing: 2px; }
+.card-meta{display:flex;align-items:center;gap:10px;margin-bottom:7px;flex-wrap:wrap}
+.author{font-family:var(--mono);font-size:.85em;color:var(--blue)}
+.ctag{font-family:var(--mono);font-size:.7em;color:#aaaacc;background:var(--surface2);padding:3px 8px;border-radius:3px;letter-spacing:1px;text-transform:uppercase}
+.card-content{font-size:.9em;color:#c8c8dc;line-height:1.65}
 
-@media(max-width:900px){
-  .stats{grid-template-columns:repeat(2,1fr)}
-  .breakdown{grid-template-columns:repeat(2,1fr)}
-  h1{font-size:2em}
-}
+.card-r{text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:7px;min-width:110px}
+.sv-badge{font-family:var(--mono);font-size:.75em;padding:3px 9px;border-radius:3px;white-space:nowrap;font-weight:700}
+.sv-badge.sv1,.sv-badge.sv2{background:rgba(255,204,0,.1);color:var(--accent3);border:1px solid rgba(255,204,0,.2)}
+.sv-badge.sv3{background:rgba(255,107,53,.1);color:var(--accent2);border:1px solid rgba(255,107,53,.2)}
+.sv-badge.sv4,.sv-badge.sv5{background:rgba(255,51,51,.1);color:var(--accent);border:1px solid rgba(255,51,51,.3)}
+
+/* engagement — bigger and colored */
+.eng{font-family:var(--mono);font-size:.75em;font-weight:700;padding:2px 0}
+.eng.low{color:#8888aa}
+.eng.medium{color:var(--accent3)}
+.eng.high{color:var(--accent2)}
+.eng.viral{color:var(--accent)}
+
+.clink{font-family:var(--mono);font-size:.75em;color:#6688bb;text-decoration:none;transition:color .2s;font-weight:600}
+.clink:hover{color:var(--blue)}
+
+/* relative time — bigger */
+.ctime{font-family:var(--mono);font-size:.75em;color:#8888aa}
+
+.state-msg{text-align:center;padding:60px;font-family:var(--mono);font-size:.85em;color:#8888aa;letter-spacing:2px}
+
+@media(max-width:900px){.stats{grid-template-columns:repeat(2,1fr)}.breakdown{grid-template-columns:repeat(2,1fr)}h1{font-size:2em}}
 </style>
 </head>
 <body>
-<div class="container">
+<div class="wrap">
 
-  <div class="header">
+  <!-- HEADER -->
+  <div class="hdr">
     <div>
-      <div class="system-tag">● SİSTEM AKTİF // GERÇEK ZAMANLI</div>
+      <div class="sys-tag">● SİSTEM AKTİF // GERÇEK ZAMANLI</div>
       <h1>İSLAMOFOBİ MONİTÖR</h1>
     </div>
-    <div class="header-right">
+    <div class="hdr-r">
       <div class="live-badge"><div class="live-dot"></div>CANLI</div>
-      <div style="font-family:var(--mono);font-size:0.8em;color:#fff;margin-bottom:4px" id="clock">--:--:--</div>
+      <div style="font-family:var(--mono);font-size:.9em;color:#fff;margin-bottom:2px" id="clock">--:--:--</div>
       <div>Son yenileme: <span id="last-refresh">—</span></div>
       <div>Kaynak: X · Grok AI · GMT+3</div>
     </div>
   </div>
 
+  <!-- STATS -->
   <div class="stats">
-    <div class="stat" id="s0"><div class="stat-label">// 24 SAAT TOPLAM</div><div class="stat-num" id="total">—</div></div>
-    <div class="stat" id="s1"><div class="stat-label">// VİRAL İÇERİK</div><div class="stat-num green" id="viral-count">—</div></div>
-    <div class="stat" id="s2"><div class="stat-label">// YÜKSEK ŞİDDET (4-5)</div><div class="stat-num" id="high-sev">—</div></div>
-    <div class="stat" id="s3"><div class="stat-label">// SON SAAT</div><div class="stat-num yellow" id="last-hour">—</div></div>
+    <div class="stat" id="s0"><div class="stat-lbl">// TOPLAM (SEÇİLİ ARALIK)</div><div class="stat-num" id="total">—</div></div>
+    <div class="stat" id="s1"><div class="stat-lbl">// YÜKSEK ŞİDDET (4-5)</div><div class="stat-num" id="high-sev">—</div></div>
+    <div class="stat" id="s2"><div class="stat-lbl">// EN ÇOK KATEGORİ</div><div class="stat-num b sm" id="top-cat">—</div></div>
+    <div class="stat" id="s3"><div class="stat-lbl">// SON SAAT (GMT+3)</div><div class="stat-num y" id="last-hour">—</div></div>
   </div>
 
+  <!-- TICKER -->
   <div class="ticker" id="ticker-wrap" style="display:none">
     <div class="ticker-inner" id="ticker"></div>
   </div>
 
-  <div class="chart-section">
-    <div class="section-header">
-      <div class="section-title"><span>▶</span> SAATLİK DAĞILIM (GMT+3, SON 24 SAAT)</div>
-      <div style="font-family:var(--mono);font-size:0.65em;color:var(--muted)">Her bar = 1 saat · Hover için detay</div>
+  <!-- CHART -->
+  <div class="chart-box">
+    <div class="sec-hdr">
+      <div class="sec-title"><span>▶</span> <span id="chart-title">SAATLİK DAĞILIM (GMT+3, SON 24 SAAT)</span></div>
+      <div class="range-btns">
+        <button class="rbtn active" onclick="setRange('hourly',this)">SAATLIK</button>
+        <button class="rbtn" onclick="setRange('daily',this)">GÜNLÜK</button>
+        <button class="rbtn" onclick="setRange('weekly',this)">HAFTALIK</button>
+        <button class="rbtn" onclick="setRange('monthly',this)">AYLIK</button>
+        <button class="rbtn" onclick="setRange('yearly',this)">YILLIK</button>
+      </div>
     </div>
     <div class="chart-area" id="chart"><div class="state-msg">YÜKLENİYOR...</div></div>
+    <div class="chart-hint">Her bar = 1 zaman dilimi · Üzerine gelin detay görmek için</div>
   </div>
 
+  <!-- BREAKDOWN -->
   <div class="breakdown" id="breakdown"></div>
 
-  <div class="feed-header">
-    <div class="section-title"><span>▶</span> ALGILANAN İÇERİKLER</div>
+  <!-- FEED -->
+  <div class="feed-hdr">
+    <div class="sec-title"><span>▶</span> ALGILANAN İÇERİKLER</div>
     <div class="sort-btns">
-      <button class="sort-btn active" onclick="setSort('severity',this)">ŞİDDET</button>
-      <button class="sort-btn" onclick="setSort('time',this)">ZAMAN</button>
-      <button class="sort-btn" onclick="setSort('engagement',this)">ETKİLEŞİM</button>
+      <button class="sbtn active" onclick="setSort('severity',this)">ŞİDDET</button>
+      <button class="sbtn" onclick="setSort('time',this)">ZAMAN</button>
     </div>
   </div>
   <div class="feed" id="feed"><div class="state-msg">YÜKLENİYOR...</div></div>
@@ -198,190 +200,277 @@ const REPO   = "adnan-kutay-yuksel/phd-islamofobi-monitor";
 const RAW    = `https://raw.githubusercontent.com/${REPO}/master/`;
 const TZ_OFF = 3;
 
-let allData     = [];
-let hourlyMap   = {};
+let allData      = [];
 let activeFilter = 'all';
-let sortMode    = 'severity';
+let sortMode     = 'severity';
+let rangeMode    = 'hourly';
 
 const CATS = {
-  dehumanization:    { label:'DEHUMANİZASYON',   color:'#ff3333' },
-  threat_narrative:  { label:'TEHDİT ANLATISI',  color:'#ff6b35' },
-  crime_association: { label:'SUÇ İLİŞK.',        color:'#ff8800' },
-  replacement_theory:{ label:'REPLACEMENT',       color:'#cc44ff' },
-  dog_whistle:       { label:'DOG WHISTLE',       color:'#ffcc00' },
-  direct_hatred:     { label:'DOĞRUDAN NEFRET',   color:'#ff0055' },
+  dehumanization:    {label:'DEHUMANİZASYON',  color:'#ff3333'},
+  threat_narrative:  {label:'TEHDİT ANLAT.',    color:'#ff6b35'},
+  crime_association: {label:'SUÇ İLİŞK.',       color:'#ff8800'},
+  replacement_theory:{label:'REPLACEMENT',      color:'#cc44ff'},
+  dog_whistle:       {label:'DOG WHISTLE',      color:'#ffcc00'},
+  direct_hatred:     {label:'DOĞR. NEFRET',     color:'#ff0055'},
 };
-const ENG_ORDER = { viral:4, high:3, medium:2, low:1 };
 
-// Clock
+// ── Relative time ────────────────────────────────────
+function relativeTime(tsStr){
+  // "2026-05-13T08-03-41" → Date
+  if(!tsStr) return '—';
+  const iso=tsStr.replace(/T(\d{2})-(\d{2})-(\d{2})$/,'T$1:$2:$3')+'Z';
+  const diff=Date.now()-new Date(iso).getTime();
+  if(isNaN(diff)) return tsStr;
+  const sec=Math.floor(diff/1000);
+  if(sec<60)  return `${sec} sn önce`;
+  const min=Math.floor(sec/60);
+  if(min<60)  return `${min} dk önce`;
+  const hr=Math.floor(min/60);
+  if(hr<24)   return `${hr} saat önce`;
+  const day=Math.floor(hr/24);
+  if(day<7)   return `${day} gün önce`;
+  const wk=Math.floor(day/7);
+  if(wk<5)    return `${wk} hafta önce`;
+  const mo=Math.floor(day/30);
+  if(mo<12)   return `${mo} ay önce`;
+  return `${Math.floor(day/365)} yıl önce`;
+}
+
+// ── Clock ─────────────────────────────────────────────
 function updateClock(){
-  const d = new Date(Date.now() + TZ_OFF*3600000);
-  const p = n=>String(n).padStart(2,'0');
-  document.getElementById('clock').textContent =
-    `${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())} GMT+3`;
+  const d=new Date(Date.now()+TZ_OFF*3600000);
+  const p=n=>String(n).padStart(2,'0');
+  document.getElementById('clock').textContent=`${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())} GMT+3`;
 }
 setInterval(updateClock,1000); updateClock();
 
+// ── Fetch ──────────────────────────────────────────────
 async function fetchFile(url){
   try{
-    const r = await fetch(url+'?nc='+Date.now());
+    const r=await fetch(url+'?nc='+Date.now());
     if(!r.ok) return null;
     return await r.json();
   }catch{return null;}
 }
 
+// ── Load ───────────────────────────────────────────────
 async function loadData(){
-  const idx = await fetchFile(RAW+'data/index.json');
-  allData=[]; hourlyMap={};
-
-  // init 24 slot
-  const now = new Date(Date.now()+TZ_OFF*3600000);
-  const curH = now.getUTCHours();
-  for(let i=0;i<24;i++){
-    const h = (curH-i+24)%24;
-    hourlyMap[String(h).padStart(2,'0')] = 0;
-  }
-
-  if(idx && Array.isArray(idx)){
-    const files = idx.slice(-48);
-    const fetches = await Promise.allSettled(files.map(f=>fetchFile(RAW+f)));
-    fetches.forEach((r,i)=>{
+  const idx=await fetchFile(RAW+'data/index.json');
+  allData=[];
+  if(idx&&Array.isArray(idx)){
+    const files=idx.slice(-500); // max 500 dosya
+    const fetches=await Promise.allSettled(files.map(f=>fetchFile(RAW+f)));
+    fetches.forEach(r=>{
       if(r.status==='fulfilled'&&r.value?.results){
-        const ts = r.value.timestamp||'';
-        const utcH = parseInt(ts.substring(11,13))||0;
-        const localH = (utcH+TZ_OFF)%24;
-        const key = String(localH).padStart(2,'0');
-        hourlyMap[key] = (hourlyMap[key]||0) + r.value.results.length;
-        allData.push(...r.value.results.map(item=>({...item,_ts:ts,_localH:localH})));
+        const ts=r.value.timestamp||'';
+        allData.push(...r.value.results.map(item=>({...item,_ts:ts})));
       }
     });
   }
-
   updateStats(); renderChart(); renderBreakdown(); renderFeed(); renderTicker();
-
-  const nowLocal = new Date(Date.now()+TZ_OFF*3600000);
+  const nowL=new Date(Date.now()+TZ_OFF*3600000);
   const p=n=>String(n).padStart(2,'0');
-  document.getElementById('last-refresh').textContent = `${p(nowLocal.getUTCHours())}:${p(nowLocal.getUTCMinutes())} GMT+3`;
+  document.getElementById('last-refresh').textContent=`${p(nowL.getUTCHours())}:${p(nowL.getUTCMinutes())} GMT+3`;
 }
 
+// ── Parse ts to ms ─────────────────────────────────────
+function tsToMs(tsStr){
+  if(!tsStr) return 0;
+  const iso=tsStr.replace(/T(\d{2})-(\d{2})-(\d{2})$/,'T$1:$2:$3')+'Z';
+  return new Date(iso).getTime()||0;
+}
+
+// ── Range filter ───────────────────────────────────────
+function getRangeData(){
+  const MS={hourly:24*3600*1000,daily:7*86400*1000,weekly:28*86400*1000,monthly:365*86400*1000,yearly:3*365*86400*1000};
+  const cutoff=Date.now()-(MS[rangeMode]||MS.hourly);
+  return allData.filter(d=>tsToMs(d._ts)>=cutoff);
+}
+
+// ── Stats ──────────────────────────────────────────────
 function updateStats(){
-  document.getElementById('total').textContent       = allData.length;
-  document.getElementById('viral-count').textContent = allData.filter(d=>d.engagement_estimate==='viral').length;
-  document.getElementById('high-sev').textContent    = allData.filter(d=>d.severity>=4).length;
-  const curH = new Date(Date.now()+TZ_OFF*3600000).getUTCHours();
-  document.getElementById('last-hour').textContent   = hourlyMap[String(curH).padStart(2,'0')]??0;
+  const rd=getRangeData();
+  document.getElementById('total').textContent=rd.length;
+  document.getElementById('high-sev').textContent=rd.filter(d=>d.severity>=4).length;
+
+  const cc={};
+  rd.forEach(d=>{cc[d.category]=(cc[d.category]||0)+1;});
+  const top=Object.entries(cc).sort((a,b)=>b[1]-a[1])[0];
+  document.getElementById('top-cat').textContent=top?CATS[top[0]]?.label||top[0]:'—';
+
+  const curH=new Date(Date.now()+TZ_OFF*3600000).getUTCHours();
+  const lastHr=allData.filter(d=>{
+    const ms=tsToMs(d._ts); if(!ms) return false;
+    const lH=((new Date(ms).getUTCHours())+TZ_OFF)%24;
+    return lH===curH && Date.now()-ms<3600000;
+  }).length;
+  document.getElementById('last-hour').textContent=lastHr;
   ['s0','s1','s2','s3'].forEach(id=>document.getElementById(id).classList.add('loaded'));
 }
 
-function renderChart(){
-  const container = document.getElementById('chart');
-  const now = new Date(Date.now()+TZ_OFF*3600000);
-  const curH = now.getUTCHours();
-  const hours=[];
-  for(let i=23;i>=0;i--) hours.push(String((curH-i+24)%24).padStart(2,'0'));
-  const values = hours.map(h=>hourlyMap[h]||0);
-  const maxVal = Math.max(...values,1);
+// ── Chart ──────────────────────────────────────────────
+function setRange(mode,btn){
+  rangeMode=mode;
+  document.querySelectorAll('.rbtn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  updateStats(); renderChart(); renderBreakdown(); renderFeed();
+}
 
-  container.innerHTML = hours.map((h,i)=>{
-    const v = values[i];
-    const heightPct = v===0 ? 0 : Math.max(Math.round((v/maxVal)*96), 6);
-    const isCur = h===String(curH).padStart(2,'0');
-    return `<div class="bar-col ${isCur?'current':''}">
-      <div class="bar-wrap">
-        <div class="bar ${v===0?'empty':''}" style="height:${v===0?3:heightPct}%">
-          ${v>0?`<div class="bar-tooltip">${h}:00 → ${v} içerik</div>`:''}
+function renderChart(){
+  const container=document.getElementById('chart');
+  const titles={
+    hourly:'SAATLİK DAĞILIM (GMT+3, SON 24 SAAT)',
+    daily:'GÜNLÜK DAĞILIM (SON 7 GÜN)',
+    weekly:'HAFTALIK DAĞILIM (SON 4 HAFTA)',
+    monthly:'AYLIK DAĞILIM (SON 12 AY)',
+    yearly:'YILLIK DAĞILIM'
+  };
+  document.getElementById('chart-title').textContent=titles[rangeMode]||'';
+
+  let buckets=[];
+
+  if(rangeMode==='hourly'){
+    const curH=new Date(Date.now()+TZ_OFF*3600000).getUTCHours();
+    for(let i=23;i>=0;i--){
+      const h=(curH-i+24)%24;
+      const count=allData.filter(d=>{
+        const ms=tsToMs(d._ts); if(!ms) return false;
+        const lH=(new Date(ms).getUTCHours()+TZ_OFF)%24;
+        const age=Date.now()-ms;
+        return lH===h && age>=0 && age<(i===0?3600000:((24-i)*3600000+3600000));
+      }).length;
+      // Simpler: bucket by local hour, last 24h
+      const cnt2=allData.filter(d=>{
+        const ms=tsToMs(d._ts); if(!ms) return false;
+        if(Date.now()-ms>24*3600000) return false;
+        return (new Date(ms).getUTCHours()+TZ_OFF)%24===h;
+      }).length;
+      buckets.push({label:String(h).padStart(2,'0')+':00',count:cnt2,isCur:h===curH});
+    }
+  } else if(rangeMode==='daily'){
+    for(let i=6;i>=0;i--){
+      const dayStart=new Date(Date.now()-i*86400000); dayStart.setUTCHours(0,0,0,0);
+      const dayEnd=new Date(dayStart.getTime()+86400000);
+      const count=allData.filter(d=>{const ms=tsToMs(d._ts);return ms>=dayStart&&ms<dayEnd;}).length;
+      const d=new Date(dayStart.getTime()+TZ_OFF*3600000);
+      const lbl=`${String(d.getUTCDate()).padStart(2,'0')}/${String(d.getUTCMonth()+1).padStart(2,'0')}`;
+      buckets.push({label:lbl,count,isCur:i===0});
+    }
+  } else if(rangeMode==='weekly'){
+    for(let i=3;i>=0;i--){
+      const wEnd=new Date(Date.now()-i*7*86400000);
+      const wStart=new Date(wEnd.getTime()-7*86400000);
+      const count=allData.filter(d=>{const ms=tsToMs(d._ts);return ms>=wStart&&ms<wEnd;}).length;
+      buckets.push({label:`H${4-i}`,count,isCur:i===0});
+    }
+  } else if(rangeMode==='monthly'){
+    const now=new Date();
+    for(let i=11;i>=0;i--){
+      const m=new Date(now.getFullYear(),now.getMonth()-i,1);
+      const mEnd=new Date(now.getFullYear(),now.getMonth()-i+1,1);
+      const count=allData.filter(d=>{const ms=tsToMs(d._ts);return ms>=m&&ms<mEnd;}).length;
+      buckets.push({label:`${String(m.getMonth()+1).padStart(2,'0')}/${String(m.getFullYear()).slice(2)}`,count,isCur:i===0});
+    }
+  } else if(rangeMode==='yearly'){
+    const y=new Date().getFullYear();
+    for(let i=2;i>=0;i--){
+      const yr=y-i;
+      const count=allData.filter(d=>d._ts&&d._ts.startsWith(String(yr))).length;
+      buckets.push({label:String(yr),count,isCur:i===0});
+    }
+  }
+
+  const maxVal=Math.max(...buckets.map(b=>b.count),1);
+  container.innerHTML=buckets.map(b=>{
+    const h=b.count===0?0:Math.max(Math.round((b.count/maxVal)*96),6);
+    return `<div class="bc ${b.isCur?'cur':''}">
+      <div class="bw">
+        <div class="bar ${b.count===0?'empty':''}" style="height:${b.count===0?3:h}%">
+          ${b.count>0?`<div class="btt">${b.label} → ${b.count} içerik</div>`:''}
         </div>
       </div>
-      <div class="bar-label">${h}</div>
+      <div class="blbl">${b.label}</div>
     </div>`;
   }).join('');
 }
 
+// ── Breakdown ──────────────────────────────────────────
 function renderBreakdown(){
-  const container = document.getElementById('breakdown');
-  const total = allData.length||1;
-  const entries = Object.entries(CATS).map(([key,meta])=>{
-    const count = allData.filter(d=>d.category===key).length;
-    const pct   = Math.round((count/total)*100);
-    return {key,meta,count,pct};
-  });
-
-  container.innerHTML = entries.map(({key,meta,count,pct})=>`
-    <div class="cat-card ${activeFilter===key?'active':''}" onclick="filterCat('${key}')">
-      <div class="cat-name">${meta.label}</div>
-      <div class="cat-track"><div class="cat-fill" style="width:${pct}%;background:${meta.color}"></div></div>
-      <div class="cat-count">${count} <span class="cat-pct">%${pct}</span></div>
-    </div>`).join('')+
-  `<div class="cat-card ${activeFilter==='all'?'active':''}" onclick="filterCat('all')">
-    <div class="cat-name">TÜMÜ</div>
-    <div class="cat-track"><div class="cat-fill" style="width:100%;background:var(--muted)"></div></div>
-    <div class="cat-count">${allData.length}</div>
-  </div>`;
+  const rd=getRangeData();
+  const total=rd.length||1;
+  document.getElementById('breakdown').innerHTML=
+    Object.entries(CATS).map(([key,meta])=>{
+      const count=rd.filter(d=>d.category===key).length;
+      const pct=Math.round((count/total)*100);
+      return `<div class="cat-card ${activeFilter===key?'active':''}" onclick="filterCat('${key}')">
+        <div class="cname">${meta.label}</div>
+        <div class="ctrack"><div class="cfill" style="width:${pct}%;background:${meta.color}"></div></div>
+        <div class="ccount">${count}<span class="cpct"> %${pct}</span></div>
+      </div>`;
+    }).join('')+
+    `<div class="cat-card ${activeFilter==='all'?'active':''}" onclick="filterCat('all')">
+      <div class="cname">TÜMÜ</div>
+      <div class="ctrack"><div class="cfill" style="width:100%;background:var(--muted)"></div></div>
+      <div class="ccount">${rd.length}</div>
+    </div>`;
 }
 
+// ── Feed ───────────────────────────────────────────────
 function renderFeed(){
-  const container = document.getElementById('feed');
-  let data = activeFilter==='all' ? allData : allData.filter(d=>d.category===activeFilter);
-  if(sortMode==='severity')   data=[...data].sort((a,b)=>(b.severity||0)-(a.severity||0));
-  if(sortMode==='time')       data=[...data].sort((a,b)=>(b._ts||'').localeCompare(a._ts||''));
-  if(sortMode==='engagement') data=[...data].sort((a,b)=>(ENG_ORDER[b.engagement_estimate]||0)-(ENG_ORDER[a.engagement_estimate]||0));
+  const container=document.getElementById('feed');
+  const rd=getRangeData();
+  let data=activeFilter==='all'?rd:rd.filter(d=>d.category===activeFilter);
+  if(sortMode==='severity') data=[...data].sort((a,b)=>(b.severity||0)-(a.severity||0));
+  if(sortMode==='time')     data=[...data].sort((a,b)=>tsToMs(b._ts)-tsToMs(a._ts));
 
   if(!data.length){container.innerHTML='<div class="state-msg">// VERİ BULUNAMADI</div>';return;}
 
-  const p=n=>String(n).padStart(2,'0');
   container.innerHTML=data.map((item,idx)=>{
-    const s = item.severity||1;
-    const ts = item._ts ? (()=>{
-      const h=(parseInt(item._ts.substring(11,13))+TZ_OFF)%24;
-      const m=item._ts.substring(14,16)||'00';
-      return `${p(h)}:${m} GMT+3`;
-    })() : '—';
-    const catLabel = CATS[item.category]?.label || item.category || '?';
-    return `<div class="card" style="animation:fadeIn 0.3s ${idx*0.03}s both">
-      <div class="sev-bar sv${s}"></div>
+    const s=item.severity||1;
+    const catLabel=CATS[item.category]?.label||item.category||'?';
+    const eng=(item.engagement_estimate||'low').toLowerCase();
+    const engLabel=eng==='low'?'DÜŞÜK':eng==='medium'?'ORTA':eng==='high'?'YÜKSEK':'VİRAL';
+    return `<div class="card" style="animation:fi .3s ${idx*.025}s both">
+      <div class="sv-bar sv${s}"></div>
       <div>
         <div class="card-meta">
           <span class="author">${item.author||'?'}</span>
-          <span class="cat-tag">${catLabel}</span>
+          <span class="ctag">${catLabel}</span>
         </div>
         <div class="card-content">${item.content_summary||item.raw||'—'}</div>
       </div>
-      <div class="card-right">
-        <div class="sev-badge sv${s}">ŞİDDET ${s}/5</div>
-        <div class="eng-badge ${item.engagement_estimate||''}">${(item.engagement_estimate||'').toUpperCase()}</div>
-        ${item.url?`<a class="card-link" href="${item.url}" target="_blank">→ GÖRÜNTÜLE</a>`:''}
-        <div class="card-time">${ts}</div>
+      <div class="card-r">
+        <div class="sv-badge sv${s}">ŞİDDET ${s}/5</div>
+        <div class="eng ${eng}">${engLabel}</div>
+        ${item.url?`<a class="clink" href="${item.url}" target="_blank">→ GÖRÜNTÜLE</a>`:''}
+        <div class="ctime">${relativeTime(item._ts)}</div>
       </div>
     </div>`;
   }).join('');
 }
 
+// ── Ticker ─────────────────────────────────────────────
 function renderTicker(){
-  const high = allData.filter(d=>d.severity>=4).slice(0,10);
+  const high=allData.filter(d=>d.severity>=4).slice(0,12);
   if(!high.length){document.getElementById('ticker-wrap').style.display='none';return;}
   const items=[...high,...high];
-  document.getElementById('ticker').innerHTML=items.map(item=>
-    `<span class="ticker-item">⚠ ${item.author} · ${(item.content_summary||'').substring(0,80)}...</span>`
+  document.getElementById('ticker').innerHTML=items.map(i=>
+    `<span class="ticker-item">⚠ ${i.author} · ${(i.content_summary||'').substring(0,80)}...</span>`
   ).join('<span class="ticker-sep">◆</span>');
   document.getElementById('ticker-wrap').style.display='block';
 }
 
-function filterCat(cat){
-  activeFilter=cat;
-  renderBreakdown();
-  renderFeed();
-}
+function filterCat(cat){activeFilter=cat;renderBreakdown();renderFeed();}
 function setSort(mode,btn){
   sortMode=mode;
-  document.querySelectorAll('.sort-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.sbtn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   renderFeed();
 }
 
-// fadeIn keyframe
-const style=document.createElement('style');
-style.textContent='@keyframes fadeIn{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}';
-document.head.appendChild(style);
+const st=document.createElement('style');
+st.textContent='@keyframes fi{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}';
+document.head.appendChild(st);
 
 loadData();
 setInterval(loadData,300000);
