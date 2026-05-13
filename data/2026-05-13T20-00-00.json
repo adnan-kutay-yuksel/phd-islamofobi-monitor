@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-13T20-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/angertab/status/2054665631522308238",
+      "author": "@angertab",
+      "content_summary": "Muslim population surrounding Israel trying to wipe it off the map; calls for deportation of terrorist supporter",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ShadowBriefing_/status/2054665409874276799",
+      "author": "@ShadowBriefing_",
+      "content_summary": "Islam is the religion of rape, incest, and pedophilia; will never let Sharia law take control",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/casperlaurence/status/2054665354547220550",
+      "author": "@casperlaurence",
+      "content_summary": "Muslim women making throat cutting gesture; sarcastically calls it religion of peace",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Nighty_Nitemare/status/2054665318769836246",
+      "author": "@Nighty_Nitemare",
+      "content_summary": "Questions how Muslim grooming gangs are getting along",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VinceMc250541/status/2054665089211400593",
+      "author": "@VinceMc250541",
+      "content_summary": "Hate rape death cult of pedophiles AKA MUSLIMS",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Cruel_Bane_2_EB/status/2054665086438928762",
+      "author": "@Cruel_Bane_2_EB",
+      "content_summary": "Islam caused suffering via terrorism and grooming gangs; adherents owed nothing but expulsion",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
