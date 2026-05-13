@@ -1,62 +1,78 @@
 {
   "timestamp": "2026-05-13T08-00-00",
-  "count": 7,
+  "count": 9,
   "results": [
     {
-      "url": "https://x.com/LizaRosen0000/status/2054472607005540499",
-      "author": "@LizaRosen0000",
-      "content_summary": "Questions why Muslims protest Israel not Hamas, claims this shows the true nature of Islam advancing Hamas agenda in the West.",
-      "category": "threat_narrative",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/Afghan609/status/2054464675090420195",
-      "author": "@Afghan609",
-      "content_summary": "Declares Islam the greatest threat and biggest problem to the West.",
+      "url": "https://x.com/eye95/status/2054365049796362276",
+      "author": "@eye95",
+      "content_summary": "Claims zero peaceful Muslims exist, Islam is an existential threat to Christians, Jews, the Republic and Western culture; calls for kicking out all non-citizen Muslims, revoking citizenship and deporting naturalized Muslims who support terrorism, designating CAIR a terrorist org, stripping mosques of tax-exempt status, and ending the Muslim invasion.",
       "category": "threat_narrative",
       "severity": 5,
-      "engagement_estimate": "medium"
+      "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/tejpeer/status/2054464099766178160",
-      "author": "@tejpeer",
-      "content_summary": "Lists Muslim immigration, prayer halls, and terrorism stats to claim Islam is destroying other faiths.",
+      "url": "https://x.com/Truth_Love_God/status/2054365404781584573",
+      "author": "@Truth_Love_God",
+      "content_summary": "Islam has declared war on the USA; calls to deport them all as they threaten to force Islam on Americans.",
       "category": "threat_narrative",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/_QueenMeabh/status/2054459635273290153",
-      "author": "@_QueenMeabh",
-      "content_summary": "Refers to Muslim immigration as illegal invasion of hordes.",
-      "category": "replacement_theory",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/WykesZeiss/status/2054388139746095421",
-      "author": "@WykesZeiss",
-      "content_summary": "Calls Islam a political ideology of domination and supremacy incompatible with the West, Muhammadeans a threat everywhere.",
-      "category": "threat_narrative",
-      "severity": 5,
-      "engagement_estimate": "medium"
-    },
-    {
-      "url": "https://x.com/Liberty_Axiom/status/2054454688213549095",
-      "author": "@Liberty_Axiom",
-      "content_summary": "Claims Islam is a military operation to conquer Western countries into caliphates and all Muslims should be deported.",
+      "url": "https://x.com/Marcus98324157/status/2054464390003392515",
+      "author": "@Marcus98324157",
+      "content_summary": "Deport all Muslims who refuse to work, integrate, preach hate, or are here illegally.",
       "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/surfingisfun65/status/2054434569206796515",
+      "author": "@surfingisfun65",
+      "content_summary": "Islam is a threat to any democratic nation.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LizaRosen0000/status/2054475659787792442",
+      "author": "@LizaRosen0000",
+      "content_summary": "Islam is not a religion of peace!",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/der_MORTIFER/status/2054474405455986941",
+      "author": "@der_MORTIFER",
+      "content_summary": "Islam is a cancer that needs to be eradicated from the planet.",
+      "category": "dehumanization",
       "severity": 5,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/XtexasgirlX/status/2054384415791251931",
-      "author": "@XtexasgirlX",
-      "content_summary": "Frames a UK Muslim preacher video as proof mass Muslim immigration threatens Western free speech and values.",
+      "url": "https://x.com/ARock80644380/status/2054393992478089390",
+      "author": "@ARock80644380",
+      "content_summary": "Muslims in Britain can call for murder of Jews, subjugation of Britons, Sharia law and forced conversions without consequence while objectors face arrest.",
       "category": "crime_association",
       "severity": 4,
-      "engagement_estimate": "medium"
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RinzoSerra/status/2054475956341874924",
+      "author": "@RinzoSerra",
+      "content_summary": "Accuses someone of protecting Muslim grooming gangs and promoting Islam as the new face of Britain.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GoyimRiseUp/status/2054475859088617865",
+      "author": "@GoyimRiseUp",
+      "content_summary": "Jews are behind the Muslim invasion of the West, referencing historical events.",
+      "category": "replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "low"
     }
   ]
 }
