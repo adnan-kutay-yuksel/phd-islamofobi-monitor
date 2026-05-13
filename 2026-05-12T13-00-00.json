@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-12T13-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/crimestat_fan/status/2053962018315633839",
+      "author": "@crimestat_fan",
+      "content_summary": "98% of sexual grooming gang convictions involve Muslim men. This isn't racism, it's statistics. Face the truth.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/directhate/status/2052447389336520052",
+      "author": "@directhate",
+      "content_summary": "I hate Islam and everything it stands for. It's a barbaric ideology incompatible with human rights.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/crimetruth/status/2054865261184051229",
+      "author": "@crimetruth",
+      "content_summary": "Let's talk about who's behind the knife crime epidemic. Hint: it's not Christians.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/deportnow/status/2052083016836699798",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    }
+  ]
+}

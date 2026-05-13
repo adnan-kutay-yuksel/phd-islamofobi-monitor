@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-12T22-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/hater_anon/status/2054708807002469939",
+      "author": "@hater_anon",
+      "content_summary": "Islam is a cancer that metastasized from the Middle East. Western civilization is the immune system fighting back.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacementfear/status/2052829918372649101",
+      "author": "@replacementfear",
+      "content_summary": "Look at the birth rates. Muslims will outnumber us in 30 years. This is the great replacement happening in real time.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/crimewatcher/status/2051178845668587686",
+      "author": "@crimewatcher",
+      "content_summary": "Another grooming gang arrested. Every single time. When will people wake up to what Islam teaches about non-believers?",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "high"
+    }
+  ]
+}

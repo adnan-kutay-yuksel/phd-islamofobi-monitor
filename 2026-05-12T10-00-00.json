@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-12T10-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/whistleblower/status/2052801589835788492",
+      "author": "@whistleblower",
+      "content_summary": "I'm not racist but why do we keep importing people from cultures incompatible with democracy? Just asking questions.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dogwhistler/status/2052809861788896438",
+      "author": "@dogwhistler",
+      "content_summary": "These people just don't share our values. The religion of peace strikes again. How many more attacks before we act?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/eurofirst88/status/2051786395933488160",
+      "author": "@eurofirst88",
+      "content_summary": "Islam is not a religion, it's a political ideology of conquest. Every mosque is a command center.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/natwatch/status/2052716415513677492",
+      "author": "@natwatch",
+      "content_summary": "Islam has been at war with the West for 1400 years. The migrants are just the latest invasion. History repeats.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/eurofirst/status/2053127333368332734",
+      "author": "@eurofirst",
+      "content_summary": "Muslims breed like rats and then demand we accommodate their medieval death cult. Enough is enough.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    }
+  ]
+}

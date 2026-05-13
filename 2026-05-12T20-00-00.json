@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-12T20-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/deportnow/status/2050831346972895247",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/replacer2024/status/2052492115385853980",
+      "author": "@replacer2024",
+      "content_summary": "Muslim population in France up 40% in a decade. Wake up Europeans. Your children will live under sharia.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/crimestat_fan/status/2052359487441930722",
+      "author": "@crimestat_fan",
+      "content_summary": "98% of sexual grooming gang convictions involve Muslim men. This isn't racism, it's statistics. Face the truth.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/crimetruth/status/2051007668088649382",
+      "author": "@crimetruth",
+      "content_summary": "Let's talk about who's behind the knife crime epidemic. Hint: it's not Christians.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}

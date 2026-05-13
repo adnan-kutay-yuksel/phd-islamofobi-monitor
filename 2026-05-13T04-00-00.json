@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-13T04-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/eurofirst88/status/2050572208169501492",
+      "author": "@eurofirst88",
+      "content_summary": "Islam is not a religion, it's a political ideology of conquest. Every mosque is a command center.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/angrypatriot/status/2054765839455821314",
+      "author": "@angrypatriot",
+      "content_summary": "All Muslims should be deported. I don't care if they were born here. Their loyalty is to sharia not our country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dogwhistler/status/2054836600831901437",
+      "author": "@dogwhistler",
+      "content_summary": "These people just don't share our values. The religion of peace strikes again. How many more attacks before we act?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-12T18-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/islamhater99/status/2050625286526155785",
+      "author": "@islamhater99",
+      "content_summary": "Islam is a disease spreading across Europe, we need to eradicate it before it's too late.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacer2024/status/2054588320612427189",
+      "author": "@replacer2024",
+      "content_summary": "Muslim population in France up 40% in a decade. Wake up Europeans. Your children will live under sharia.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/natwatch/status/2051038905462805552",
+      "author": "@natwatch",
+      "content_summary": "Islam has been at war with the West for 1400 years. The migrants are just the latest invasion. History repeats.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dogwhistler/status/2052391111302248570",
+      "author": "@dogwhistler",
+      "content_summary": "These people just don't share our values. The religion of peace strikes again. How many more attacks before we act?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}

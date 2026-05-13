@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-12T23-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/threatwatch/status/2050514899206236090",
+      "author": "@threatwatch",
+      "content_summary": "Every Muslim who says they're moderate is either lying or doesn't understand their own religion. There are no moderates.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacer2024/status/2054783961574988234",
+      "author": "@replacer2024",
+      "content_summary": "Muslim population in France up 40% in a decade. Wake up Europeans. Your children will live under sharia.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacementfear/status/2054574114231982882",
+      "author": "@replacementfear",
+      "content_summary": "Look at the birth rates. Muslims will outnumber us in 30 years. This is the great replacement happening in real time.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/whistler2/status/2052118530679975660",
+      "author": "@whistler2",
+      "content_summary": "Not all Muslims but enough of them. The silence of the moderates is deafening. They know what their book says.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    }
+  ]
+}

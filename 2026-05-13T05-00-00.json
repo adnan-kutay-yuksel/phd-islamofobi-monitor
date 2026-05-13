@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-13T05-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/hater_anon/status/2052920881349386543",
+      "author": "@hater_anon",
+      "content_summary": "Islam is a cancer that metastasized from the Middle East. Western civilization is the immune system fighting back.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dogwhistler/status/2050289136433014699",
+      "author": "@dogwhistler",
+      "content_summary": "These people just don't share our values. The religion of peace strikes again. How many more attacks before we act?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacefear/status/2050596172675394206",
+      "author": "@replacefear",
+      "content_summary": "In 20 years Paris will be majority Muslim. London already is. This is demographic warfare.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacer2024/status/2053563536509673137",
+      "author": "@replacer2024",
+      "content_summary": "Muslim population in France up 40% in a decade. Wake up Europeans. Your children will live under sharia.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/angrypatriot/status/2052385824881785731",
+      "author": "@angrypatriot",
+      "content_summary": "All Muslims should be deported. I don't care if they were born here. Their loyalty is to sharia not our country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/deportnow/status/2052366567949691496",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/whistleblower/status/2053260573382810775",
+      "author": "@whistleblower",
+      "content_summary": "I'm not racist but why do we keep importing people from cultures incompatible with democracy? Just asking questions.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/crimestat_fan/status/2054445194555510952",
+      "author": "@crimestat_fan",
+      "content_summary": "98% of sexual grooming gang convictions involve Muslim men. This isn't racism, it's statistics. Face the truth.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}

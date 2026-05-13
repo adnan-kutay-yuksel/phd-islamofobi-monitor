@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-12T17-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/eurofirst/status/2051041643434975021",
+      "author": "@eurofirst",
+      "content_summary": "Muslims breed like rats and then demand we accommodate their medieval death cult. Enough is enough.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/whistleblower/status/2050399798124773004",
+      "author": "@whistleblower",
+      "content_summary": "I'm not racist but why do we keep importing people from cultures incompatible with democracy? Just asking questions.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/deportnow/status/2054683021893424867",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    }
+  ]
+}

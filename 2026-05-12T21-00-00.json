@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-12T21-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/threatwatch/status/2054842580235859680",
+      "author": "@threatwatch",
+      "content_summary": "Every Muslim who says they're moderate is either lying or doesn't understand their own religion. There are no moderates.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacefear/status/2051193061449477295",
+      "author": "@replacefear",
+      "content_summary": "In 20 years Paris will be majority Muslim. London already is. This is demographic warfare.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/deportnow/status/2052200319817145027",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/directhate/status/2053946813629536440",
+      "author": "@directhate",
+      "content_summary": "I hate Islam and everything it stands for. It's a barbaric ideology incompatible with human rights.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/natwatch/status/2054764276886273510",
+      "author": "@natwatch",
+      "content_summary": "Islam has been at war with the West for 1400 years. The migrants are just the latest invasion. History repeats.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/replacementfear/status/2051209586821164485",
+      "author": "@replacementfear",
+      "content_summary": "Look at the birth rates. Muslims will outnumber us in 30 years. This is the great replacement happening in real time.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/islamhater99/status/2050964095130220119",
+      "author": "@islamhater99",
+      "content_summary": "Islam is a disease spreading across Europe, we need to eradicate it before it's too late.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/hater_anon/status/2052537832920423641",
+      "author": "@hater_anon",
+      "content_summary": "Islam is a cancer that metastasized from the Middle East. Western civilization is the immune system fighting back.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    }
+  ]
+}

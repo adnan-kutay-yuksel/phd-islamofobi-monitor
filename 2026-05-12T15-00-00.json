@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-12T15-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/crimewatcher/status/2052796009419462208",
+      "author": "@crimewatcher",
+      "content_summary": "Another grooming gang arrested. Every single time. When will people wake up to what Islam teaches about non-believers?",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/threatwatch/status/2050220001742683467",
+      "author": "@threatwatch",
+      "content_summary": "Every Muslim who says they're moderate is either lying or doesn't understand their own religion. There are no moderates.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/deportnow/status/2054279651373628196",
+      "author": "@deportnow",
+      "content_summary": "Ban Islam. Close every mosque. Deport every Muslim. This is the only solution to save Western civilization.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/replacementfear/status/2053732951306479460",
+      "author": "@replacementfear",
+      "content_summary": "Look at the birth rates. Muslims will outnumber us in 30 years. This is the great replacement happening in real time.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "high"
+    }
+  ]
+}

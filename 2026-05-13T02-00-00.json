@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-13T02-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/angrypatriot/status/2053593802338837402",
+      "author": "@angrypatriot",
+      "content_summary": "All Muslims should be deported. I don't care if they were born here. Their loyalty is to sharia not our country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/crimetruth/status/2054066627582679476",
+      "author": "@crimetruth",
+      "content_summary": "Let's talk about who's behind the knife crime epidemic. Hint: it's not Christians.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dogwhistler/status/2050576694813836239",
+      "author": "@dogwhistler",
+      "content_summary": "These people just don't share our values. The religion of peace strikes again. How many more attacks before we act?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/whistler2/status/2054989281350936162",
+      "author": "@whistler2",
+      "content_summary": "Not all Muslims but enough of them. The silence of the moderates is deafening. They know what their book says.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
