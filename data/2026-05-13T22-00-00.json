@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-05-13T22-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/POVtogo/status/2054686545081201116",
+      "author": "@POVtogo",
+      "content_summary": "Islam is responsible for terror, murders, rape & abuse of all females",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RRoberts1958/status/2054686230600618481",
+      "author": "@RRoberts1958",
+      "content_summary": "DEPORT ALL MUSLIMS",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Chickensalt1234/status/2054686157011931263",
+      "author": "@Chickensalt1234",
+      "content_summary": "Sarcastic 'i thought islam was a religion of peace?' in response to Hamas threats to kill non-Muslims",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Freedom57241901/status/2054685303017988564",
+      "author": "@Freedom57241901",
+      "content_summary": "Nigel Farage is late to standing up against Muslim rape gangs",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dowghouse/status/2054684958313312257",
+      "author": "@dowghouse",
+      "content_summary": "Sarcastic 'islam is the religion of peace and love...' about Muslim terrorists hacking pregnant Christian women",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MProboscus/status/2054684737974013954",
+      "author": "@MProboscus",
+      "content_summary": "No mention of the Muslim rape gang inquiry",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/acarchambault21/status/2054683398183207140",
+      "author": "@acarchambault21",
+      "content_summary": "Deport all muslims to prevent turning UK into a 3rd world muslim country",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JohnnyWhiskyTX/status/2054683373478559829",
+      "author": "@JohnnyWhiskyTX",
+      "content_summary": "Islam is a current danger... ban Islam and deport Muslims",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/yamaokami61/status/2054683361524818370",
+      "author": "@yamaokami61",
+      "content_summary": "Stop the invasion... Islam is a hostile totalitarian political ideology... Trojan Horse meant to destroy us",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
