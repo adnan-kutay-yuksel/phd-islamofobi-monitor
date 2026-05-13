@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-13T16-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/PunkinDyer/status/2054598080217919514",
+      "author": "@PunkinDyer",
+      "content_summary": "Refers to 'their Islam Invasion site' linking Muslims to invasion.",
+      "category": "invasion_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ValariY020580/status/2054598066057998845",
+      "author": "@ValariY020580",
+      "content_summary": "Calls Islam a 'cult of darkness, hate and death' using sarcastic 'religion of peace' dog whistle.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Shelia_Kay_/status/2054598004896653633",
+      "author": "@Shelia_Kay_",
+      "content_summary": "Accuses Muslims of running 'rape gangs' and failing to protect women and children.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Mankosmash/status/2054598004313923675",
+      "author": "@Mankosmash",
+      "content_summary": "Frames Muslim migration as 'Great Replacement' of Europe.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SoiPolloi/status/2054597801388970290",
+      "author": "@SoiPolloi",
+      "content_summary": "Describes Muslim migrants as 'military aged death cult member to rape and pillage' and calls Islam a 'FASCIST borg' needing 'RAID'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/deegre/status/2054597680106807396",
+      "author": "@deegre",
+      "content_summary": "Labels Islam a 'sick religion of violence and terrorism'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Rfire221686/status/2054597668652163453",
+      "author": "@Rfire221686",
+      "content_summary": "Calls all Muslims 'worst enemies' who 'kill and rape and pillage' and demands mass deportation.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
