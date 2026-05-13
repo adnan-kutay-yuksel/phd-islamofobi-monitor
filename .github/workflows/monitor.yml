@@ -2,8 +2,8 @@ name: İslamofobi Monitor
 
 on:
   schedule:
-    - cron: '0 */1 * * *'     # Her 6 saatte bir (istediğin gibi değiştir)
-  workflow_dispatch:          # Manuel çalıştırmak için
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   monitor:
@@ -31,5 +31,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add results_*.md
-          git commit -m "Yeni monitor sonuçları eklendi" || echo "No changes"
+          git commit -m "Yeni monitor sonuçları eklendi" || echo "No changes to commit"
           git push
