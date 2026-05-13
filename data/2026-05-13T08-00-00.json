@@ -1,53 +1,61 @@
 {
   "timestamp": "2026-05-13T08-00-00",
-  "count": 6,
+  "count": 7,
   "results": [
     {
-      "url": "https://x.com/DaveSmith169580/status/2054483799816249743",
-      "author": "@DaveSmith169580",
-      "content_summary": "muslim rape gangs u Jew hating nazi cunt",
+      "url": "https://x.com/doniyk25/status/2054485429840220203",
+      "author": "@doniyk25",
+      "content_summary": "Islam is the only religion breeding terrorists, sarcastically calls it 'religion of peace', says Islam is destruction to the planet and against human race survival.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/leftyclowns/status/2054485327637627251",
+      "author": "@leftyclowns",
+      "content_summary": "Accuses voting against inquiry into Muslim rape gangs.",
       "category": "crime_association",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/DanLockett93/status/2054483694706995654",
-      "author": "@DanLockett93",
-      "content_summary": "portrays Islam as a threat to vote for, linking to Green Party",
-      "category": "threat_narrative",
-      "severity": 3,
+      "url": "https://x.com/ToddAM64/status/2054485286818582921",
+      "author": "@ToddAM64",
+      "content_summary": "Claims Democrats invite child rape and murder involving Muslims.",
+      "category": "crime_association",
+      "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/MrBhaukaal/status/2054483642462990797",
-      "author": "@MrBhaukaal",
-      "content_summary": "discusses Islamic terrorists, rape, and sex slavery as atrocities",
+      "url": "https://x.com/FredAnkling/status/2054485231277650296",
+      "author": "@FredAnkling",
+      "content_summary": "Calls for addressing 'Muslim Rape gangs' next.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/shanttd/status/2054484905271140524",
+      "author": "@shanttd",
+      "content_summary": "Claims rapes by Muslim captors are common and not unusual.",
       "category": "crime_association",
       "severity": 3,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/CaptnSlapNTckle/status/2054483539127947764",
-      "author": "@CaptnSlapNTckle",
-      "content_summary": "mongrel muslims raping little boys, linked to Muhammad and Allah",
-      "category": "crime_association",
-      "severity": 5,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/KavsKc1/status/2054483250505015748",
-      "author": "@KavsKc1",
-      "content_summary": "Muslim rape gangs victims",
-      "category": "crime_association",
-      "severity": 3,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/EcklinBernhard/status/2054483161459954011",
-      "author": "@EcklinBernhard",
-      "content_summary": "prevent more Muslim vermin from attacking civilisation",
+      "url": "https://x.com/Susanhangreen/status/2054484897914392633",
+      "author": "@Susanhangreen",
+      "content_summary": "Calls Islam the cancer of the world that had to be destroyed, referencing Crusaders.",
       "category": "dehumanization",
       "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/edwardblake2025/status/2054484880126320881",
+      "author": "@edwardblake2025",
+      "content_summary": "Claims fear of upsetting Muslim rape gangs and extremists.",
+      "category": "crime_association",
+      "severity": 4,
       "engagement_estimate": "low"
     }
   ]
