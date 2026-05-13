@@ -1,5 +1,62 @@
 {
   "timestamp": "2026-05-13T08-00-00",
-  "count": 0,
-  "results": []
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/LizaRosen0000/status/2054472607005540499",
+      "author": "@LizaRosen0000",
+      "content_summary": "Questions why Muslims protest Israel not Hamas, claims this shows the true nature of Islam advancing Hamas agenda in the West.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Afghan609/status/2054464675090420195",
+      "author": "@Afghan609",
+      "content_summary": "Declares Islam the greatest threat and biggest problem to the West.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/tejpeer/status/2054464099766178160",
+      "author": "@tejpeer",
+      "content_summary": "Lists Muslim immigration, prayer halls, and terrorism stats to claim Islam is destroying other faiths.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/_QueenMeabh/status/2054459635273290153",
+      "author": "@_QueenMeabh",
+      "content_summary": "Refers to Muslim immigration as illegal invasion of hordes.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WykesZeiss/status/2054388139746095421",
+      "author": "@WykesZeiss",
+      "content_summary": "Calls Islam a political ideology of domination and supremacy incompatible with the West, Muhammadeans a threat everywhere.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Liberty_Axiom/status/2054454688213549095",
+      "author": "@Liberty_Axiom",
+      "content_summary": "Claims Islam is a military operation to conquer Western countries into caliphates and all Muslims should be deported.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/XtexasgirlX/status/2054384415791251931",
+      "author": "@XtexasgirlX",
+      "content_summary": "Frames a UK Muslim preacher video as proof mass Muslim immigration threatens Western free speech and values.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    }
+  ]
 }
