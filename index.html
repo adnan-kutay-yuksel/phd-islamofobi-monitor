@@ -173,8 +173,6 @@ h1{font-family:var(--display);font-size:3em;letter-spacing:4px;color:#fff;line-h
     <div class="chart-hint">Her bar = 1 zaman dilimi &nbsp;·&nbsp; Üzerine gelin detay görmek için</div>
   </div>
 
-  <!-- BREAKDOWN -->
-  <div class="breakdown" id="breakdown"></div>
 
   <!-- FEED -->
   <div class="feed-hdr">
@@ -264,7 +262,7 @@ async function loadData(){
       }
     });
   }
-  updateStats(); renderChart(); renderBreakdown(); renderFeed(); renderTicker();
+  updateStats(); renderChart(); renderFeed(); renderTicker();
   const nowL=new Date(Date.now()+TZ_OFF*3600000);
   const p=n=>String(n).padStart(2,'0');
   document.getElementById('last-refresh').textContent=`${p(nowL.getUTCHours())}:${p(nowL.getUTCMinutes())} GMT+3`;
@@ -296,7 +294,7 @@ function setRange(mode,btn){
   rangeMode=mode;
   document.querySelectorAll('.rbtn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
-  updateStats(); renderChart(); renderBreakdown(); renderFeed();
+  updateStats(); renderChart(); renderFeed();
 }
 
 function renderChart(){
@@ -374,26 +372,6 @@ function renderChart(){
   }).join('');
 }
 
-// ── Breakdown ──────────────────────────────────────
-function renderBreakdown(){
-  const rd=getRangeData();
-  const total=rd.length||1;
-  document.getElementById('breakdown').innerHTML=
-    Object.entries(CATS).map(([key,meta])=>{
-      const count=rd.filter(d=>d.category===key).length;
-      const pct=Math.round((count/total)*100);
-      return `<div class="cat-card ${activeFilter===key?'active':''}" onclick="filterCat('${key}')">
-        <div class="cname">${meta.label}</div>
-        <div class="ctrack"><div class="cfill" style="width:${pct}%;background:${meta.color}"></div></div>
-        <div class="ccount">${count}<span class="cpct"> %${pct}</span></div>
-      </div>`;
-    }).join('')+
-    `<div class="cat-card ${activeFilter==='all'?'active':''}" onclick="filterCat('all')">
-      <div class="cname">TÜMÜ</div>
-      <div class="ctrack"><div class="cfill" style="width:100%;background:var(--muted)"></div></div>
-      <div class="ccount">${rd.length}</div>
-    </div>`;
-}
 
 // ── Feed ───────────────────────────────────────────
 function renderFeed(){
@@ -439,7 +417,7 @@ function renderTicker(){
   document.getElementById('ticker-wrap').style.display='block';
 }
 
-function filterCat(cat){activeFilter=cat;renderBreakdown();renderFeed();}
+function filterCat(cat){activeFilter=cat;renderFeed();}
 function setSort(mode,btn){
   sortMode=mode;
   document.querySelectorAll('.sbtn').forEach(b=>b.classList.remove('active'));
