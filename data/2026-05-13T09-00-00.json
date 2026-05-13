@@ -1,85 +1,69 @@
 {
   "timestamp": "2026-05-13T09-00-00",
-  "count": 10,
+  "count": 8,
   "results": [
     {
-      "url": "https://x.com/EnglishChaos/status/2054360476931231765",
-      "author": "@EnglishChaos",
-      "content_summary": "endless stream of muslims... hate us... call white women slags, kuffars... blown up concerts, stabbed, raped, murdered, beheaded",
-      "category": "crime_association",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/AnotherVoice42/status/2054402827598831711",
-      "author": "@AnotherVoice42",
-      "content_summary": "Muslims and political Islam will lie, cheat, stab, r#pe, burn, take our land, destroying culture... Stop the invasion",
+      "url": "https://x.com/PasaDonizetti/status/2054501501075099946",
+      "author": "@PasaDonizetti",
+      "content_summary": "Warns of EU filling country with Muslims as modern invasion, referencing medieval invasions and lack of resistance.",
       "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulBiss6/status/2054501496809541766",
+      "author": "@PaulBiss6",
+      "content_summary": "Accuses king of promoting Islam replacement of British people along with rape gangs and other conspiracies.",
+      "category": "replacement_theory",
       "severity": 5,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/vashtiwontdance/status/2054488660007862768",
-      "author": "@vashtiwontdance",
-      "content_summary": "Muslims stopped Raping & murdering us & turning our counties into the misogynist shit holes they come from",
-      "category": "crime_association",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/ballen_50/status/2054375039022047479",
-      "author": "@ballen_50",
-      "content_summary": "Muslims are not here to stay. They will all be deported... Allah is retarded and Muhammad is a child m@lester, r@pist, pedoph!le devil",
-      "category": "direct_hatred",
-      "severity": 5,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/islamsatanicult/status/2054355008036950242",
-      "author": "@islamsatanicult",
-      "content_summary": "Anticrists & muslims havedestroyed London, Birmingham... looks like a muslim middle east third world : EXTREMELY FILTHY & UGLY",
-      "category": "dehumanization",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/Carin55699333/status/2054423718831759523",
-      "author": "@Carolin55699333",
-      "content_summary": "Their the ones doing all the F…ing Little white girls in Uk... Our welfare system... Now the want to run our country",
-      "category": "crime_association",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/KingsGambit_/status/2054500206289301882",
-      "author": "@KingsGambit_",
-      "content_summary": "which country has the worse issue of illegal migration and Muslim rape gangs",
+      "url": "https://x.com/J_onathon/status/2054501470284783697",
+      "author": "@J_onathon",
+      "content_summary": "Criticizes politicians for voting against enquiry into Muslim rape gangs.",
       "category": "crime_association",
       "severity": 3,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/PaulineZePope/status/2054499581941957051",
-      "author": "@PaulineZePope",
-      "content_summary": "Muslims will never be welcome in Christian countries. It's a pedophilic rape and death cult",
-      "category": "dehumanization",
-      "severity": 5,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/mrwilso02442389/status/2054499546156167298",
-      "author": "@mrwilso02442389",
-      "content_summary": "Islam is a lie and a cancer to society",
-      "category": "dehumanization",
+      "url": "https://x.com/TerryConag68166/status/2054501449212575973",
+      "author": "@TerryConag68166",
+      "content_summary": "Blames cover-up of racist Muslim rape gangs for increasing racism in UK.",
+      "category": "crime_association",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/Endtimes2220/status/2054499511515365500",
-      "author": "@Endtimes2220",
-      "content_summary": "The Muslim threat will never be under control... Only 19 of them brought down the Twin Towers. What do you think 10 million can do?",
+      "url": "https://x.com/thePAXWAX/status/2054501432963842167",
+      "author": "@thePAXWAX",
+      "content_summary": "Describes Muslim as Ottoman Supremacist hating Eastern Europeans for stopping Ottoman invasion.",
       "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bsazzled/status/2054501288302260423",
+      "author": "@bsazzled",
+      "content_summary": "Quotes view that Muslims see world differently and are becoming a nation within a nation.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Wi5eM0nkey/status/2054501286456811938",
+      "author": "@Wi5eM0nkey",
+      "content_summary": "Compares Islam to a zombie plague that switches off people's brains.",
+      "category": "dehumanization",
       "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/redorb23/status/2054501202402881580",
+      "author": "@redorb23",
+      "content_summary": "Claims Catholic Church aligns with mass murderers, women-haters, Islamic terrorists.",
+      "category": "direct_hatred",
+      "severity": 4,
       "engagement_estimate": "low"
     }
   ]
