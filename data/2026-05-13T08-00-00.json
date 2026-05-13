@@ -1,61 +1,77 @@
 {
   "timestamp": "2026-05-13T08-00-00",
-  "count": 7,
+  "count": 9,
   "results": [
     {
-      "url": "https://x.com/PollyE2026/status/2054478215217926540",
-      "author": "@PollyE2026",
-      "content_summary": "Calls Muslim religion evil, spouting murder, rape, freeloading; most vile religion with no place in civilized world; tells to take it back to own country.",
-      "category": "crime_association | direct_hatred",
-      "severity": 5,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/DafoePeter/status/2054478205004759413",
-      "author": "@DafoePeter",
-      "content_summary": "Claims only Islam breeds and spreads terrorism.",
-      "category": "threat_narrative | crime_association",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/SIYA9932/status/2054478189536403717",
-      "author": "@SIYA9932",
-      "content_summary": "Accuses Muslim extremists, invaders, grooming gangs, jihadists and Sunni terrorists of most crimes against Dalits including rapes.",
+      "url": "https://x.com/poonany76/status/2054479873276547342",
+      "author": "@poonany76",
+      "content_summary": "Muslims linked to terrorism, misogyny, Sharia, 72 virgins; calls them 'turban phuckers'",
       "category": "crime_association",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/_Ana_UK/status/2054478177351635040",
-      "author": "@_Ana_UK",
-      "content_summary": "References Muslim rape gangs getting away with raping kids.",
+      "url": "https://x.com/Ban_IslamUK/status/2054479667638227015",
+      "author": "@Ban_IslamUK",
+      "content_summary": "Opposing Islam (commands persecution & murder) is not racism; quotes Quran to justify ban",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/amrothdavep/status/2054479483193770162",
+      "author": "@amrothdavep",
+      "content_summary": "Islamism/muslims as greatest threat alongside socialism/globalism; will turn on allies",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SavageOld19174/status/2054479478995263912",
+      "author": "@SavageOld19174",
+      "content_summary": "Islam not peaceful; 3-phase conquest plan (immigration to majority to elimination); stop before too late",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DocWinks/status/2054479411139719481",
+      "author": "@DocWinks",
+      "content_summary": "Pakistani Muslim child-rape apologist",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/johngalt8421/status/2054479269695459779",
+      "author": "@johngalt8421",
+      "content_summary": "Muslims violent to non-Muslims; rape non-Muslim women, marry children, beat wives per Muhammad",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/johngalt8421/status/2054479091361865912",
+      "author": "@johngalt8421",
+      "content_summary": "Sarcastic defense of grooming gangs being Muslim (alcohol/drugs/rape of victims)",
       "category": "crime_association",
       "severity": 3,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/Igotnoideaswhat/status/2054477983641964654",
-      "author": "@Igotnoideaswhat",
-      "content_summary": "Claims Islam's silent invasion overtaking the West.",
-      "category": "replacement_theory | threat_narrative",
-      "severity": 4,
+      "url": "https://x.com/r_agami/status/2054479034348937389",
+      "author": "@r_agami",
+      "content_summary": "Countries >20% Muslim cannot survive Islamic terrorism; 'animals'",
+      "category": "dehumanization",
+      "severity": 5,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/LizaRosen0000/status/2054477832202358788",
-      "author": "@LizaRosen0000",
-      "content_summary": "States Islam is not a religion of peace (with image).",
-      "category": "dog_whistle",
-      "severity": 2,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/RoshSengupta/status/2054477809389875201",
-      "author": "@RoshSengupta",
-      "content_summary": "Declares Islam is a rape cult.",
-      "category": "crime_association",
-      "severity": 4,
+      "url": "https://x.com/yaro_oz/status/2054478865183949295",
+      "author": "@yaro_oz",
+      "content_summary": "Islam is evil cancer destroying the civilized world",
+      "category": "dehumanization",
+      "severity": 5,
       "engagement_estimate": "low"
     }
   ]
