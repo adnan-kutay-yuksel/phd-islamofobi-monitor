@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-13T10-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/MDC020924/status/2054503224418144702",
+      "author": "@MDC020924",
+      "content_summary": "Supports deportation of all Muslim demons from America, calling them demonic.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/_andrearnaud/status/2054503040556626313",
+      "author": "@_andrearnaud",
+      "content_summary": "Ireland has had enough of Hamas terrorist flag waving Islam loving lunatics.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MDC020924/status/2054502458051751949",
+      "author": "@MDC020924",
+      "content_summary": "Muslims are the number one enemy of America, these demons should be deported.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JudyWard35920/status/2054502431015231492",
+      "author": "@JudyWard35920",
+      "content_summary": "The ideology of Islam is the greatest threat to their nations.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
