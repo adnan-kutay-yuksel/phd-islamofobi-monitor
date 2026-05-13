@@ -89,13 +89,14 @@ def main():
             index = json.load(f)
     except:
         index = []
-    
-    # Yeni dosyayı ekle
-    index.append(filename)
-    index = index[-168:]  # Son 168 saat (1 hafta) tut
-    
+
+    # Duplicate ekleme — zaten varsa ekleme
+    if filename not in index:
+        index.append(filename)
+    index = sorted(set(index))[-168:]  # dedupe + sırala + son 168
+
     with open(index_file, "w", encoding="utf-8") as f:
-        json.dump(index, f)
+        json.dump(index, f, indent=2)
 
 if __name__ == "__main__":
     main()
