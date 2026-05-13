@@ -1,77 +1,61 @@
 {
   "timestamp": "2026-05-13T08-00-00",
-  "count": 9,
+  "count": 7,
   "results": [
     {
-      "url": "https://x.com/eye95/status/2054365049796362276",
-      "author": "@eye95",
-      "content_summary": "Claims zero peaceful Muslims exist, Islam is an existential threat to Christians, Jews, the Republic and Western culture; calls for kicking out all non-citizen Muslims, revoking citizenship and deporting naturalized Muslims who support terrorism, designating CAIR a terrorist org, stripping mosques of tax-exempt status, and ending the Muslim invasion.",
-      "category": "threat_narrative",
+      "url": "https://x.com/PollyE2026/status/2054478215217926540",
+      "author": "@PollyE2026",
+      "content_summary": "Calls Muslim religion evil, spouting murder, rape, freeloading; most vile religion with no place in civilized world; tells to take it back to own country.",
+      "category": "crime_association | direct_hatred",
       "severity": 5,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/Truth_Love_God/status/2054365404781584573",
-      "author": "@Truth_Love_God",
-      "content_summary": "Islam has declared war on the USA; calls to deport them all as they threaten to force Islam on Americans.",
-      "category": "threat_narrative",
+      "url": "https://x.com/DafoePeter/status/2054478205004759413",
+      "author": "@DafoePeter",
+      "content_summary": "Claims only Islam breeds and spreads terrorism.",
+      "category": "threat_narrative | crime_association",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/Marcus98324157/status/2054464390003392515",
-      "author": "@Marcus98324157",
-      "content_summary": "Deport all Muslims who refuse to work, integrate, preach hate, or are here illegally.",
-      "category": "direct_hatred",
+      "url": "https://x.com/SIYA9932/status/2054478189536403717",
+      "author": "@SIYA9932",
+      "content_summary": "Accuses Muslim extremists, invaders, grooming gangs, jihadists and Sunni terrorists of most crimes against Dalits including rapes.",
+      "category": "crime_association",
       "severity": 4,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/surfingisfun65/status/2054434569206796515",
-      "author": "@surfingisfun65",
-      "content_summary": "Islam is a threat to any democratic nation.",
-      "category": "threat_narrative",
+      "url": "https://x.com/_Ana_UK/status/2054478177351635040",
+      "author": "@_Ana_UK",
+      "content_summary": "References Muslim rape gangs getting away with raping kids.",
+      "category": "crime_association",
       "severity": 3,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/LizaRosen0000/status/2054475659787792442",
+      "url": "https://x.com/Igotnoideaswhat/status/2054477983641964654",
+      "author": "@Igotnoideaswhat",
+      "content_summary": "Claims Islam's silent invasion overtaking the West.",
+      "category": "replacement_theory | threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LizaRosen0000/status/2054477832202358788",
       "author": "@LizaRosen0000",
-      "content_summary": "Islam is not a religion of peace!",
+      "content_summary": "States Islam is not a religion of peace (with image).",
       "category": "dog_whistle",
-      "severity": 3,
+      "severity": 2,
       "engagement_estimate": "low"
     },
     {
-      "url": "https://x.com/der_MORTIFER/status/2054474405455986941",
-      "author": "@der_MORTIFER",
-      "content_summary": "Islam is a cancer that needs to be eradicated from the planet.",
-      "category": "dehumanization",
-      "severity": 5,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/ARock80644380/status/2054393992478089390",
-      "author": "@ARock80644380",
-      "content_summary": "Muslims in Britain can call for murder of Jews, subjugation of Britons, Sharia law and forced conversions without consequence while objectors face arrest.",
+      "url": "https://x.com/RoshSengupta/status/2054477809389875201",
+      "author": "@RoshSengupta",
+      "content_summary": "Declares Islam is a rape cult.",
       "category": "crime_association",
       "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/RinzoSerra/status/2054475956341874924",
-      "author": "@RinzoSerra",
-      "content_summary": "Accuses someone of protecting Muslim grooming gangs and promoting Islam as the new face of Britain.",
-      "category": "crime_association",
-      "severity": 4,
-      "engagement_estimate": "low"
-    },
-    {
-      "url": "https://x.com/GoyimRiseUp/status/2054475859088617865",
-      "author": "@GoyimRiseUp",
-      "content_summary": "Jews are behind the Muslim invasion of the West, referencing historical events.",
-      "category": "replacement_theory",
-      "severity": 3,
       "engagement_estimate": "low"
     }
   ]
