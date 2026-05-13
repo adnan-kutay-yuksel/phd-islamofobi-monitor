@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# İzinleri açıkça veriyoruz (en önemli düzeltme)
+permissions:
+  contents: write
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
@@ -12,6 +16,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Bu satırı ekle
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,10 +32,15 @@ jobs:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
         run: python monitor.py
 
-      - name: Commit results
+      - name: Commit and push results (if any)
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add results_*.md
-          git commit -m "Yeni monitor sonuçları eklendi" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add results_*.md
+            git commit -m "Yeni İslamofobi monitor sonuçları eklendi ($(date))"
+            git push
+          fi
