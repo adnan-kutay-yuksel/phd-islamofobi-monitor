@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-14T21-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/regvoter/status/2055031017694523461",
+      "author": "@regvoter",
+      "content_summary": "Buh bye Massie. Sorry Glenn but your anti-Israel movement is going to lose. Too bad you aren’t so concerned about the invasion of Islam in America.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SnarkySiberian/status/2055029539525243246",
+      "author": "@SnarkySiberian",
+      "content_summary": "Islam is the consequence. Rat infestation is the actual problem.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Traveler073721/status/2055029458004811968",
+      "author": "@Traveler073721",
+      "content_summary": "Muslim culture is to rape",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JR98726272/status/2055027498396582108",
+      "author": "@JR98726272",
+      "content_summary": "The islam rape gangs are definitely here now. Thanks Carney.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Shackviral/status/2055027002466287944",
+      "author": "@Shackviral",
+      "content_summary": "why does @Keir_Starmer support Muslim immigrants who kill and rape children",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/georgyporgy007/status/2054844512162169134",
+      "author": "@georgyporgy007",
+      "content_summary": "islam & sharia laws are existential threat to our civilization... a DEATH-CULT",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
