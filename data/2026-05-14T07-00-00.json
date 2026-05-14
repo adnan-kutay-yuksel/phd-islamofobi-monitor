@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-14T07-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/pattistanger/status/2054829070723227984",
+      "author": "@pattistanger",
+      "content_summary": "Claims Mohamed encourages Muslims to rape so victims don't get to heaven, calls Islam a Pedo Cult",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Denkverbot_/status/2054828901944496569",
+      "author": "@Denkverbot_",
+      "content_summary": "Calls for 100% deportation of all Muslims",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RoGGaNNB75/status/2054828308592787638",
+      "author": "@RoGGaNNB75",
+      "content_summary": "Associates Muslims with turning France into city of rape and crime",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/truckertoll/status/2054827433636036901",
+      "author": "@truckertoll",
+      "content_summary": "Labels Islam evil in response to crimes by Islamists",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TessHope3/status/2054826890242719845",
+      "author": "@TessHope3",
+      "content_summary": "Accuses Muslim sect of rape/slavery and generalizes to founder Muhammad",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
