@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-14T23-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/MOOLAMAN/status/2055060544936202539",
+      "author": "@MOOLAMAN",
+      "content_summary": "Throw Muslims out now as they plan to take over the country with more senators; these people are predators not fit for society.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RickMorty232332/status/2055060530268721303",
+      "author": "@RickMorty232332",
+      "content_summary": "Stop the invasion of Africans and Islam.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/roja2929/status/2055060461222035464",
+      "author": "@roja2929",
+      "content_summary": "Deport Muslims, don't allow them in top positions, stop their birth rate at 2 in USA.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/1motherwolfx2/status/2055060342234120256",
+      "author": "@1motherwolfx2",
+      "content_summary": "Muslims have been getting away with abuse, violence, sex trafficking for 1600 years; women support terrorism.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/larsenphil34922/status/2055060330661777505",
+      "author": "@larsenphil34922",
+      "content_summary": "Islam is the definition of terrorism and doesn't belong in America as it will destroy everything.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
