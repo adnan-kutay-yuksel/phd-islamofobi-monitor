@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-14T19-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/Itsahoax123/status/2055013585533935967",
+      "author": "@Itsahoax123",
+      "content_summary": "Mocks claim Melbourne is safe, implies African Muslims responsible for machete attacks and home invasions",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CaptainZensible/status/2055013551434277074",
+      "author": "@CaptainZensible",
+      "content_summary": "Declares Islam is a threat to modern democratic republics that must be recognized as such",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/nznlvr/status/2055013520727781698",
+      "author": "@nznlvr",
+      "content_summary": "Calls for all Muslims to be exterminated, claims they only rape, murder, and live off welfare while turning countries into shitholes",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Jagax420/status/2055013514738061324",
+      "author": "@Jagax420",
+      "content_summary": "Demands immediate deportation of all Muslims, Somalis, and illegal invaders from USA; states Islam is not welcome",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DecafSue/status/2055013250366837205",
+      "author": "@DecafSue",
+      "content_summary": "Cites stats on 66k+ Islamic attacks and grooming gangs to argue against multiculturalism and Muslim population growth",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
