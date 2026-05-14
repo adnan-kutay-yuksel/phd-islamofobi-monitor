@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-14T04-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/Afghan609/status/2054780672917504081",
+      "author": "@Afghan609",
+      "content_summary": "Islam is the greatest threat and the biggest problem to America",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SaeidredStorm/status/2054776399177629920",
+      "author": "@SaeidredStorm",
+      "content_summary": "plague called Islam",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Afghan609/status/2054770924482617475",
+      "author": "@Afghan609",
+      "content_summary": "All followers of Muhammad are pedophiles... This is Islam",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/larsenphil34922/status/2054769356676927794",
+      "author": "@larsenphil34922",
+      "content_summary": "Islam is a plague... dangerous to all of humanity",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/smscott42011/status/2054768955856687401",
+      "author": "@smscott42011",
+      "content_summary": "Islam terrorist... want to rape them or kill them",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ShalomAdaniISR/status/2054768323066200565",
+      "author": "@ShalomAdaniISR",
+      "content_summary": "ISLAM IS EVIL. THE CANCER OF THE WORLD",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Relaxin60/status/2054767987102527854",
+      "author": "@Relaxin60",
+      "content_summary": "Islam is cancer",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
