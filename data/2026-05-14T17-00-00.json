@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-14T17-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Peterparkef7dw/status/2054983411366830451",
+      "author": "@Peterparkef7dw",
+      "content_summary": "Zionism and Islam are cancer",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RondoUSA/status/2054983746177429820",
+      "author": "@RondoUSA",
+      "content_summary": "Calls Muslims Islamic terrorists who invaded America and must be deported",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CvBoul1/status/2054983712262250715",
+      "author": "@CvBoul1",
+      "content_summary": "Calls to deport Muslims extremists, end invasion, stop grooming and SA of children by them, protect from threat",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/kbb2050/status/2054983805270974883",
+      "author": "@kbb2050",
+      "content_summary": "Claims Muslims are worse, Mohammad was pedophile and rapist, associates Islam with rape and inbreeding",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheSecretAgron1/status/2054983423240917111",
+      "author": "@TheSecretAgron1",
+      "content_summary": "References Muslim rape gangs",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulBiss6/status/2054983369482555796",
+      "author": "@PaulBiss6",
+      "content_summary": "Mentions Muslim rape gangs, cousin marriage, honor killing, generalizing to Islam",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
