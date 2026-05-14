@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-05-14T00-00-00",
+  "count": 2,
+  "results": [
+    {
+      "url": "https://x.com/Brookltnwilliw/status/2054713524551835834",
+      "author": "@Brookltnwilliw",
+      "content_summary": "Disgusted by Muslim terror protest in NYC; calls to deport non-Americans involved, revoke citizenship for frauds, stop foreign invader invasion, and fight Muslim terror daily",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/car88499367/status/2054713413843013713",
+      "author": "@car88499367",
+      "content_summary": "Accuses Sadiq Khan of ignoring Muslim rape gangs in London while claiming credit for pollution improvements",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
