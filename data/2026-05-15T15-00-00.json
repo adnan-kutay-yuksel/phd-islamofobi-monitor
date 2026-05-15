@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-15T15-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/avi19811981/status/2055307569145503968",
+      "author": "@avi19811981",
+      "content_summary": "Accuses Muslims collectively of stabbing, shooting, terrorizing Jews and raping little white girls, while criticizing anyone who speaks against it.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ThomasJayColby/status/2055307457249915298",
+      "author": "@ThomasJayColby",
+      "content_summary": "Calls Muslims 'slime ball rape pedophiles' who deserve to be isolated from decent society.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/INftking/status/2055307455056220643",
+      "author": "@INftking",
+      "content_summary": "Highlights Pakistani Muslim rape gangs that have raped over 250,000 young British girls and criticizes the PM for not dealing with them harshly.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Mike___Kilo/status/2055307448114725119",
+      "author": "@Mike___Kilo",
+      "content_summary": "Claims Muslim men view women as disposable, can throw them into cages and burn them alive, contrasting with Western culture.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Bishop_Beesley/status/2055307264265707874",
+      "author": "@Bishop_Beesley",
+      "content_summary": "References Muslim rape gangs protected by Labour politicians and calls for an enquiry.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/USPatriotWoman/status/2055307402279362950",
+      "author": "@USPatriotWoman",
+      "content_summary": "Quotes a post about Muslims needing to go and adds 'Islam is a cancer...Ban it from America NOW!'",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/IndianSupe16454/status/2055307214156668956",
+      "author": "@IndianSupe16454",
+      "content_summary": "Refers to Islam as 'the religion of terrorism'.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
