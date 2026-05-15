@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-15T10-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/Jamie_LEC/status/2055231432943903021",
+      "author": "@Jamie_LEC",
+      "content_summary": "Accuses of protecting Muslim rapist grooming gangs",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulBiss6/status/2055227803277177059",
+      "author": "@PaulBiss6",
+      "content_summary": "Lists Islamic replacement as policy undermining British people",
+      "category": "replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/justreally23/status/2055227802027176336",
+      "author": "@justreally23",
+      "content_summary": "Calls plague on Islam and says neither Islam nor Judaism are friends",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LydiaChamberlan/status/2055107666817474668",
+      "author": "@LydiaChamberlan",
+      "content_summary": "Demands instant deportation for any anti-Americanism from Muslims, no welfare or mosques",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/lithologuy/status/2055205882242211852",
+      "author": "@lithologuy",
+      "content_summary": "Calls to DEPORT after claiming someone scaremongers that Islam will win",
+      "category": "direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Tia1956Tia/status/2055170142020264127",
+      "author": "@Tia1956Tia",
+      "content_summary": "Demands executive order designating Islam as terrorist ideology and deporting Muslims",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DoIt1745/status/2055096155017519225",
+      "author": "@DoIt1745",
+      "content_summary": "Calls to ban Islam and deport incompatible 3rd worlders",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
