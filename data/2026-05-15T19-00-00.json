@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-15T19-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/MarinasHammer/status/2055366940974006750",
+      "author": "@MarinasHammer",
+      "content_summary": "Salt Lake City, Utah - Muslim invasion - Costco edition. Photos of Muslims in a store presented as an invasion.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/AmIsraelChaiX18/status/2055366265137475902",
+      "author": "@AmIsraelChaiX18",
+      "content_summary": "Life sentence for Egyptian terrorist (muslim) who attacked Jews, framing it as Muslim terrorism.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MolenBarba62710/status/2055357345925108222",
+      "author": "@MolenBarba62710",
+      "content_summary": "Not a religion it’s a terrorist cult! Ban Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Karol79958/status/2055352721343918507",
+      "author": "@Karol79958",
+      "content_summary": "Historical account of mass rape by Saladin’s Muslim soldiers, associating Muslims with rape.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Just_Jamie_USA/status/2055351185402363990",
+      "author": "@Just_Jamie_USA",
+      "content_summary": "Accusing a senator of pushing the Islam invasion and amnesty.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
