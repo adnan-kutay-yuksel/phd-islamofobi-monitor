@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-15T00-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/fyke98748/status/2055077142413590878",
+      "author": "@fyke98748",
+      "content_summary": "Claims Democrats embrace socialism and Muslim invasion.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheDumbCabbie/status/2055076947462361282",
+      "author": "@TheDumbCabbie",
+      "content_summary": "Accuses Biden of allowing Muslims to pour over the border.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Makerel_Sky/status/2055076908006551986",
+      "author": "@Makerel_Sky",
+      "content_summary": "Accuses Pakistani muslim gangs of industrial scale rape of white girls.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sailtrek57/status/2055076878768283791",
+      "author": "@sailtrek57",
+      "content_summary": "Calls Muslims dogs and their religion demonic fake religion of rape and murder.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CopCarpetMunch/status/2055076838498812118",
+      "author": "@CopCarpetMunch",
+      "content_summary": "Mentions blacks and muslims taking money, and migration rape numbers.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LDHITE22/status/2055076435111416308",
+      "author": "@LDHITE22",
+      "content_summary": "Expresses worry about Muslim invasion.",
+      "category": "threat_narrative",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
