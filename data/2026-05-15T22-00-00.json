@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-15T22-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/Laura43Riddle/status/2055422207770173563",
+      "author": "@Laura43Riddle",
+      "content_summary": "Mentions 'the threat of Islam in the US' alongside everyday concerns like gas prices and taxes.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pratjoey/status/2055422162807492658",
+      "author": "@pratjoey",
+      "content_summary": "Describes Muslim men praying near a Jewish school as noticing America's weakness, implying a cultural threat.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/alotdogs1234/status/2055420910715469877",
+      "author": "@alotdogs1234",
+      "content_summary": "Claims the US is 'funding Islam to come here' in context of invasions and illegals.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DavidandersonJd/status/2055415065696751947",
+      "author": "@DavidandersonJd",
+      "content_summary": "States Oct 7 is educating people on 'the threat of Islam' better than 9/11.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/m19481945/status/2055414430507119064",
+      "author": "@m19481945",
+      "content_summary": "Says 'Islam is no longer a religion of peace' with radicals running the show, in response to Muslim mayor comments.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LanaMiersen/status/2055413931250741507",
+      "author": "@LanaMiersen",
+      "content_summary": "Declares 'Islam is a cancer on the world' after quoting an incident with Muslim girls.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/nonjihadioc/status/2055413574231613454",
+      "author": "@nonjihadioc",
+      "content_summary": "Links 'Pakistan pedo grooming gangs' and 'Muslim decent' migrants to raping children.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
