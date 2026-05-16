@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-16T13-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/FVzpon24623/status/2055644100448166362",
+      "author": "@FVzpon24623",
+      "content_summary": "Refers to 'us illegal muslim invasion'",
+      "category": "invasion",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gus71v/status/2055644025521107377",
+      "author": "@gus71v",
+      "content_summary": "Lists alleged Muslim-linked attacks, watchlists, and chants then sarcastically calls Islam 'religion of peace'",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Finallydiditonx/status/2055643996500709714",
+      "author": "@Finallydiditonx",
+      "content_summary": "Claims all Muslims teach Jihad to kids making them a threat to the world",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Neilsweeney26/status/2055643976770683372",
+      "author": "@Neilsweeney26",
+      "content_summary": "Calls Islam incompatible with modern nations, leading to war and inbreeding, references medieval period",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ZekeUpTheCreek/status/2055643958777119066",
+      "author": "@ZekeUpTheCreek",
+      "content_summary": "Describes Islam as pedophilic death cult that spreads like cancer through forced child marriage",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Melimore098/status/2055643779843920192",
+      "author": "@Melimore098",
+      "content_summary": "Warns of Muslim invasion forcing Westerners to conform to Islamist rules, including in USA",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ZionistCatholic/status/2055643512805392863",
+      "author": "@ZionistCatholic",
+      "content_summary": "Accuses Muslims of grooming gangs targeting children",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DonaldB50251566/status/2055643391552025010",
+      "author": "@DonaldB50251566",
+      "content_summary": "Calls for mass deportation of all Islamists converting America to Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
