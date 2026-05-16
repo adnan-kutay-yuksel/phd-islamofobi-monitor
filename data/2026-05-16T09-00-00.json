@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-16T09-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/IAmFantaesia/status/2055452661881954691",
+      "author": "@IAmFantaesia",
+      "content_summary": "Calls to close mosques teaching hatred; describes Islam as a violent 7th century ideology that colonized England and whose followers often don't speak English.",
+      "category": "dog_whistle | direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/nickthfchall/status/2055564281647665525",
+      "author": "@nickthfchall",
+      "content_summary": "Calls a Muslim account's pro-Muslim anti-Jewish posts 'disgusting people' who shouldn't be in our country.",
+      "category": "direct_hatred | dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AgentM66/status/2055572453624090971",
+      "author": "@AgentM66",
+      "content_summary": "Claims to hate only the religion (not Muslims) as a Draconian 6th century warlord ideology calling for slaughter of non-believers, slavery, child marriage; doesn't want it in the country.",
+      "category": "dog_whistle | direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Gerrard_Era/status/2055506312235274587",
+      "author": "@Gerrard_Era",
+      "content_summary": "Claims every civilized country hates Muslims/Islam because it promotes kafir killings and oppressing women.",
+      "category": "threat_narrative | crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Richy_onX/status/2055552871412756535",
+      "author": "@Richy_onX",
+      "content_summary": "Openly expresses hatred of Islam as a 'dog shit ideology'; tells Muslims who don't like it in this Christian country to 'fuck off'.",
+      "category": "direct_hatred | dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
