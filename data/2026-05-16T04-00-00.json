@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T04-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/slyv19/status/2055498991899414773",
+      "author": "@slyv19",
+      "content_summary": "Accuses migrants/Muslims of running grooming gangs that rape young girls and boys daily, protecting Muslim rapists, and using Islamophobia as an excuse to destroy diversity.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/rory_wings4u/status/2055493180938768837",
+      "author": "@rory_wings4u",
+      "content_summary": "Cites AI claiming credible threat from orthodox Islam in America via demographic growth, doctrinal incompatibility, terrorism risks, and radicalization, warning against ignoring European patterns.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/rory_wings4u/status/2055492353935499621",
+      "author": "@rory_wings4u",
+      "content_summary": "States Islam poses emerging long-term challenges in the US through demographic growth, supremacist attitudes, terrorism risks, and cultural incompatibilities with Jews, free speech, and Sharia.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WinterEracer/status/2055492283575980373",
+      "author": "@WinterEracer",
+      "content_summary": "Claims Muslims are infiltrating tribes, notifying Cherokee Nation of the threat and urging education about it.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DarthTokie/status/2055448223846977650",
+      "author": "@DarthTokie",
+      "content_summary": "Calls to ban all Third World immigration, denaturalize/deport Muslims back to 'inbred, backwards, retarded, feral, savage' countries; labels them animals who condone rape/murder, dismisses Islamophobia as fake.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Chris_Tina_99/status/2055503043857178873",
+      "author": "@Chris_Tina_99",
+      "content_summary": "Warns it may be too late for Europeans to reverse fatal conditions from invasion/Islam by voting carefully to restore normal states.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
