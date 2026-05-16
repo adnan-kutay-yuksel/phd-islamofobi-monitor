@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-16T11-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/V0NUM/status/2055605286543544410",
+      "author": "@V0NUM",
+      "content_summary": "Muslim on Muslim crime",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BonEsterel/status/2055605286040174913",
+      "author": "@BonEsterel",
+      "content_summary": "Deport all Muslims and Islamists to prevent civil war in Britain",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ZafferNZ/status/2055605257636544789",
+      "author": "@ZafferNZ",
+      "content_summary": "Why would you believe Muslim vermin?",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LadyBookworm117/status/2055605048038633472",
+      "author": "@LadyBookworm117",
+      "content_summary": "Islam condones rape and murder with approved stoning methodology",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dc8755474937278/status/2055605004082290895",
+      "author": "@dc8755474937278",
+      "content_summary": "Islam is a cancer and should be treated as such",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ric39746/status/2055604971530256421",
+      "author": "@ric39746",
+      "content_summary": "Deport all Muslims from the UK!",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/samsara_1970/status/2055604955013173662",
+      "author": "@samsara_1970",
+      "content_summary": "Muslim men are dangerous animals, SA's and PDF's",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/racismiscancer/status/2055604868472061980",
+      "author": "@racismiscancer",
+      "content_summary": "Muslims breed like cockroaches, infect communities, cannot assimilate",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BlessedAme87202/status/2055604825270690106",
+      "author": "@BlessedAme87202",
+      "content_summary": "Fuck Islam, it will be a crime",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BirkesDarr446/status/2055604807889490071",
+      "author": "@BirkesDarr446",
+      "content_summary": "Muslim men will rape and torture Britain girls, worse than Nazis",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
