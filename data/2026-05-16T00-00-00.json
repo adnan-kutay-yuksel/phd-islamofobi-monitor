@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-05-16T00-00-00",
+  "count": 2,
+  "results": [
+    {
+      "url": "https://x.com/gone_rjt/status/2055438122687807763",
+      "author": "@gone_rjt",
+      "content_summary": "Islam is Cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/h5x22/status/2055438104283021495",
+      "author": "@h5x22",
+      "content_summary": "Calls Islam a disease, claims all Muslims believe in terrorism, associates it with CAIR and terror, calls for deporting all terrorists/Muslims as they do not belong in America",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
