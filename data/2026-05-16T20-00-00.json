@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-16T20-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/CMoTWSF/status/2055753569798611372",
+      "author": "@CMoTWSF",
+      "content_summary": "Calls to stop 'Islamic invasion' by Muslim Brotherhood, labeling it a global barbaric terrorist organization posing as religion.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SwordOfSociety/status/2055753567244288474",
+      "author": "@SwordOfSociety",
+      "content_summary": "Demands mass deportation of 'African/Middle Eastern Islamist' vermin, saying Islam has no place in Catholic countries.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NamkuzuNiggina/status/2055753559711322455",
+      "author": "@NamkuzuNiggina",
+      "content_summary": "Claims Islam/Muslims are existential threat to Western Christian civilization, calling for ban on Muslims holding office and deportation of all Islam/Muslims/mosques.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/philo_alan/status/2055753523669729720",
+      "author": "@philo_alan",
+      "content_summary": "States patriotic Brits are united against Islam, claiming medieval dress will soon be illegal.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WRobynLeigh/status/2055753519777403195",
+      "author": "@WRobynLeigh",
+      "content_summary": "Associates 2 billion Muslims with terrorism in context of exchanging one form of terrorism for another.",
+      "category": "crime_association",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AshForager62192/status/2055753494355644478",
+      "author": "@AshForager62192",
+      "content_summary": "Calls Islam a cancer that must be removed from society.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulChr88891118/status/2055753424696700942",
+      "author": "@PaulChr88891118",
+      "content_summary": "States Islam is cancer with cure being the 2nd amendment (guns).",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
