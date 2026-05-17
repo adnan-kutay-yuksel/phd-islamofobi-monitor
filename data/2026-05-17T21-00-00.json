@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-17T21-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/MischenJadaril/status/2055838356043419667",
+      "author": "@MischenJadaril",
+      "content_summary": "Calls for deporting 'Mohammedeans' and their kind to prevent being shot, stabbed, raped, run over, blown up, etc., framing it as resistance not phobia.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/1percentacrylic/status/2056033159519637748",
+      "author": "@1percentacrylic",
+      "content_summary": "Lists bombings, beheadings, murders, rape, grooming gangs, paedophilia as all linked to Islam, rejecting any distinction.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CKH50206301/status/2056076961898762560",
+      "author": "@CKH50206301",
+      "content_summary": "Says remove Islam itself via deportation as it causes Islamophobia and has started civil wars; Islam is the problem.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/StephenStr89485/status/2055807297465856346",
+      "author": "@StephenStr89485",
+      "content_summary": "Deport them or expect assault, rape, running over non-Muslims; Islamic doctrine aims to exterminate non-Muslims since 7th century.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WykesZeiss/status/2055860236775268675",
+      "author": "@WykesZeiss",
+      "content_summary": "Muhammadeans are a threat everywhere; Islam is incompatible with Western Civilization, a political ideology for domination via migrate-populate-agitate-dominate.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
