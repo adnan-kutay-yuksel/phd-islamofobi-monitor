@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T04-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/realjaju3/status/2055861231827997064",
+      "author": "@realjaju3",
+      "content_summary": "Defines Islamophobia as fear of 'Islam cancer' spreading in neighborhoods and countries, claiming Europe is in stage four.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/highstakesbet/status/2055861230196445244",
+      "author": "@highstakesbet",
+      "content_summary": "Claims 44,500 Muslim terrorist attacks since 9/11 and tells critics to 'fuck off'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MolenBarba62710/status/2055861106346729804",
+      "author": "@MolenBarba62710",
+      "content_summary": "Calls Islam a 'Terrorist cult' and demands it be banned worldwide.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ThorsValhalla/status/2055861072817778863",
+      "author": "@ThorsValhalla",
+      "content_summary": "Declares Islam an 'Existential Threat to America and Civilization', labeling it a 'Medieval Death Cult of World Conquest'.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/skyeborgbow/status/2055860957478273300",
+      "author": "@skyeborgbow",
+      "content_summary": "Claims European governments facilitated an 'invasion of alien cultures' by Muslim Africans, leading to ongoing injury, death, and pain.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Bigmoe16574013/status/2055860892760146245",
+      "author": "@Bigmoe16574013",
+      "content_summary": "Calls Islam 'the cancer in our country that must be removed' and accuses politicians of cowardice for not condemning jihadis.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
