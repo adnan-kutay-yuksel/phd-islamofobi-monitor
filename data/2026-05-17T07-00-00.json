@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T07-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/varrock/status/2055912052082852104",
+      "author": "@varrock",
+      "content_summary": "Muslims broadcast calls to rape Jews over loudspeaker with no consequences, while criticizing Islam leads to jail in UK",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/LukeDwaltoldcg/status/2055911275272560672",
+      "author": "@LukeDwaltoldcg",
+      "content_summary": "Calls journalist illiterate for supporting 'terrorist Muslims'",
+      "category": "direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ifeanyiakorjuru/status/2055910290068259104",
+      "author": "@ifeanyiakorjuru",
+      "content_summary": "Muslim terrorists killed people in Christian Igboland, calls to divide Nigeria to escape them",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/darren_mac58595/status/2055909709476184227",
+      "author": "@darren_mac58595",
+      "content_summary": "Muslim men are retarded low IQ animals who can't control themselves, causing rape epidemics and grooming gangs; England was better before Muslims",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/J211431997/status/2055909477732295157",
+      "author": "@J211431997",
+      "content_summary": "Muslim culture supports rape of women not wearing burka; they mock our culture while enjoying its benefits",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/loxwood61694/status/2055909270219358278",
+      "author": "@loxwood61694",
+      "content_summary": "Andy Burnham protects Muslim paedophile rape gangs in Manchester",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
