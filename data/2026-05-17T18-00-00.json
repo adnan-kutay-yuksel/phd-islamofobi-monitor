@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-17T18-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/haruki__envy/status/2056070409481593044",
+      "author": "@haruki__envy",
+      "content_summary": "Hates Muslims especially, calls Islam disgusting for normalizing rape and child marriage",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/itsonbitches/status/2056069725994827814",
+      "author": "@itsonbitches",
+      "content_summary": "Calls to deport all Muslims and ban Islam, labels it an evil rape cult that must be eradicated, associates with pedophilia and murder",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ManuelBruder71/status/2056068450926113260",
+      "author": "@ManuelBruder71",
+      "content_summary": "Calls Islam a political ideology to subjugate countries, demands it be banned and mosques closed",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KGBeast260917/status/2056068358663967150",
+      "author": "@KGBeast260917",
+      "content_summary": "Labels Islam a cult of murder and rape, says it has no place in civil society and they will all be removed",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FredPer81915918/status/2056068043306934432",
+      "author": "@FredPer81915918",
+      "content_summary": "Says Islam has no place in Western countries and is 7th Century primitivism",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
