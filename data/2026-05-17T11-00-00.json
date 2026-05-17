@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-17T11-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/m0nsterhuntress/status/2055968675325202908",
+      "author": "@m0nsterhuntress",
+      "content_summary": "Calls Islam an evil death cult with no place in the West, spreading like cancer due to open borders and brainwashing.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulMaitland_/status/2055968378569826429",
+      "author": "@PaulMaitland_",
+      "content_summary": "Accuses politicians of covering up torture and rape by Pakistani Muslim grooming gangs for 30 years, praises Tommy Robinson for exposing them.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/warDaniel47/status/2055967633107714493",
+      "author": "@warDaniel47",
+      "content_summary": "Frames Muslim presence in Texas towns and schools as an Islamic invasion, claims support for Islam is treason and allegiance to terror.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/onejhh/status/2055966723690402067",
+      "author": "@onejhh",
+      "content_summary": "Highlights extreme horrors of Muslim grooming gangs including torture, rape, branding, and graves, urging unity against them.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PaulMaitland_/status/2055965587055018057",
+      "author": "@PaulMaitland_",
+      "content_summary": "Blames politicians and BBC for covering up mass rape of white children by Pakistani Muslim migrants and grooming gangs.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
