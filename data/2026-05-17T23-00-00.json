@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-17T23-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/GreggyGreg181/status/2056148355063967885",
+      "author": "@GreggyGreg181",
+      "content_summary": "Fuck off. Islam is a CANCER",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ArtMiller1984/status/2056148227347411314",
+      "author": "@ArtMiller1984",
+      "content_summary": "Muslim men hang around outside our schools ogling children planning to rape and abduct them. Muslim men have committed countless acts of terrorism murdering little girls",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pz46254547/status/2056148215875936530",
+      "author": "@pz46254547",
+      "content_summary": "Deport all Muslims- Islam is a cancer!",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GaryWmMyers/status/2056148198713094570",
+      "author": "@GaryWmMyers",
+      "content_summary": "Lists multiple incidents framed as Muslim violence and danger across Europe (run over people, threats, dangerous places)",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/1HateHypocrites/status/2056148079867224311",
+      "author": "@1HateHypocrites",
+      "content_summary": "Pakistani Muslim grooming gangs",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Milanzedek1/status/2056148048879780088",
+      "author": "@Milanzedek1",
+      "content_summary": "İSLAM = TERRORISM",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheRiversEdgeAB/status/2056147881053069541",
+      "author": "@TheRiversEdgeAB",
+      "content_summary": "Sarcastically questions 'religion of peace', calls out MUSLIM RAPE GANGS, savages who never got into the 20th century",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
