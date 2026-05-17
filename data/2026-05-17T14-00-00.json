@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-17T14-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/Daren5577/status/2056026813592227849",
+      "author": "@Daren5577",
+      "content_summary": "Calls it 'Rape Jihad' practiced for 1400 years in Islam, says it will spiral out of control in the West, calls to Ban Islam and get them out.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BrockZack63478/status/2056026783506411790",
+      "author": "@BrockZack63478",
+      "content_summary": "Says Islam is a cancer of the free world that wants to destroy Western culture and Christianity.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Peggy_Bundy71/status/2056026715873288643",
+      "author": "@Peggy_Bundy71",
+      "content_summary": "Says deport them, Islam is a cancer, in context of Britain surviving.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KennyPh74666641/status/2056026689449123863",
+      "author": "@KennyPh74666641",
+      "content_summary": "Claims Muslims want to rule, convert, enslave or kill, calls Islam a cancer needing removed, demands all Muslims be deported from Western countries.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
