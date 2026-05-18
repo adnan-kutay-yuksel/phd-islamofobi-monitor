@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-18T16-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/The_Doji_San/status/2056411096999776588",
+      "author": "@The_Doji_San",
+      "content_summary": "Sarcastic challenge asking for a Quran quote proving Islam is the religion of peace, implying it is not.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DavidAFoot/status/2056410992238629340",
+      "author": "@DavidAFoot",
+      "content_summary": "Claims grooming gangs are protected by Sadiq Khan and Parliament, calls to 'PURGE MARXISM AND ISLAM' to save England.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CrimeCrochet413/status/2056410924429271459",
+      "author": "@CrimeCrochet413",
+      "content_summary": "Lists various figures and declares 'Islam is the CANCER.'",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Txpattx/status/2056410767537172822",
+      "author": "@Txpattx",
+      "content_summary": "Refers to supporting the 'illegal invasion of Muslims' in context of an immigrant.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/fearless_yout/status/2056410675904151777",
+      "author": "@fearless_yout",
+      "content_summary": "Claims Oyo Muslims invited someone to 'hasten the invasion of the Fulani Islamic jihadist.'",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Jondeli75/status/2056410613971054680",
+      "author": "@Jondeli75",
+      "content_summary": "Describes Muslims as 'mind numb robots stuck in the 7th century.'",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VVenkyVV/status/2056410125775298720",
+      "author": "@VVenkyVV",
+      "content_summary": "Accuses Pakistani Muslims of rapes by grooming gangs and questions outrage over anti-Muslim messaging.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
