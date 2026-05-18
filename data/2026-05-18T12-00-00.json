@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-18T12-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/OutbackNate/status/2056352941708046460",
+      "author": "@OutbackNate",
+      "content_summary": "Calls for deportation of Muslims (and Jews), stating they don't belong here with #Remigration.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AshworthNik/status/2056352931541070144",
+      "author": "@AshworthNik",
+      "content_summary": "Accuses Muslim Council of Britain of ignoring Pakistani Muslim gang rapes of children and calls them vile cretins.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JustJef46602101/status/2056352860313387237",
+      "author": "@JustJef46602101",
+      "content_summary": "Calls to ban Islam everywhere and deport Muslims as scumbags.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DTNVSPVS14/status/2056352856878280815",
+      "author": "@DTNVSPVS14",
+      "content_summary": "Claims Muslims are destroying religious sites and demands to deport Muslims now.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Primateevolue/status/2056352834912739599",
+      "author": "@Primateevolue",
+      "content_summary": "Demands deport all Muslims, close mosques, forbid Islam, and calls it a plague that must be stopped.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Becky24494827/status/2056352808232722666",
+      "author": "@Becky24494827",
+      "content_summary": "Claims Islam is a call for hate, child rape, and murder of non-Muslims.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Joshua715243692/status/2056352759285158098",
+      "author": "@Joshua715243692",
+      "content_summary": "Dismisses Islamophobia as a buzzword and highlights gang rapes by Muslim rape gangs.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
