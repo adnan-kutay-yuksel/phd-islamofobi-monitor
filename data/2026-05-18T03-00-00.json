@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-18T03-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/gelugpa_monk/status/2056222934579175812",
+      "author": "@gelugpa_monk",
+      "content_summary": "Islam is cancer",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VirginaRay57067/status/2056222898931589530",
+      "author": "@VirginaRay57067",
+      "content_summary": "Muslims own the judicial system, allowed rape gangs, muslim colonized country with no go zones",
+      "category": "crime_association | threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CuiqueRuneOrder/status/2056222776348807340",
+      "author": "@CuiqueRuneOrder",
+      "content_summary": "70% of France prisons are Muslims/Islamists making online threats",
+      "category": "crime_association | threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/annacox001/status/2056222770241908863",
+      "author": "@annacox001",
+      "content_summary": "Fuck Islam - fuck these terrorists... They rape 6 year old child brides... Barbarians",
+      "category": "direct_hatred | crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jewald25/status/2056222768958435463",
+      "author": "@jewald25",
+      "content_summary": "There is no greater threat than Islam",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Varsha48890800/status/2056222693306020215",
+      "author": "@Varsha48890800",
+      "content_summary": "Unholy Quran is the root of terrorism & Muslims can go to any length to decimate non-Muslims",
+      "category": "threat_narrative | crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
