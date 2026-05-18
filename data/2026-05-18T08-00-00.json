@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-18T08-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/mayavibilla0/status/2056286945639374885",
+      "author": "@mayavibilla0",
+      "content_summary": "Sarcastic claim that Islam has nothing to do with terrorism, equating it to a prostitute claiming virginity.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Fingolfin512034/status/2056286860377194829",
+      "author": "@Fingolfin512034",
+      "content_summary": "Claims Muslims called for rape of Jews and have done worse to Christians, ending with 'fuck islam'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LanceSt81774855/status/2056286856497475878",
+      "author": "@LanceSt81774855",
+      "content_summary": "Calls Muslims the greatest threat to Britain via huge immigrant communities pouring in daily.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MBorogroves/status/2056286826738938357",
+      "author": "@MBorogroves",
+      "content_summary": "Claims Islam encapsulates child marriage, child rape, and rape of non-Muslims as religious norms.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HowardClarkBur1/status/2056286617124614323",
+      "author": "@HowardClarkBur1",
+      "content_summary": "Claims Muslims rape young girls, terrorise communities, and espouse immigration jihad.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/govansw1/status/2056286189213069317",
+      "author": "@govansw1",
+      "content_summary": "States Islam is a threat to the world based on its 1400-year history.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheDeafTribe/status/2056286077225239003",
+      "author": "@TheDeafTribe",
+      "content_summary": "Claims Muslims want to take over society and use laws against the population, using 'these people'.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/OLearner06/status/2056286055150879037",
+      "author": "@OLearner06",
+      "content_summary": "Accuses 'you people' (Muslims/Pakistanis) of sponsoring terrorism and killing non-Muslims.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
