@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-18T20-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/georgyporgy007/status/2056337027423952948",
+      "author": "@georgyporgy007",
+      "content_summary": "Islam and Sharia are an existential threat to democracy, freedom of speech, and world peace; incompatible with civilization, a death cult that cannot coexist with humans.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RocketRiver9/status/2056408632950964542",
+      "author": "@RocketRiver9",
+      "content_summary": "Anti-Christian, anti-white, rape, stabbings, murders by Islamists and Africans that will be dealt with; millions will go and millions must go.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Nene9956/status/2056201629704110205",
+      "author": "@Nene9956",
+      "content_summary": "They demand we assimilate to pedophilia, incest, slavery, rape; ban Islam now or there will be a holy war.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/8nine10NFT/status/2056256603649687572",
+      "author": "@8nine10NFT",
+      "content_summary": "Not every Muslim is a terrorist but every terrorist is a Muslim; Pakistani grooming gangs raping, stabbings, no-go areas; incompatible culture that does not want to coexist.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MsMacAttack321/status/2056173775176311086",
+      "author": "@MsMacAttack321",
+      "content_summary": "Islam has worn out its welcome; extremists gang rape girls, put babies in ovens, throw gays off buildings; Islam is NOT compatible with Western culture.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    }
+  ]
+}
