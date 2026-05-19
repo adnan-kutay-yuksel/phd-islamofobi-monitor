@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-19T19-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/foster12trees1/status/2056812955283382485",
+      "author": "@foster12trees1",
+      "content_summary": "Patriots should deport Muslims (after Koreans), calls supporter a worthless slave and house negro for Muslims.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ja99491/status/2056812952947179536",
+      "author": "@ja99491",
+      "content_summary": "Poland safer without Muslim immigrants, no rape gangs or Hamas rallies thanks to refusing them.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/kalid_in_uk/status/2056812950002753579",
+      "author": "@kalid_in_uk",
+      "content_summary": "Hundreds of Muslims line up for horrific rape and abuse in grooming gangs across the country.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Silvertop44/status/2056812773334466572",
+      "author": "@Silvertop44",
+      "content_summary": "Repel Muslim invasion, they want to take over, convert to Islam, die or become slaves.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/tacticaltom0224/status/2056812731152433507",
+      "author": "@tacticaltom0224",
+      "content_summary": "Islam is a cancer on this planet and needs to be eradicated.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
