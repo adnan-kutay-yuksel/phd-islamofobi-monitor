@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-19T09-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/profbeakerXVIII/status/2056674184583938344",
+      "author": "@profbeakerXVIII",
+      "content_summary": "Muslims are fine in muslim countries. go back to your 3rd world shitholes with your 7th century beliefs .",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/berry_j72680/status/2056674061221351720",
+      "author": "@berry_j72680",
+      "content_summary": "MIGRANT crime wave... Muslim rape gangs... many who came turned to crime",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/brtllepatriot/status/2056674002949550194",
+      "author": "@brtllepatriot",
+      "content_summary": "This is Islam. ... medieval savagery ... Islam is incompatible with Western civilization. ... Deport. Defend. Survive.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/itsonbitches/status/2056673999535649063",
+      "author": "@itsonbitches",
+      "content_summary": "Deport all Muslims, ban Islam it is an evil, hate, rape cult. ... Mohammad was a pedophile, a rapist and a murderer. Islam must be eradicated",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
