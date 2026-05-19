@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-19T23-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/HarrowIlf/status/2056873738407129578",
+      "author": "@HarrowIlf",
+      "content_summary": "Outraged about gang rape of young white British girls by mostly Pakistani Muslim men, calling it racially motivated, religiously justified, culturally embedded.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Mwarning515/status/2056873667833847812",
+      "author": "@Mwarning515",
+      "content_summary": "Questions how long before some Muslim tries to rape AI hologram at airport.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/OldSchoolLoll/status/2056873579837559214",
+      "author": "@OldSchoolLoll",
+      "content_summary": "Calls Islam a plague on the country and says Muslims are not welcome in America.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Effybug/status/2056873023836213640",
+      "author": "@Effybug",
+      "content_summary": "States Islam is a rape cult, not a religion.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KeithRemlap/status/2056730587105284158",
+      "author": "@KeithRemlap",
+      "content_summary": "Claims all Muslims call for death to America/Jews/Christians, Quran allows rape of non-Muslims, religion based on hate, demands Muslims leave UK.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Laurel144198/status/2056687135856423188",
+      "author": "@Laurel144198",
+      "content_summary": "Calls radical Islamic terrorists a blanket threat to all non-Muslim Americans and demands they be removed from America now.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/adam_jsm10/status/2056784901236564132",
+      "author": "@adam_jsm10",
+      "content_summary": "Accuses Muslims of raping daughters, threatening to destroy Western way of life and practicing terrorism, saying they earned the hostility.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
