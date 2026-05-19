@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-19T16-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/easyballinside/status/2056772808835768812",
+      "author": "@easyballinside",
+      "content_summary": "Accuses Andy Burnham of ignoring widespread Pakistani Muslim rape gangs in the north west.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ndrswrnr1/status/2056772808793821362",
+      "author": "@ndrswrnr1",
+      "content_summary": "Calls someone a low IQ inbred Muslim in response to a comment.",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VentoChelsy/status/2056772765974221069",
+      "author": "@VentoChelsy",
+      "content_summary": "Claims Islam worships Satan, Quran promotes violence, chaos, destruction, legal murder and rape.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Randall1489681/status/2056772732751147154",
+      "author": "@Randall1489681",
+      "content_summary": "Calls to deport every single one of them, claims they want to infiltrate, overthrow and destroy, advises Muslims to leave.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ArcotRamm/status/2056772730545168471",
+      "author": "@ArcotRamm",
+      "content_summary": "Tells to cover rape cases in UK and Germany where jihadi Muslims encroach like cockroaches.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
