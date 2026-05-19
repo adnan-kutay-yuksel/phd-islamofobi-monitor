@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-19T21-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/GPhilip52086/status/2056847958268911850",
+      "author": "@GPhilip52086",
+      "content_summary": "Claims Islam teaches Islamic men to rape non-Islamic women as religious duty and questions allowing them into the country.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/paulhoffman007/status/2056847928006750251",
+      "author": "@paulhoffman007",
+      "content_summary": "Complains about 'these people' coming to rape kids, implying most perpetrators are from that group despite some UK citizens.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dragwlya342391/status/2056847925372756339",
+      "author": "@dragwlya342391",
+      "content_summary": "Claims Muslims have a propensity for mass rape of children.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Bobbyfuntime5/status/2056847865771672021",
+      "author": "@Bobbyfuntime5",
+      "content_summary": "Suggests Islam will face 'Crusades 2' or slaughter as per revelation.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/eddieteddy885/status/2056847809400189364",
+      "author": "@eddieteddy885",
+      "content_summary": "Refers to 'Pakistani Muslim rape gangs' instead of grooming scandals.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/adeline9/status/2056847736771908035",
+      "author": "@adeline9",
+      "content_summary": "Claims abusing women, pedophilia, rape, and sex with animals are not sins in Islam.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AndrewNytro/status/2056847706706907528",
+      "author": "@AndrewNytro",
+      "content_summary": "States Islam encourages rape and murder of non-believers by Muslim citizens and governments.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Laurel144198/status/2056687135856423188",
+      "author": "@Laurel144198",
+      "content_summary": "Calls radical Islamic terrorists a direct blanket threat to all non-Muslim Americans and demands removal.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/georgyporgy007/status/2056675471870378197",
+      "author": "@georgyporgy007",
+      "content_summary": "Claims Islam and Sharia are existential threat to democracy, freedom, and world peace, calling it a death cult incompatible with civilization.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Butch_Valenti/status/2056767082159616103",
+      "author": "@Butch_Valenti",
+      "content_summary": "Calls Islam patient zero of hate, quotes 'Slay the disbelievers' as death threat, tells Muslims to go back to hellscape.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
