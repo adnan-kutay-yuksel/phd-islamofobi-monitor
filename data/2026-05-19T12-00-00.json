@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-19T12-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/MMWPhotographer/status/2056717089281302970",
+      "author": "@MMWPhotographer",
+      "content_summary": "Accuses Pakistani Muslim rape grooming gangs of raping 300,000 British children, contrasting with Christian values",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/duketinkertown/status/2056717001398300908",
+      "author": "@duketinkertown",
+      "content_summary": "Calls Islam a front for global conquest by inbred losers worshiping a pedo rapist mass murderer, not a religion",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Gary80932Gary/status/2056716899845890190",
+      "author": "@Gary80932Gary",
+      "content_summary": "Suggests offending Muslims daily to keep invasion at bay, implying Muslims are invaders",
+      "category": "replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bespoke_page/status/2056716826520768552",
+      "author": "@bespoke_page",
+      "content_summary": "Calls Islam a cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Sushma04965013/status/2056716761668440503",
+      "author": "@Sushma04965013",
+      "content_summary": "Claims Islam slaughters gays/lesbians and links Muslims to UK grooming gangs and atrocities",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
