@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-20T21-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/HollidgeRichard/status/2057219280307929530",
+      "author": "@HollidgeRichard",
+      "content_summary": "References grooming gangs and attacks by 'you know who', says if you can't assimilate to British culture leave, mentions 57 Muslim countries.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/drivebyreeder/status/2057219176377303180",
+      "author": "@drivebyreeder",
+      "content_summary": "Calls mosques, Muslims, and Islam a 'cancer' forced on Texans that doesn't belong in the country.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KeithWe55944742/status/2057218926925221956",
+      "author": "@KeithWe55944742",
+      "content_summary": "States 'islam is a plague'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Vera13b/status/2057218765071204787",
+      "author": "@Vera13b",
+      "content_summary": "Calls Islam a 'cancer to society' and a 'false religion of terror and violence'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Bruno21139944/status/2057218613946327194",
+      "author": "@Bruno21139944",
+      "content_summary": "Refers to 'Muslim scum' and says 'they are a plague'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dakobis/status/2057218102220247219",
+      "author": "@dakobis",
+      "content_summary": "Sarcastically says 'But I thought Islam was the religion of peace?'",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
