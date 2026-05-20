@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-20T07-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/Garry_JMCD/status/2057005916734558678",
+      "author": "@Garry_JMCD",
+      "content_summary": "Associates Muslims collectively with rape gangs, 7/7, 9/11, stabbing children and running people over as reasons for hatred.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HomeSecConsult/status/2057005499665592582",
+      "author": "@HomeSecConsult",
+      "content_summary": "Frames NYC car explosion as possible terrorist attack and calls for deporting every Muslim from America.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MichaelSlawso15/status/2057005089404203287",
+      "author": "@MichaelSlawso15",
+      "content_summary": "Calls Islam a cancerous plague upon civilization that must be eradicated.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/simionb1/status/2057004784020861175",
+      "author": "@simionb1",
+      "content_summary": "Claims Islam stands for paedophilia, rape, misogyny, murder and other atrocities.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sean_russe76226/status/2057004745995202660",
+      "author": "@sean_russe76226",
+      "content_summary": "Highlights 'Muslim rape gang' sentenced, associating the group with collective crime.",
+      "category": "crime_association",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
