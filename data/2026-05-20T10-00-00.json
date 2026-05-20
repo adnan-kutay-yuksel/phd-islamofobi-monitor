@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-20T10-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/HugeHeffer2026/status/2057052286598123610",
+      "author": "@HugeHeffer2026",
+      "content_summary": "Calls Islam a 'cancer' that is incompatible with the West, referencing historical conquests, beheadings, rapes, and destruction by Muslims.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ryanwit93/status/2057052151952658919",
+      "author": "@Ryanwit93",
+      "content_summary": "Calls Islam a 'cancer' and says banning Islam is the best thing any country can do, referencing what it's 'doing to Europe'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/warrior_co7827/status/2057051937384858110",
+      "author": "@warrior_co7827",
+      "content_summary": "Calls followers of Islam a threat to democracy and security; demands their removal from parliament, jobs, hospitals, police, etc.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/olivonelfuerte/status/2057051699647300048",
+      "author": "@olivonelfuerte",
+      "content_summary": "Calls Islam the biggest cancer of humanity, alongside socialism.",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/apostate2025/status/2057051553563816391",
+      "author": "@apostate2025",
+      "content_summary": "Claims halal food funds terrorism and jihad worldwide.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/4CharlieK/status/2056900235440673074",
+      "author": "@4CharlieK",
+      "content_summary": "Claims Muslims want to takeover every country and kill deniers, tells them to 'piss all the way off back to their countries'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DrWolf666666/status/2056898072542646538",
+      "author": "@DrWolf666666",
+      "content_summary": "Calls Muslims a 'literal plague across Europe' who don't integrate and threaten natives with murder.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
