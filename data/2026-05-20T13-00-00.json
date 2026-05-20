@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-20T13-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/MDKarimz10/status/2057094619389673679",
+      "author": "@MDKarimz10",
+      "content_summary": "Tells user to fuck off back to 'your muslim ridden shit hole in France'",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PointCatholicUS/status/2057094565685813474",
+      "author": "@PointCatholicUS",
+      "content_summary": "Claims 'We are under invasion' and links violence against Whites to Muslim migrants",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/blackbird4032/status/2057094424459378976",
+      "author": "@blackbird4032",
+      "content_summary": "Calls 'dirty Muslims in Iran' a 'cancer' that 'may need to be eradicated'",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HansSling63/status/2057094263897293068",
+      "author": "@HansSling63",
+      "content_summary": "States 'Islam is a threat to every other culture' and that non-peaceful Muslims 'will have to be dealt with' via elimination",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Charliecn51/status/2057094233031315818",
+      "author": "@Charliecn51",
+      "content_summary": "Calls for banning and deporting all Muslims in America",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
