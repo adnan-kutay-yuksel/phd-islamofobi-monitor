@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-21T18-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Waitforit40031/status/2057536731092561957",
+      "author": "@Waitforit40031",
+      "content_summary": "Claims every non-Muslim country Muslims flee to becomes a third world hellhole of murder, rape and destruction for 1400 years, as per their Quran and death cult.",
+      "category": "crime_association | threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/628472005X/status/2057536572342624432",
+      "author": "@628472005X",
+      "content_summary": "Accuses Muslims of sister marriage, terrorist attacks, following a pedophile, killing non-Muslims for virgins, and high rape rates.",
+      "category": "crime_association | threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/amcey3/status/2057536356528627720",
+      "author": "@amcey3",
+      "content_summary": "Calls Islam a cancer, says all Muslims are violent 7th century medieval cult followers incompatible with Western life, living off taxes with many kids.",
+      "category": "dehumanization | dog_whistle",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MCombatnagy/status/2057536180258734200",
+      "author": "@MCombatnagy",
+      "content_summary": "Refers to 'Muslim rape gangs'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TerrySoroor/status/2057536135208063400",
+      "author": "@TerrySoroor",
+      "content_summary": "Demands converts from Islam prove it or face shooting, torture, rape, execution with no mercy.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/25Bison10/status/2057536077561217126",
+      "author": "@25Bison10",
+      "content_summary": "Mocks claims of Islam as religion of peace, implying gaslighting around Muslim extremism.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
