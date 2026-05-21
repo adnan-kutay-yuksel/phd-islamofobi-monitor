@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-21T12-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/ABI_Novus/status/2057326142923952285",
+      "author": "@ABI_Novus",
+      "content_summary": "Mocks 'Islamophobia' and claims Muslims are demonic from the start, with their occupation and conquest leading to host society collapse and transfer to Islamic control.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jungle1701/status/2057397625658163572",
+      "author": "@jungle1701",
+      "content_summary": "Calls to destroy and purge 'these people' and their radical Islam ideology from the earth, labeling them pure evil, demonic, and satanic.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NIKUKPunting/status/2057423309138964712",
+      "author": "@NIKUKPunting",
+      "content_summary": "Associates Muslims with terrorist outrages, slaughter, and threats, claiming they are infiltrating society and may close pubs.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Digital369369/status/2057325852623278293",
+      "author": "@Digital369369",
+      "content_summary": "Accuses import of 'Inbred, Low I.Q., Pedo Culture' Muslims to infiltrate, rob, rape, pillage, and destroy the UK/West as bioweapons.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ron1n_1/status/2057259135994064951",
+      "author": "@Ron1n_1",
+      "content_summary": "Blames 'SHITSLAM' and 'SCUMSLIMS' for pain and destruction, calling them vile and undeserving of civilized society, demanding a 'GREAT CLEANSING'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/CiderHype/status/2057423459441897840",
+      "author": "@CiderHype",
+      "content_summary": "Demands to ban Islam, denaturalize, deport, and de-Islamify, turning mosques into toilets and pig farms as they hate our way of life.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/only_organics_1/status/2057277151557140792",
+      "author": "@only_organics_1",
+      "content_summary": "Calls to ban and deport all Muslims, claiming they come to conquer and kill all non-Muslims as enemies.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
