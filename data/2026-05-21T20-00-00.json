@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-21T20-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/BeisleyRobert/status/2057565685312586184",
+      "author": "@BeisleyRobert",
+      "content_summary": "Questions delays on pending Muslim rape gangs inquiry",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/grant_huser/status/2057565572385341882",
+      "author": "@grant_huser",
+      "content_summary": "Calls to round up, arrest and deport all Muslims from America as incompatible with religious freedom and planning holocaust on non-Muslims",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SonnyTipPete/status/2057565392042950923",
+      "author": "@SonnyTipPete",
+      "content_summary": "Claims Quran intent is jihad, Muslims kidnapped 'religion of peace' turning it into cult of hate and suppression",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DystopianRain/status/2057565362342768765",
+      "author": "@DystopianRain",
+      "content_summary": "Describes Muslim man ordering gang to beat white kids then demands 'Deport all these fuckers'",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/rona_wallace/status/2057565117147939013",
+      "author": "@rona_wallace",
+      "content_summary": "Says until all Muslims worldwide condemn atrocities none are innocent, calls it 'religion of peace' sarcastically",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/logic_on_sea/status/2057565111150162137",
+      "author": "@logic_on_sea",
+      "content_summary": "References coverup of Muslim rape gangs targeting white girls and 'jihadis gonna Jihad'",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CromwellMi61542/status/2057565093945135117",
+      "author": "@CromwellMi61542",
+      "content_summary": "Calls to deport her and every other Muslim",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
