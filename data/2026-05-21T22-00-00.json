@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-21T22-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/PeterSanch45727/status/2057587629689049163",
+      "author": "@PeterSanch45727",
+      "content_summary": "Calls Islam pure satanic barbaric evil that must be eradicated from America and the world, and says deport them all with no discernment.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/_SunShine_1357/status/2057587605714145354",
+      "author": "@_SunShine_1357",
+      "content_summary": "Calls to declare Islam a terrorist organization and deport every one of them, labeling them evil savages who wish to conquer the USA.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Tommyjoyce48259/status/2057587229468279268",
+      "author": "@Tommyjoyce48259",
+      "content_summary": "Calls to deport all Muslims from England.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AZAshli/status/2057586610296983824",
+      "author": "@AZAshli",
+      "content_summary": "Claims Islam is not a religion, that Muslims believe only in destruction, lies, rape, pedophilia, and death, and they will never change.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/curvyyaphrodite/status/2057585165119938926",
+      "author": "@curvyyaphrodite",
+      "content_summary": "Associates Muslims/Arabs with pride in rape, enslaving and raping women, killing innocents, and being evil since their prophet.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
