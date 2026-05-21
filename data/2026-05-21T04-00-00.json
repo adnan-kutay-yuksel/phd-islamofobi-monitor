@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-21T04-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/MacDovell001/status/2057310802571645294",
+      "author": "@MacDovell001",
+      "content_summary": "Deport all of them immediately... these muslims",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ThetruthSharon/status/2057310663190692247",
+      "author": "@ThetruthSharon",
+      "content_summary": "Muslims should be banned from US PERIOD... ISLAM IS UNASSIMIABLE... invasion and subjugation",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Victor31269/status/2057310448181981668",
+      "author": "@Victor31269",
+      "content_summary": "These people NEVER comply... beat them into compliance... Deport WITHOUT exception... ANY of them #Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
