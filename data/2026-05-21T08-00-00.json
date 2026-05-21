@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-21T08-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/streame_r_dad/status/2057378992861102450",
+      "author": "@streame_r_dad",
+      "content_summary": "Calls a Muslim an 'inbred' and accuses them of defending Muslims attacking police officers, contrasting with hypothetical white men.",
+      "category": "dehumanization | crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DeusVult5o/status/2057378692922237262",
+      "author": "@DeusVult5o",
+      "content_summary": "Claims Muslims will rape people and that pedophiles convert to Islam to follow Mohammed as a child rapist, referencing terror cells.",
+      "category": "crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HaSparklyJuice/status/2057378413233795427",
+      "author": "@HaSparklyJuice",
+      "content_summary": "References 'Islam rape victims' in context of political betrayal and civility.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/andrew782255/status/2057378394975641649",
+      "author": "@andrew782255",
+      "content_summary": "Accuses someone of supporting 'muslim pakistani paedo rape gangs'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RyanSwiftGTi/status/2057378188183871799",
+      "author": "@RyanSwiftGTi",
+      "content_summary": "Links rise in missing children to 'muslim rape gangs' using free bus travel as cover.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
