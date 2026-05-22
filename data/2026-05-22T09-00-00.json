@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-22T09-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/four_unit/status/2057754003786572201",
+      "author": "@four_unit",
+      "content_summary": "Rejects Islam entirely, calling it jihad, stoning, conquest, slaughter and a brutal cult of death & violence, not a religion of peace.",
+      "category": "threat_narrative | direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MaxE2review/status/2057752978644201868",
+      "author": "@MaxE2review",
+      "content_summary": "Accuses politicians of denying Islamic terrorism and jihadist motives behind attacks like the Manchester bombing, calling it the gravest terror threat to Brits.",
+      "category": "crime_association | threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/UnrepentantYoon/status/2057749754012934291",
+      "author": "@UnrepentantYoon",
+      "content_summary": "Claims people would rather speak German than face the creeping invasion of Islam and Sharia law.",
+      "category": "threat_narrative | replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheChronology__/status/2057748389559951595",
+      "author": "@TheChronology__",
+      "content_summary": "Describes a rape case as 'rape jihad' by multiple Muslim men forcing conversion, stating all Muslims see non-Muslims as kafir.",
+      "category": "crime_association | threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/WesternPulse88/status/2057748042334298442",
+      "author": "@WesternPulse88",
+      "content_summary": "Compares 'Islam invasion' directly to Ebola as existential threats.",
+      "category": "dehumanization | threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ToonDazza/status/2057747731813110246",
+      "author": "@ToonDazza",
+      "content_summary": "Calls the killers of Lee Rigby 'two Muslim scum' for the 2013 murder.",
+      "category": "dehumanization | crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/JohnnyWhiskyTX/status/2057743303773434181",
+      "author": "@JohnnyWhiskyTX",
+      "content_summary": "Frames Texas as an 'Islamic sanctuary state' with Sharia law expanding inside a major medical center, implying takeover.",
+      "category": "threat_narrative | replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    }
+  ]
+}
