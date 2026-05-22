@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-22T15-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/NeilAlanDi91578/status/2057851592452297212",
+      "author": "@NeilAlanDi91578",
+      "content_summary": "Dismisses San Diego Muslim community as 'just your neighbors' after mass shooting; claims they want to replace Western culture with a 'Medieval theocracy'.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/schmedlaff/status/2057851453117448519",
+      "author": "@schmedlaff",
+      "content_summary": "Describes a book as awakening to the 'threat of not just Islamists, but Islam itself'.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gored7777/status/2057851203371827465",
+      "author": "@gored7777",
+      "content_summary": "Says 'these people' (Muslims) should go live on a 'Muslim island' far away from the rest of the world.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/catpotwine/status/2057851171864265128",
+      "author": "@catpotwine",
+      "content_summary": "Sarcastically calls 'Islam is a religion of peace' as explanation for violence/terrorism.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CSRParty/status/2057851068499804565",
+      "author": "@CSRParty",
+      "content_summary": "Compares Islam to Nazism; links it to 9/11 and 'all the other incidents' worldwide.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/2ndATexan/status/2057850903923716473",
+      "author": "@2ndATexan",
+      "content_summary": "States Muslims 'pose a vastly greater threat' than others.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
