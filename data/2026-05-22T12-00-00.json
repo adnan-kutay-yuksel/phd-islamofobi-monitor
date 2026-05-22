@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-22T12-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/higgins7595/status/2057799438198784044",
+      "author": "@higgins7595",
+      "content_summary": "Claims a Muslim terrorist hasn't been deported.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PL_UK_25/status/2057799118303473679",
+      "author": "@PL_UK_25",
+      "content_summary": "Accuses Muslims of raping women after being 'let flood in' and defends Islamic terrorists.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/cdbishop2000/status/2057799093754196264",
+      "author": "@cdbishop2000",
+      "content_summary": "Says 'Islam is not a religion of peace!' sarcastically.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TBONEZ1971/status/2057799061114159427",
+      "author": "@TBONEZ1971",
+      "content_summary": "Sarcastic 'MUSLIM RELIGION OF PEACE' while claiming they chop off Christian heads.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/drinkcred/status/2057798599195656296",
+      "author": "@drinkcred",
+      "content_summary": "Calls 300 million radical Muslims trying to destroy everything, labels Muslims 'cancer' and accuses them of raping and pillaging.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gypsyschoes75/status/2057798487484379202",
+      "author": "@gypsyschoes75",
+      "content_summary": "Sarcastic claim that Italians believe 'Islam is the religion of peace' while implying threat from Muslim mullah.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MrMumboo/status/2057798445952573462",
+      "author": "@MrMumboo",
+      "content_summary": "Calls Islam a 'plague in humanity' that should be challenged everywhere.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
