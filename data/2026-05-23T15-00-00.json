@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-05-23T15-00-00",
+  "count": 2,
+  "results": [
+    {
+      "url": "https://x.com/scottmac32/status/2058189417462792339",
+      "author": "@scottmac32",
+      "content_summary": "Sat abroad... Muslim rape gang apologists, and Palestinian vermin, coming at me on twitter....cheers you filthy animals",
+      "category": "dehumanization | crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PatriotMike15/status/2058188034110038341",
+      "author": "@PatriotMike15",
+      "content_summary": "Only in Islam is child rape and child brides legal. But in America it is called being a pedophile.",
+      "category": "crime_association | threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
