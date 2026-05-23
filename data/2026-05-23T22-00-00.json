@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-23T22-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/Anonymous136799/status/2058307124577628501",
+      "author": "@Anonymous136799",
+      "content_summary": "Calls Islam a 'cancer' spread by Arabs, associates it with bloodshed and fake god worshipers.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RoyakAnimation/status/2058307120211124642",
+      "author": "@RoyakAnimation",
+      "content_summary": "Associates Muslims collectively with high amounts of rape.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Real_DavidAdams/status/2058307081250160681",
+      "author": "@Real_DavidAdams",
+      "content_summary": "Calls Islam 'the threat' and suggests 'samurai solutions' (implying violence).",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PJSTORMCLOUD/status/2058307080260288940",
+      "author": "@PJSTORMCLOUD",
+      "content_summary": "Associates Muslims with rape gangs and claims they control politicians.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/willofgodd/status/2058307062384238725",
+      "author": "@willofgodd",
+      "content_summary": "Calls for deportation of Muslims as a group.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Teuteudetectol/status/2058306901926916319",
+      "author": "@Teuteudetectol",
+      "content_summary": "Calls Islam the 'cancer of the world'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Teuteudetectol/status/2058306566450028950",
+      "author": "@GalSharptongoat",
+      "content_summary": "Derogatory insult associating Muslims with sexual acts.",
+      "category": "direct_hatred",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PunkCypher22937/status/2058306562096234777",
+      "author": "@PunkCypher22937",
+      "content_summary": "Claims 95-99% of Muslims believe in child marriage and rape based on Hadith.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CrommDog/status/2058306247234039881",
+      "author": "@CrommDog",
+      "content_summary": "Calls Islam a 'plague'.",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SirIgor82/status/2058306164404728301",
+      "author": "@SirIgor82",
+      "content_summary": "Calls Islam and its followers a 'metastasizing cancer'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
