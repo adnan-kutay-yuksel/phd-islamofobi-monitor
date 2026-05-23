@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-23T06-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/geoffspark1/status/2058074409143878110",
+      "author": "@geoffspark1",
+      "content_summary": "Responds with 'PAKISTANI MUSLIM RAPE GANGS' in aggressive reply.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/youngcronaldo7/status/2058074387840934212",
+      "author": "@youngcronaldo7",
+      "content_summary": "Claims Muslim men have multiple wives and many children, warning it will lead to demographic takeover like in Nigeria.",
+      "category": "replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/1big_x_/status/2058074289115390441",
+      "author": "@1big_x_",
+      "content_summary": "Warns 'If a Muslim girl tells you she likes you, better run' especially around Muslims, implying danger.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Proparwi/status/2058074272954757218",
+      "author": "@Proparwi",
+      "content_summary": "States Muslim countries have destroyed the UK.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
