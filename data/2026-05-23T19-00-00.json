@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-23T19-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/AveryMacCracken/status/2058265448605421789",
+      "author": "@AveryMacCracken",
+      "content_summary": "Calls to ban Islam, deport all Muslims, calls Islam a terrorist organization, and suggests dipping bullets in pig blood.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Nikhil6477/status/2058265179583107198",
+      "author": "@Nikhil6477",
+      "content_summary": "Calls for mass slaughter and rape of Muslims in ghettos to save Bengal, targeting Muslim communities.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Se8ac/status/2058264978512347548",
+      "author": "@Se8ac",
+      "content_summary": "Claims 64k-67k Islamist terrorist attacks since 9/11, sarcastically calls Islam the 'great peaceful religion'.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Chief494929/status/2058264942374199335",
+      "author": "@Chief494929",
+      "content_summary": "Claims Islam justifies slavery and rape, calls Muslims 'freaks' and links it to pedophilia.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NUFC_933/status/2058239419023237135",
+      "author": "@NUFC_933",
+      "content_summary": "Associates Muslims with terrorist flags, raping white girls, killing white people, and taking over the UK.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/adam_jsm10/status/2058213772288766105",
+      "author": "@adam_jsm10",
+      "content_summary": "Says Muslims threaten society, rape girls, abuse women, calls Islam a cancer to eradicate.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bourbonagain/status/2058231894110531736",
+      "author": "@bourbonagain",
+      "content_summary": "Calls Islam an invading ideology, demands removal of every Muslim from the shores.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
