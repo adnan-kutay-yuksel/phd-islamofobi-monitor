@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-23T23-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/SwissLiberty/status/2057974538344784265",
+      "author": "@SwissLiberty",
+      "content_summary": "Britain never accomplished anything before the Muslim invasion.",
+      "category": "invasion",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Lanachka770/status/2057974479049892163",
+      "author": "@Lanachka770",
+      "content_summary": "Muslims live in 7th century, expert in terrorism, darkness from Muslims.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/NUFC_933/status/2058239419023237135",
+      "author": "@NUFC_933",
+      "content_summary": "Muslims in streets with terrorist flags, raping white girls, taking over UK.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Griffshannon1/status/2058288974284685426",
+      "author": "@Griffshannon1",
+      "content_summary": "Importing Islamic migrants raping, murdering, terrorist attacks, Islamic take over.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/adam_jsm10/status/2058213772288766105",
+      "author": "@adam_jsm10",
+      "content_summary": "Muslims threaten society, rape girls, Islam is cancer, eradicate it.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
