@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-23T20-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/MyHandleNo/status/2058291088167940206",
+      "author": "@MyHandleNo",
+      "content_summary": "Questions trust in Israel vs Iran, asks if Muslims assimilate better, mentions Muslim rape gangs and terrorism sponsorship.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WayneTomlin69/status/2058290835074998685",
+      "author": "@WayneTomlin69",
+      "content_summary": "Calls Islamic invasion an evil barbaric backwards cult that needs removing from civilized society.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PArchuletta76/status/2058290800438788380",
+      "author": "@PArchuletta76",
+      "content_summary": "Demands driving all Muslims out, calls Islam religion of murderers, thieves, genocidal maniacs, pedophiles; murder, rape, pedophilia not religion but crime.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/djp4cm4n/status/2058290607777284157",
+      "author": "@djp4cm4n",
+      "content_summary": "Warns of Islamization of Britain, grooming gangs, mass Muslim immigration incompatible with British values; supports deportations.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jeff4loans/status/2058290497265811753",
+      "author": "@jeff4loans",
+      "content_summary": "Mentions muslim invasion.",
+      "category": "threat_narrative",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BlytheRoy19783/status/2058290479720960196",
+      "author": "@BlytheRoy19783",
+      "content_summary": "Mentions 259 thousand child victims of Pakistani Muslim rape gangs.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bennetpaul27/status/2058290399861723551",
+      "author": "@bennetpaul27",
+      "content_summary": "Describes Islam in Japan as building mosques, praying in streets for dominance, halal, sharia, raping infidel women, burning temples.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NUFC_933/status/2058239419023237135",
+      "author": "@NUFC_933",
+      "content_summary": "Claims Muslims in streets with terrorist flags, taking over UK, raping white girls/women, demanding Sharia.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/adam_jsm10/status/2058213772288766105",
+      "author": "@adam_jsm10",
+      "content_summary": "Says Muslims threaten society, rape young girls, abuse women, destroy culture; Islam is a cancer, eradicate it.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bourbonagain/status/2058231894110531736",
+      "author": "@bourbonagain",
+      "content_summary": "Calls Islam invading political ideology, must remove every muslim degenerate from shores.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
