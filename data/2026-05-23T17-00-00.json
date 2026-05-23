@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-23T17-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/JudyD02592283/status/2058232300173746179",
+      "author": "@JudyD02592283",
+      "content_summary": "Calls to defund terrorism and explicitly ban Sharia law and Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JustinStamm/status/2058232300173689134",
+      "author": "@JustinStamm",
+      "content_summary": "Claims siding with Islam is a blunder as they are not friends and links to invasion",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SterlingBelikov/status/2058232285304930487",
+      "author": "@SterlingBelikov",
+      "content_summary": "Says Islam is not a religion of peace, sarcastically using the phrase",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ScarlettMerlot/status/2058232270599713208",
+      "author": "@ScarlettMerlot",
+      "content_summary": "Accuses someone of joining Muslim rape gangs and calls wife a whore overseeing it",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/maybestains2/status/2058232256209039495",
+      "author": "@maybestains2",
+      "content_summary": "References grooming gangs and implies Muslim council controls speech",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jeffster3141/status/2058232102991380519",
+      "author": "@jeffster3141",
+      "content_summary": "Calls Muslims death cultists of a pedophile prophet who invade, conquer, rape and kill",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
