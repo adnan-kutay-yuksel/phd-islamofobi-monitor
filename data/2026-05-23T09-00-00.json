@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-05-23T09-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/BridgetGoulding/status/2058111601635385570",
+      "author": "@BridgetGoulding",
+      "content_summary": "Islam is using symbolic appropriation of hallowed ground and is a real threat.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Disco_Dave1989/status/2058111599966138577",
+      "author": "@Disco_Dave1989",
+      "content_summary": "Muslim crime rates are sky high.",
+      "category": "crime_association",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/simon4124/status/2058111505174765911",
+      "author": "@simon4124",
+      "content_summary": "Should we kick out all Muslims because of grooming gangs?",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JCriswell4Him/status/2058111403555209685",
+      "author": "@JCriswell4Him",
+      "content_summary": "Islam: they rape White girls as duty... stone age trash that must be purged from American soil.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ProfYonan/status/2058109258734944701",
+      "author": "@ProfYonan",
+      "content_summary": "Muslim offenders get away with assault/rape because their culture allows it.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/datdudejoeykirb/status/2058105172937642122",
+      "author": "@datdudejoeykirb",
+      "content_summary": "The threat of Islam as Arab nations enable bomb territories.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/hughduncan57/status/2058104653942829065",
+      "author": "@hughduncan57",
+      "content_summary": "Muslims contribute only crime, raping children, murder; deport them all.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JasonCu99563909/status/2058104226157326469",
+      "author": "@JasonCu99563909",
+      "content_summary": "Muslims bring terror; focus on them as victims ignores the deadly threat.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/GuideToTheBible/status/2058101814155673833",
+      "author": "@GuideToTheBible",
+      "content_summary": "Islam has knives/swords as symbols of war and crime.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
