@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-05-23T13-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/DeepFCB/status/2058181514790306180",
+      "author": "@DeepFCB",
+      "content_summary": "Radical muslims slandering guy over daughter's lack of hijab, sarcastically calls Islam 'religion of peace'",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DeadInNihon/status/2058181028611801093",
+      "author": "@DeadInNihon",
+      "content_summary": "Muslims cover for each other in shitting, murdering, raping/grooming girls",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/aristocrates13/status/2058180954955407854",
+      "author": "@aristocrates13",
+      "content_summary": "Invasion of Africans, Europe doomed to Islam",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DaWokaIsBack/status/2058180724641919045",
+      "author": "@DaWokaIsBack",
+      "content_summary": "Islam is cancer",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Britishbrad123/status/2058180717784219786",
+      "author": "@Britishbrad123",
+      "content_summary": "Millions of English children raped by Muslim grooming gangs",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Merlin28409469/status/2058180681960751415",
+      "author": "@Merlin28409469",
+      "content_summary": "Muslim grooming gangs raping young women and children",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ppuma349/status/2058180679964180872",
+      "author": "@ppuma349",
+      "content_summary": "Muslim grooming gangs raping young girls across Europe",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LeonLon1954306/status/2058180675690172814",
+      "author": "@LeonLon1954306",
+      "content_summary": "Muslim non-allegiance to non-Muslim states is invasion, Europe must act before too late",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WUrtel92492/status/2058180536548401409",
+      "author": "@WUrtel92492",
+      "content_summary": "Fights the Muslim invasion of the U.S.A.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
