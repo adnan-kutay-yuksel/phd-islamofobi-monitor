@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-24T15-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/shikpasargadi/status/2058563112773562677",
+      "author": "@shikpasargadi",
+      "content_summary": "Calls to deport people from Islamic countries from USA as they are terrorists and dangers, Islam is terrorists religion not normal",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BarterBlex/status/2058560276430221501",
+      "author": "@BarterBlex",
+      "content_summary": "Equates Islam with African rape military",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MiRajeshPatil/status/2058559304916177154",
+      "author": "@MiRajeshPatil",
+      "content_summary": "Claims Muslims proved Islam is terrorist religion by threatening to rape British daughters",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LadyLoveLDN/status/2058556823951601937",
+      "author": "@LadyLoveLDN",
+      "content_summary": "Says Muslims want you raped if not dressed appropriately, deport them all as danger to us and way of life",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/peterc1957/status/2058550014763245780",
+      "author": "@peterc1957",
+      "content_summary": "Shames police for not investigating Muslims who groom and rape with same vigour",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
