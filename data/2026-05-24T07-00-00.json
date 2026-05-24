@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-24T07-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/j_p_America/status/2058452682830975185",
+      "author": "@j_p_America",
+      "content_summary": "Muslims' doctrine to force world into cult, invaded/raped Europe 1400 years, now asylum and rape, will be repaid with violence when right arises. Deus vult.",
+      "category": "threat_narrative | crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pato50715/status/2058452571434385885",
+      "author": "@pato50715",
+      "content_summary": "Islam is the cancer of the world, only a deadly sect.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pato50715/status/2058452080201756869",
+      "author": "@pato50715",
+      "content_summary": "Islam is the cancer of the world, wherever there is Islam there is violence, they don't know how to live with others, want to impose their deadly sect, hates them for killing his daughter.",
+      "category": "dehumanization | crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Toji_Vibes/status/2058451122881466778",
+      "author": "@Toji_Vibes",
+      "content_summary": "Islam in a nutshell, all rape and conversion.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/kosherronin/status/2058450705497678037",
+      "author": "@kosherronin",
+      "content_summary": "Islam incompatible with America, abhors liberty/individualism/equality, infestation festering.",
+      "category": "threat_narrative | dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VijayGajeraO/status/2058454386917933334",
+      "author": "@VijayGajeraO",
+      "content_summary": "Muslim youth made Cockroach janta Party in West Bengal, planning protest to create Nepal/Bangladesh situation.",
+      "category": "dehumanization | threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    }
+  ]
+}
