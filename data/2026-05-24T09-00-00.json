@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-24T09-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/BB018353/status/2058486423326498874",
+      "author": "@BB018353",
+      "content_summary": "Muslims still practice 7th century barbaric ideology and were invited in to destroy western civilization",
+      "category": "threat_narrative | dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SASB_US_TRUMPS/status/2058485806365344249",
+      "author": "@SASB_US_TRUMPS",
+      "content_summary": "If they arab and Muslims they are trash",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/akingoffools/status/2058485567525187690",
+      "author": "@akingoffools",
+      "content_summary": "1400 years of bullshit where they sign treaties in weakness then betray, only change is uptake of bombs guns",
+      "category": "threat_narrative | dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Cherub_Rock_23/status/2058485544993124693",
+      "author": "@Cherub_Rock_23",
+      "content_summary": "Islam does not belong in the UK, practitioners see non-Muslim females of all ages as targets for harassment assault rape",
+      "category": "crime_association | threat_narrative | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
