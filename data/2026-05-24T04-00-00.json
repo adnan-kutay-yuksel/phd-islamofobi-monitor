@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-05-24T04-00-00",
+  "count": 12,
+  "results": [
+    {
+      "url": "https://x.com/RadAxl1/status/2058396630555267496",
+      "author": "@RadAxl1",
+      "content_summary": "Islam is a bigoted hateful terrorist organization",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ezra_issac/status/2058394405283693037",
+      "author": "@ezra_issac",
+      "content_summary": "ISLAM IS THE CAUSE OF ALL THE PROBLEMS IN THE WORLD.. RELIGION OF HATE AND TERROR.. INVASION OF ISLAM",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SocratesSword/status/2058393293965464030",
+      "author": "@SocratesSword",
+      "content_summary": "islam is built on rape",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LindaEpton/status/2058392698449731674",
+      "author": "@LindaEpton",
+      "content_summary": "muslims invaded India, butchered and slaughtered the native Indians... continue to butcher, rape and murder the Indian natives",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jaylyn600/status/2058390371391131814",
+      "author": "@jaylyn600",
+      "content_summary": "terrorist takeover like the Muslims are doing to Christianity",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Inf_El_Guapo/status/2058390068843143460",
+      "author": "@Inf_El_Guapo",
+      "content_summary": "Every mosque in America needs to be treated like the Branch Davidian Compound... terrorist breeding grounds & there's nothing religious about Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Defeat_Islam/status/2058374532545626397",
+      "author": "@Defeat_Islam",
+      "content_summary": "Islam=terrorism... gatherings of Mohamadans making such obvious displays of intimidation and conquest",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/vic108440270/status/2058352915404726717",
+      "author": "@vic108440270",
+      "content_summary": "It isn't Islamophobia when they want to take over your country, erase your culture... subjugate you",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MiRajeshPatil/status/2058379797030740059",
+      "author": "@MiRajeshPatil",
+      "content_summary": "Muslims have been proving it by their Karma of Terror!",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Fan268969627989/status/2058346952954405325",
+      "author": "@Fan268969627989",
+      "content_summary": "Typical Muslims, vicious, Vile creatures... predators. garbage humans. We need segregation!",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WykesZeiss/status/2058385941421522951",
+      "author": "@WykesZeiss",
+      "content_summary": "Islam is not compatible with Western Civilization... Muhammadeans are a threat... planned subjugation",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FaribaParniani/status/2058354729458049491",
+      "author": "@FaribaParniani",
+      "content_summary": "Islam is a barbaric ideology and Muslims are terrorist... Muslims should get out of Western countries",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
