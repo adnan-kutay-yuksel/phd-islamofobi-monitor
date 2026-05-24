@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-24T13-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/BrianMartinDavi/status/2058544007349985753",
+      "author": "@BrianMartinDavi",
+      "content_summary": "Accuses UK Labour of covering up rape, murder and torture of British children by predominantly Pakistani Muslim child rape gangs.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Akatsuki011493/status/2058544002538897719",
+      "author": "@Akatsuki011493",
+      "content_summary": "Describes an incident where 'this random Muslim' raped a woman and stabbed the apartment owner.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/fan671514/status/2058543867880735092",
+      "author": "@fan671514",
+      "content_summary": "Claims Islam is the only 'faux religion' that acts like hoodlums and engages in domestic terrorism.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/de_banji/status/2058543768077324488",
+      "author": "@de_banji",
+      "content_summary": "Calls the Manchester bomber an 'islamist demon' and describes Islam as a 'demonic cult' that spreads by terrorism as prescribed in the Quran.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FactPursuit/status/2058543554289344620",
+      "author": "@FactPursuit",
+      "content_summary": "Equates Muslims with Pakistanis and states that Indians do not engage in terrorism.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
