@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-25T21-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/be4_bama/status/2059019609865363515",
+      "author": "@be4_bama",
+      "content_summary": "Islam is a cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/roby76pd/status/2059019607365603387",
+      "author": "@roby76pd",
+      "content_summary": "Islam is a cancer. Wherever it arrives, it brings only violence. We stand with Indu for an Islam-free world.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/mad_timer/status/2059019440872665227",
+      "author": "@mad_timer",
+      "content_summary": "islam, the religion of peace...as long as you bow down to their wishes and dont question their methods",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Soulfare1427/status/2059019337407574344",
+      "author": "@Soulfare1427",
+      "content_summary": "Total number of terrorist attacks in the name of all religions combined (except Islam) post 911 = about 5. Total number of terrorist attacks in the name of Islam post 911 = about 48,000.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Nochumishgamzu/status/2059019296987058619",
+      "author": "@Nochumishgamzu",
+      "content_summary": "Go fuck yourself, you islamonazi jijadist. Youre a soon to be convicted , deported felon for your immigration lies and role in one of the biggest frauds in tax payer history,perpetrated by your Somali Muslims. Send this disgusting terrorist pig packing.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
