@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-05-25T23-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/CAwake95582/status/2058866240374907158",
+      "author": "@CAwake95582",
+      "content_summary": "Calls for mass deportations of 'Islamics' as they seek to take over, quotes Quran on killing infidels, bans mosques as command centers for killing us, portrays as clear threat to Western way of life.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CAwake95582/status/2058831805269021140",
+      "author": "@CAwake95582",
+      "content_summary": "Islam is existential threat to UK, Muslims must leave forever, mosques preach killing, promotes mass deportations to restore Britain.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MaudLand3/status/2058927328042893560",
+      "author": "@MaudLand3",
+      "content_summary": "Compares Islam to Nazism as totalitarian ideology seeking world domination, equates Islamophobia with common sense.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MichiganPK/status/2058736050885865950",
+      "author": "@MichiganPK",
+      "content_summary": "Deport evil uncivilized scourge of Islam/Muslims incompatible with Western civilization.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CvBoul1/status/2058704994438975905",
+      "author": "@CvBoul1",
+      "content_summary": "Muslims invade via mosques, rape and murder, not religion of peace, calls to fight and stop destruction.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BrowniePeck/status/2059033306809987365",
+      "author": "@BrowniePeck",
+      "content_summary": "Islam existential threat to West, evil cult advocating rape, pedophilia, incompatible with Western values.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SeanHans777/status/2058700915968999498",
+      "author": "@SeanHans777",
+      "content_summary": "Islam violent religion of submission, sick Quranic beliefs including slavery and mutilation, not phobia as fear is realistic.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BrowniePeck/status/2059035093407293604",
+      "author": "@BrowniePeck",
+      "content_summary": "Islam existential threat to West, evil cult advocating intolerance, violence, rape, pedophilia, incompatible with West.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ElwellDenn17038/status/2058797162390032878",
+      "author": "@ElwellDenn17038",
+      "content_summary": "Disgusting foreign Muslim culture would behead infidels, defends against accusations of hate.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
