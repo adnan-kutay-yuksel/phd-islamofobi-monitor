@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-25T19-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/4jxhhwfv9d/status/2058997681624903694",
+      "author": "@4jxhhwfv9d",
+      "content_summary": "Claims Islam actively commits terrorism on a daily basis.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NDows39/status/2058997586900451432",
+      "author": "@NDows39",
+      "content_summary": "Discusses grooming gangs in context of media terms but does not promote hatred.",
+      "category": "crime_association",
+      "severity": 1,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/malcolmjohnstev/status/2058997431358890264",
+      "author": "@malcolmjohnstev",
+      "content_summary": "Associates Muslims with rape and murder, calls for deportation of Muslims.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jknaup7/status/2058997262148096482",
+      "author": "@jknaup7",
+      "content_summary": "Claims Muslims are commanded by Allah to rape, beat and murder non-Muslims.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/slakha0/status/2058997193353072967",
+      "author": "@slakha0",
+      "content_summary": "Associates Muslim boys with rape and forcing religious conversion.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
