@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-25T05-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/ShalomAdaniISR/status/2058780722089922748",
+      "author": "@ShalomAdaniISR",
+      "content_summary": "Calls Islam the cancer of humanity and refers to supporters of Islamists as suicidal, labeling them vile vermin.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KarenSchaaf5/status/2058780276906750190",
+      "author": "@KarenSchaaf5",
+      "content_summary": "Calls for deporting all Muslims from America, labeling them a plague.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Aussie_Pedro224/status/2058780173772956097",
+      "author": "@Aussie_Pedro224",
+      "content_summary": "States Islam is an existential threat to Western democracy and civilization, describing it as an ideology of hate, violence, and misogyny.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ShalomAdaniISR/status/2058780097054683442",
+      "author": "@ShalomAdaniISR",
+      "content_summary": "Calls Islam the cancer of humanity and refers to supporters as suicidal, labeling them vile vermin.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MichC1971/status/2058780808576410065",
+      "author": "@MichC1971",
+      "content_summary": "Questions why moderate Muslims do not speak up about extremism, grooming gangs, violent attacks on Jews, and suicide bombers.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
