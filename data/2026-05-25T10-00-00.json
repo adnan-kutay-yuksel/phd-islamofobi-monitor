@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-25T10-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/victorawa14320/status/2058854317197496532",
+      "author": "@victorawa14320",
+      "content_summary": "Claims you wouldn't put your sister in a room with 100 Muslim men because they would rape her.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/teufelhundusmc1/status/2058854113564131504",
+      "author": "@teufelhundusmc1",
+      "content_summary": "References Muslim invasion of Constantinople and calls Islam a 'seventh century terror cult'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/chulopxpi/status/2058854102378139907",
+      "author": "@chulopxpi",
+      "content_summary": "States grooming and rape are 'Muslim activity'.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/EraMertyn/status/2058853942549721312",
+      "author": "@EraMertyn",
+      "content_summary": "Claims fear of Islam is founded based on excuses for rape and behavior allowed in 'my country'.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BOATMAN4TRUMP/status/2058853926150004923",
+      "author": "@BOATMAN4TRUMP",
+      "content_summary": "Questions if concern over Islamists and 'systemised infidel child rape gangs' makes one an Islamophobe.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/The_Doji_San/status/2058853836408619491",
+      "author": "@The_Doji_San",
+      "content_summary": "Claims Islamists are hell-bent on taking over the West and implementing Sharia; mocks 'religion of peace'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/xxxresetxxx/status/2058853733530808389",
+      "author": "@xxxresetxxx",
+      "content_summary": "Describes Islam adherents as inbred, retarded, breeding dependents on the state.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
