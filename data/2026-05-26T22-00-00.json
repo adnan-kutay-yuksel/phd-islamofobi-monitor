@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-26T22-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/Nickisbackbaby/status/2059400025122419156",
+      "author": "@Nickisbackbaby",
+      "content_summary": "'Islam is a religion of peace'. Yet thousands of military aged Muslims cross into Europe illegaly each day and rape young girls, commit violent crimes, burn churches and shout Allah Akbah in the streets.... I don't see any 'peaceful' Muslims calling out this behavior?",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/monicanem/status/2059399730400993736",
+      "author": "@monicanem",
+      "content_summary": "Islam is extreme! It has no reform movement. No one should trust respect or allow it to invade their societies until it undertakes a massively convincing effort to reform modernize & denounce it's barbaric Medieval throwback beliefs! We shouldn't even consider individual Muslims.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SMousedream/status/2059399535122600225",
+      "author": "@SMousedream",
+      "content_summary": "Religion of peace. Ban Islam.",
+      "category": "direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
