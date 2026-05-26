@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-26T18-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/mbruggelivecom1/status/2059341266429595769",
+      "author": "@mbruggelivecom1",
+      "content_summary": "Quotes post claiming Muslim population growth in Britain leads to demographic conquest, no-go zones, riots, Sharia, and eventual genocide; calls to 'stop the invasion, enforce assimilation or deportation'.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "high"
+    },
+    {
+      "url": "https://x.com/Snoopysmomma/status/2059341057439957003",
+      "author": "@Snoopysmomma",
+      "content_summary": "Demands deportation of Islamists/terrorists prepared to kill for non-conversion; frames it as hate crime against non-Muslims.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheDigitalMind7/status/2059341114692530598",
+      "author": "@TheDigitalMind7",
+      "content_summary": "Calls Indian Muslims 'filthy', 'terrorists', 'k2waa'; demands they leave to fix India, associates with encroachment and slums.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dietcokesocks/status/2059340222148841768",
+      "author": "@dietcokesocks",
+      "content_summary": "Mocks 'these people' in Muslim countries for 'dumb ass shit all day long'.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DixieLLawrence/status/2059339947942044030",
+      "author": "@DixieLLawrence",
+      "content_summary": "Claims 'these people' inbred for 1400 years causing low IQ and nonexistent morals.",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Sierra6691/status/2059326896295526598",
+      "author": "@Sierra6691",
+      "content_summary": "Lists Islam tenets as convert or kill, taqiyya, pedophilia, rape culture, terrorism, beheadings, hatred, conquest; calls it devil worship.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
