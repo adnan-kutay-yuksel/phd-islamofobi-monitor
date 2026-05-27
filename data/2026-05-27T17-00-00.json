@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-27T17-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/XZNSEI/status/2059686299754168518",
+      "author": "@XZNSEI",
+      "content_summary": "Claims Islam in Nigeria isn't a religion of peace",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WillyJohns68463/status/2059686163527737495",
+      "author": "@WillyJohns68463",
+      "content_summary": "Calls Islam an invasion force that must go",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DavidStewardso3/status/2059685947235598559",
+      "author": "@DavidStewardso3",
+      "content_summary": "Associates Muslims with grooming gangs and political pandering",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DG1872_/status/2059685740879958206",
+      "author": "@DG1872_",
+      "content_summary": "Calls Islam a cancer to the west in response to Taliban news",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ThomasLind69704/status/2059685532704153983",
+      "author": "@ThomasLind69704",
+      "content_summary": "States Islam is cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WillyJohns68463/status/2059685425829257708",
+      "author": "@WillyJohns68463",
+      "content_summary": "Calls to rid the west of the Islam cancer",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LordDSofCanada/status/2059685309357629833",
+      "author": "@LordDSofCanada",
+      "content_summary": "Says Islam isn't the religion of peace due to terror attacks by Muslims",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/XCitizenXX/status/2059684140363186672",
+      "author": "@XCitizenXX",
+      "content_summary": "Sarcastically calls Islam the religion of peace",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
