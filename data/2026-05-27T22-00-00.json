@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-27T22-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/inmacapo/status/2059767288757100946",
+      "author": "@inmacapo",
+      "content_summary": "Calls to ban Islam in all states and deport all Muslims ASAP to clean the country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ForMeToKnow1972/status/2059767207341564193",
+      "author": "@ForMeToKnow1972",
+      "content_summary": "Claims the US is falling to Islam due to liberals sympathizing with terrorism.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ChuChiFace/status/2059767042895651122",
+      "author": "@ChuChiFace",
+      "content_summary": "Supports remigration as common sense, states Islam is not a religion of peace.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FrFrankie1/status/2059766887580365178",
+      "author": "@FrFrankie1",
+      "content_summary": "Warns of demographic replacement and rising threat of Islam, claims women will get raped if not stopped.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BillingsTay/status/2059766887580365178",
+      "author": "@BillingsTay",
+      "content_summary": "Tells to remind Muslims they are in America and can't do that, calls to deport them.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
