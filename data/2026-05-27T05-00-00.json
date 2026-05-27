@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-05-27T05-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/Chrismoloney69/status/2059500734635503847",
+      "author": "@Chrismoloney69",
+      "content_summary": "Peace, compassion and Islam don't belong in the same sentence.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RealHeatherOB/status/2059494397889413160",
+      "author": "@RealHeatherOB",
+      "content_summary": "Islam is a cancer in America.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LiberTDayWalker/status/2059493862746247679",
+      "author": "@LiberTDayWalker",
+      "content_summary": "Muslims are bioweapons... Islam was truly an existential threat",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Denisetrinitys1/status/2059491437159317985",
+      "author": "@Denisetrinitys1",
+      "content_summary": "7TH CENTURY DEATH CULT... DEPORT ALL MUSLIMS!!",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/athiestboi/status/2059490069803577843",
+      "author": "@athiestboi",
+      "content_summary": "Islam is Not a Religion of peace and should be rejected",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Batman_vk018/status/2059489042996347238",
+      "author": "@Batman_vk018",
+      "content_summary": "Muslim grooming gangs in Europe",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/NamkuzuNiggina/status/2059489153906041082",
+      "author": "@NamkuzuNiggina",
+      "content_summary": "Islam is an imperialist & genocidal barbarian ideology... Muslims are rabid barbarians... existential threat... Ban Islam/Muslims",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/maksimum234/status/2059493477147185171",
+      "author": "@maksimum234",
+      "content_summary": "stoneage death cult islamists... barbarians whose sole obsessive innovations center exclusively around predation",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
