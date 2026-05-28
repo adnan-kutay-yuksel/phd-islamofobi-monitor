@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-28T00-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/Bob30623511/status/2059786943190229065",
+      "author": "@Bob30623511",
+      "content_summary": "Deport all Muslims!",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Francis45254788/status/2059786820670365871",
+      "author": "@Francis45254788",
+      "content_summary": "Grooming goat jockeys, get Islam out of Ireland immediately",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/vikkiveroni/status/2059786816941588749",
+      "author": "@vikkiveroni",
+      "content_summary": "Muslims rape and murder. How can you support them?!",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NHaycock2/status/2059786781508173851",
+      "author": "@NHaycock2",
+      "content_summary": "Hope those muslim rape gangs will fight for you",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/captainbikerman/status/2059786757718081897",
+      "author": "@captainbikerman",
+      "content_summary": "Islam is the cancer of humanity",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
