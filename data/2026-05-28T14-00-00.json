@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-05-28T14-00-00",
+  "count": 11,
+  "results": [
+    {
+      "url": "https://x.com/EdBx3331957/status/2060007782242234785",
+      "author": "@EdBx3331957",
+      "content_summary": "Discusses migrant hiring stats then says 'Ban Islam' implying no replacement but still calls to ban the religion.",
+      "category": "direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ERIS4ThePEOPLE/status/2060007685647679742",
+      "author": "@ERIS4ThePEOPLE",
+      "content_summary": "Claims Democrats enable 'invasion by Islam' in context of NYC mayor and 9/11.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/eye95/status/2060007475865125109",
+      "author": "@eye95",
+      "content_summary": "States 'islam is an existential threat to #WesternCulture' and claims it creates insanity leading Muslims to kill and terrorize.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/indicolt3434/status/2060007473784697221",
+      "author": "@indicolt3434",
+      "content_summary": "Calls Islam a cancer in response to Afghan women's rights issues under Taliban.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/George85337002/status/2060007053792624939",
+      "author": "@George85337002",
+      "content_summary": "Sarcastically says 'ISLAM...THE RELIGION OF PEACE. MY ASS!' linking to Swiss attack story.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Biggbirdever/status/2060006711696441783",
+      "author": "@Biggbirdever",
+      "content_summary": "Declares 'Islam is a terrorist religion all Muslims around the world are dangerous people' blaming all killing/kidnapping on Muslims.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/End1913/status/2060006336541458452",
+      "author": "@End1913",
+      "content_summary": "Calls to 'Deport all Muslims' as 'Muslim invaders' incompatible with Western values due to terrorism and treatment of women.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/mdcoop1967/status/2060005827835031872",
+      "author": "@mdcoop1967",
+      "content_summary": "Sarcastically asks 'Islam is a religion of peace, right?' linking to BBC article on attack.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AlvesPedro57992/status/2060005558682268036",
+      "author": "@AlvesPedro57992",
+      "content_summary": "Calls Islam a 'DEMONIC CULT' and 'Religion of Peace' sarcastically after Zurich attack by 'Islamic terrorist'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SeanHans777/status/2059971512417890558",
+      "author": "@SeanHans777",
+      "content_summary": "Calls Islam a violent religion of forceful submission with sick Quranic beliefs enabling slavery, child marriage, etc.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ItsAsYouWish/status/2059980952382615883",
+      "author": "@ItsAsYouWish",
+      "content_summary": "Complains about 'Mohammedans everywhere' as a form of terrorism against Western culture.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
