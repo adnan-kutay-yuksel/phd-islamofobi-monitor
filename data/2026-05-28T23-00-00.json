@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-28T23-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/packersdude10/status/2060139082047438853",
+      "author": "@packersdude10",
+      "content_summary": "Islam is cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MikeRobinsonGA/status/2060138803742879846",
+      "author": "@MikeRobinsonGA",
+      "content_summary": "Islam is THE GREATEST THREAT to America. Period.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Antonene3/status/2060138570954756335",
+      "author": "@Antonene3",
+      "content_summary": "if you vote for Gina, the the Islam invasion will continue to take over Texas. The only thing that is standing between you and it Islamic invasion is Greg Abbott and Ken Paxton.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/wxannie/status/2060138519167975785",
+      "author": "@wxannie",
+      "content_summary": "But yet the UK won’t even detain Muslims for actual rape.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MikeRobinsonGA/status/2060138475614015678",
+      "author": "@MikeRobinsonGA",
+      "content_summary": "Islam is THE GREATEST THREAT to America. Period.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
