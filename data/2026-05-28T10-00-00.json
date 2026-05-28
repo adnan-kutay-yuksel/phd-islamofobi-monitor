@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-28T10-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/xsurffer/status/2059939490395988353",
+      "author": "@xsurffer",
+      "content_summary": "Claims Islam is not the religion of peace in response to animal sacrifice video, using sarcastic 'religion of peace' dog whistle.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DeborahKFreedom/status/2059939379947213141",
+      "author": "@DeborahKFreedom",
+      "content_summary": "Generalizes Muslims in Iran as enforcing power via violence, rape, and murder on non-Muslims.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/joseangel1219/status/2059939126560825477",
+      "author": "@joseangel1219",
+      "content_summary": "Calls for Muslims to be removed from the country to reduce rape, pedophilia, and fraud.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/xsurffer/status/2059939067723457022",
+      "author": "@xsurffer",
+      "content_summary": "Claims Islam is not the religion of peace while sharing video of blood in streets, linking to Muslim area.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Zeeeee_xx/status/2059939006930898989",
+      "author": "@Zeeeee_xx",
+      "content_summary": "Accuses Islam of teaching rape of 3-year-olds via Quran, calling it demonic.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/mr_free_speech/status/2059938997380522100",
+      "author": "@mr_free_speech",
+      "content_summary": "Associates hundreds of thousands of British girls' rapes with Muslims and claims it has to do with Islam.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
