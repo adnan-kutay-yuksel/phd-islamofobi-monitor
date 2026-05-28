@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-28T05-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/ImtiazMadmood/status/2059864874864242981",
+      "author": "@ImtiazMadmood",
+      "content_summary": "Lists numerous alleged negative traits of Islam including beheading, stoning, marrying little girls, rape, terrorism, Sharia, child abuse, and asks if opposing them makes one Islamophobic.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ceff_Init_G/status/2059864652494893442",
+      "author": "@Ceff_Init_G",
+      "content_summary": "Claims Fulanis use Islam to cover crimes and calls for Islamic world to declare Fulani a global threat and terrorist race.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sarkar2975/status/2059863874904732133",
+      "author": "@sarkar2975",
+      "content_summary": "States Muslims commit crimes or terrorism and go door to door converting people.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/realwilldonahue/status/2059863812489282027",
+      "author": "@realwilldonahue",
+      "content_summary": "Calls two Somalian Muslims 'invaders' who 'don’t belong in America' and demands they be sent home after a fraud arrest.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RDean62548381/status/2059863803488293167",
+      "author": "@RDean62548381",
+      "content_summary": "Calls for mass deportation of Muslims, tagging #invasion.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jol56061/status/2059863721229398142",
+      "author": "@jol56061",
+      "content_summary": "Demands banning mosques, burkas, Islam, and deporting all Muslims, claiming they have no rights in the country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dinowalpa/status/2059862903444894207",
+      "author": "@dinowalpa",
+      "content_summary": "Refers to 'feral MUSLIMS' forming packs, with adhan as a 'hellhounds whistle to rape murder'.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
