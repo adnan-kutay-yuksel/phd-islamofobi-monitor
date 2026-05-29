@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-29T21-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/ChargedUp2749/status/2060479275002646844",
+      "author": "@ChargedUp2749",
+      "content_summary": "Islam is a cancer and it must be eradicated from the planet.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JohnnyMomo888/status/2060479113064767502",
+      "author": "@JohnnyMomo888",
+      "content_summary": "Islam is a cancer on society",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ed_uk2/status/2060478896429265322",
+      "author": "@ed_uk2",
+      "content_summary": "Supports no Muslim immigration until they stop the killings, easy when not the target of that religion.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/seven24567/status/2060478838023295398",
+      "author": "@seven24567",
+      "content_summary": "Lists prominent terrorist attacks since 1970 and attributes them all to Islam.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/andesoriginal/status/2060478813646069913",
+      "author": "@andesoriginal",
+      "content_summary": "Not every Muslim is a Jihadist Terrorist, but every Jihadist Terrorist is a Muslim. Many Mosques tend to be hotbeds for terrorist activities.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/flowirin/status/2060478655781085206",
+      "author": "@flowirin",
+      "content_summary": "islam is a cancer",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
