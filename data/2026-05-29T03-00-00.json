@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-29T03-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/honest_humann/status/2060208059881038129",
+      "author": "@honest_humann",
+      "content_summary": "Claims terrorism persists globally because of Islam doctrine and highlights 'the evil in Islam'",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KruxSmash/status/2060207986966925584",
+      "author": "@KruxSmash",
+      "content_summary": "Islam is a cancer on the world",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Paultipsy/status/2060208001676362047",
+      "author": "@Paultipsy",
+      "content_summary": "Islam needs erasing... It’s a cancer and now you’re seeing it metastasized",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
