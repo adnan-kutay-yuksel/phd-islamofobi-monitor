@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-29T23-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/ReaperWb/status/2060500504866705571",
+      "author": "@ReaperWb",
+      "content_summary": "Claims Hamas terrorists' faith (Islam/Quran) commands lying (Taqiyya), deception, slaughter and rape of infidels if they refuse conversion.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Itx_judith/status/2060500433286877554",
+      "author": "@Itx_judith",
+      "content_summary": "Agrees Islam is a threat to the entire world.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TruthTellerDotC/status/2060500410125672947",
+      "author": "@TruthTellerDotC",
+      "content_summary": "Compares embarrassment in Sikh community to grooming gangs being an embarrassment to the Muslim community.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JesusandmeAlan/status/2060499862857109588",
+      "author": "@JesusandmeAlan",
+      "content_summary": "Praises Vlad III for stopping Muslim invasion of Europe after seeing what Muslims are really like; implies need for similar men today.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Tiyhek1134681/status/2060499561731207253",
+      "author": "@Tiyhek1134681",
+      "content_summary": "States Jews invented terrorism but Muslims perfected it.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DietrichCa4031/status/2060499451718861078",
+      "author": "@DietrichCa4031",
+      "content_summary": "Lists dozens of terrorist attacks attributed to Islam and declares Islam the biggest threat to the world.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TrolSciento/status/2060498832903852406",
+      "author": "@TrolSciento",
+      "content_summary": "Accuses Muslim Pakistani rape gangs in UK of raping and torturing young girls.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
