@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-30T06-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/QStyger70853/status/2060614007170719968",
+      "author": "@QStyger70853",
+      "content_summary": "Stop the Islam invasion permanently.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/cyntar613/status/2060613901339742623",
+      "author": "@cyntar613",
+      "content_summary": "The muslims need to be driven out of the USA.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Stillworkings/status/2060613726319886426",
+      "author": "@Stillworkings",
+      "content_summary": "People are waking up to the serious threat of Islam. Within 20 years, Britain will be an islamic third world state.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GodlyAction/status/2060613363772658117",
+      "author": "@GodlyAction",
+      "content_summary": "If Islam is the “Religion of Peace,” why isn’t there peace in the Middle East?",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
