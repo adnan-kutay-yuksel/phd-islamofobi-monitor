@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-30T19-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Camraman61/status/2060803760973074666",
+      "author": "@Camraman61",
+      "content_summary": "Claims Muslim rape gangs exist and accuses others of supporting fascists by denying them.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Benjami54792488/status/2060803444819025923",
+      "author": "@Benjami54792488",
+      "content_summary": "States Muslims committing terrorism is the main cause of Islamophobia, implying it will continue.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/nick64117072/status/2060803433142108584",
+      "author": "@nick64117072",
+      "content_summary": "Accuses ignoring white UK child victims of Muslim rape gangs while wanting more immigration.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/only_organics_1/status/2060803292767150320",
+      "author": "@only_organics_1",
+      "content_summary": "Claims all Muslims are evil with sole objective to conquer, rape and kill.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gr8ballsoff1re/status/2060802947995349290",
+      "author": "@gr8ballsoff1re",
+      "content_summary": "Questions reporting on rape gangs and Muslims deliberately provoking by praying in front of churches.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sim41026/status/2060802918429696006",
+      "author": "@sim41026",
+      "content_summary": "Calls Muslims pedophiles who need to be removed, threatens violence against child brides and tells them to go back to shit hole.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
