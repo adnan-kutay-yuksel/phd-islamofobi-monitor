@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-30T09-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/ilyjas4219/status/2060650562719297633",
+      "author": "@ilyjas4219",
+      "content_summary": "Complains about lack of concern over systematic rape by Muslims",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BlueMount5656/status/2060649759518384381",
+      "author": "@BlueMount5656",
+      "content_summary": "Accuses Reform of ignoring Muslim rape gangs for votes",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sarker11160/status/2060649178062331939",
+      "author": "@sarker11160",
+      "content_summary": "Calls Islam an invader cult and existential threat to Hindus/Bharat",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AppleOfAvalon/status/2060648626284613776",
+      "author": "@AppleOfAvalon",
+      "content_summary": "Discusses Muslim grooming gangs and racial component, no negotiation with these people",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LindaLin7203/status/2060646562888343996",
+      "author": "@LindaLin7203",
+      "content_summary": "Claims Muslims rape little girls and stone wives",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Joanna1856826/status/2060646484077412816",
+      "author": "@Joanna1856826",
+      "content_summary": "Calls Turks/Muslims the cancer of the earth",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/davidholt885325/status/2060403642998407664",
+      "author": "@davidholt885325",
+      "content_summary": "Calls Islam a cancer spreading for global caliphate, says detain and deport",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
