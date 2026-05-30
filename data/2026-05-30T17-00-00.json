@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-30T17-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/RebelMAGA4547/status/2060771029933293848",
+      "author": "@RebelMAGA4547",
+      "content_summary": "Quotes post saying 'This is Islam !!!' with image, asks sarcastically 'Is #Islam a religion of #Peace.'",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheFrogCroaked/status/2060770948630917266",
+      "author": "@TheFrogCroaked",
+      "content_summary": "Calls Islam 'a cancer on this world', links to supporting terrorist regimes and needing US/Israeli strikes.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BestNiceAtheist/status/2060770769689321719",
+      "author": "@BestNiceAtheist",
+      "content_summary": "States 'Islam is cancer for humanity'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AirFriar3/status/2060770682645225617",
+      "author": "@AirFriar3",
+      "content_summary": "Says 'Remember: Islam is the religion of Peace!' sarcastically.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CASTROTROY666/status/2060770610075091227",
+      "author": "@CASTROTROY666",
+      "content_summary": "Calls Muhammad '7th century illiterate,pedophile robber', says Islam worships 'father of lies'.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Conservtve67/status/2060770307560911203",
+      "author": "@Conservtve67",
+      "content_summary": "Calls Islam 'the real threat to the world', claims it is 'flooding the world with low IQ criminals'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
