@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-05-30T03-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/NoelaTille40077/status/2060567136683413728",
+      "author": "@NoelaTille40077",
+      "content_summary": "Compares Muslims unfavorably to dogs, calls Islamic scholars 'shit on your shoe', and refers to Muslims as 'vermin' in cities.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/anonsynonymous6/status/2060566771397185566",
+      "author": "@anonsynonymous6",
+      "content_summary": "Suggests criminalizing support for Islam would eliminate 90% of crime in America.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LyonsL50534/status/2060543088104530330",
+      "author": "@LyonsL50534",
+      "content_summary": "Claims Muslims are invading Western countries, imposing will, and calls to deport them immediately.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SBaboo59/status/2060534272075636982",
+      "author": "@SBaboo59",
+      "content_summary": "Calls Islam totalitarianism, not a religion, accuses Islamists of laughing at the West, and demands deportation.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bebo919/status/2060520416557359362",
+      "author": "@bebo919",
+      "content_summary": "Frames Muslim immigration as importing enemies who commit attacks, stabbings, and grooming, warns of conquest and calls it paying the price.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
