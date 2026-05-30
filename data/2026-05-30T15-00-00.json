@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-30T15-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/FShakibai/status/2060740869200732634",
+      "author": "@FShakibai",
+      "content_summary": "Calls Islam a cancer/disease, links it to terrorism, Iran, and Islamist groups threatening the world.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ShawnaNonna/status/2060740831124856893",
+      "author": "@ShawnaNonna",
+      "content_summary": "Claims Islam on Western soil is a serious threat, references 1400 years of history and jihadist danger.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gr8ballsoff1re/status/2060740600974954810",
+      "author": "@gr8ballsoff1re",
+      "content_summary": "Refers to 'muslim rape gangs' as antisocial.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Roghaz/status/2060740444578001223",
+      "author": "@Roghaz",
+      "content_summary": "Calls Islam pure evil, says every Muslim is a deadly threat, demands Islam outlawed, mosques demolished, all Muslims deported.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ww3truthsayer/status/2060740426852692375",
+      "author": "@Ww3truthsayer",
+      "content_summary": "Says Muslim cultures do not align with the West due to rape, child marriage, FGM etc., calls to 'ship out'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WesternInfidel/status/2060740422159258063",
+      "author": "@WesternInfidel",
+      "content_summary": "Claims Islam is the real threat that must not be ignored.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
