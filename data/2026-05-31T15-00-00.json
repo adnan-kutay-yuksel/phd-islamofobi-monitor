@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-31T15-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/Jorge65174734/status/2061104942006362586",
+      "author": "@Jorge65174734",
+      "content_summary": "Cannot allow the invasion of Islam as its goal is to end the West, especially the US; they must leave for their countries where they don't allow other religions.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ili02Boss/status/2061104669296824714",
+      "author": "@Ili02Boss",
+      "content_summary": "Muslim Brotherhood wants nuclear weapons and is a threat to Europe; must deport them all back to Muslim countries.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Cooltreeman/status/2061104506654646689",
+      "author": "@Cooltreeman",
+      "content_summary": "Islam spread through threat of violence since inception; clips of Sharia law show it leads to rape, violence, and regression.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/3647martin/status/2061104344565506177",
+      "author": "@3647martin",
+      "content_summary": "Islam represents danger; time to remove the cancer from across Europe.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
