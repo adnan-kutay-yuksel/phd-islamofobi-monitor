@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-05-31T04-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/MikeMOct1997/status/2060936275621040235",
+      "author": "@MikeMOct1997",
+      "content_summary": "Islam is a cancer that destroys and brings darkness... The cult of Satan.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/stephen77723/status/2060935626199826778",
+      "author": "@stephen77723",
+      "content_summary": "The religion of peace so they say... right to ban Muslims from immigrating",
+      "category": "dog_whistle|direct_hatred",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HoldenMutevera/status/2060935234619691367",
+      "author": "@HoldenMutevera",
+      "content_summary": "having lots of Muslims in the West per se is a threat",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/celticsviv/status/2060935027215434108",
+      "author": "@celticsviv",
+      "content_summary": "It’s true Islam is a cancer",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AlphaSoupNotSee/status/2060934979933425697",
+      "author": "@AlphaSoupNotSee",
+      "content_summary": "I'd pick the 1942 invasion [Nazi] over Muslim gang banger control",
+      "category": "crime_association|threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RealRockwyn/status/2060934919036256716",
+      "author": "@RealRockwyn",
+      "content_summary": "Islam is cancer should be banned in the west",
+      "category": "dehumanization|direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Iam_Swainfn/status/2060934317661102348",
+      "author": "@Iam_Swainfn",
+      "content_summary": "Islam is a threat to Epstein class",
+      "category": "threat_narrative",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
