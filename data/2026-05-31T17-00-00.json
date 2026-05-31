@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T17-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/HailiOlavi/status/2061133006589325635",
+      "author": "@HailiOlavi",
+      "content_summary": "Islam is an early medieval system allowing beheading, pedophilia, child marriage, rape, stoning, etc.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KingRagnar94704/status/2061132999945552287",
+      "author": "@KingRagnar94704",
+      "content_summary": "Muslim rape gangs in UK rape white children because Islam allows it.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Mish_Customs/status/2061132974561652939",
+      "author": "@Mish_Customs",
+      "content_summary": "Muslims in UK murdering/raping, biggest threat, taken over the country, these people destroying it.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/La_Patria_Boba/status/2061132956387668341",
+      "author": "@La_Patria_Boba",
+      "content_summary": "Death to Islam, they are a plague, exterminate them, Islamic invasion destroying Europe.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RightWingJOHN_/status/2061132762187288948",
+      "author": "@RightWingJOHN_",
+      "content_summary": "Dirty Muslim rape gangs.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Deniseisms/status/2061132661175865688",
+      "author": "@Deniseisms",
+      "content_summary": "Islam: legally marry and rape 9 year old girls.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
