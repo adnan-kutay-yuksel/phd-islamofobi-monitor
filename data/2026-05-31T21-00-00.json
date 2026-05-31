@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T21-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/adrian_wil2954/status/2061191665667146050",
+      "author": "@adrian_wil2954",
+      "content_summary": "Islam brings destruction, rape and murder wherever it goes",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/VirtualMirth/status/2061191599233933465",
+      "author": "@VirtualMirth",
+      "content_summary": "violent nature of islam as an ideology",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/parsi1414/status/2061191575367991705",
+      "author": "@parsi1414",
+      "content_summary": "Muslim population directly correlates with violence, crime, rape and sexual assault",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Jo3713939David/status/2061191250674327635",
+      "author": "@Jo3713939David",
+      "content_summary": "mass deport non-Christians, pandering to Islam, white minority Britain",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pontiff691/status/2061191156139233348",
+      "author": "@pontiff691",
+      "content_summary": "Islam is the cancer that keeps the west without peace",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MARKOFBLADEZ/status/2061191052069855560",
+      "author": "@MARKOFBLADEZ",
+      "content_summary": "ban islam, deport it back to its 3rd world shitholes",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
