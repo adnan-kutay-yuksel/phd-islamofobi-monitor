@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-01T16-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/skwale944/status/2061487871278592234",
+      "author": "@skwale944",
+      "content_summary": "Islam is cancer",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/419jeansmith/status/2061487864857186464",
+      "author": "@419jeansmith",
+      "content_summary": "Muslims ideology does not mix with America, not assimilating, deport them",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ProjectDarkMode/status/2061487852693684593",
+      "author": "@ProjectDarkMode",
+      "content_summary": "Islam is the biggest threat to the West, and I mean all Islam",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/matt56053933/status/2061487547268595991",
+      "author": "@matt56053933",
+      "content_summary": "Pakistani Muslims committed a rape holocaust against white girls",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/decual1/status/2061487545695748518",
+      "author": "@decual1",
+      "content_summary": "Number one threat today is Muslims terrorism",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/WishfulDopey/status/2061486835248124237",
+      "author": "@WishfulDopey",
+      "content_summary": "Mentions Muslims in context of rape culture",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
