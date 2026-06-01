@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-01T23-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/RGeorgeBarnes/status/2061584272440414653",
+      "author": "@RGeorgeBarnes",
+      "content_summary": "Fuck Islam. It's a fucking cancer pushed by brainwashed people.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SeanHans777/status/2061583654048919807",
+      "author": "@SeanHans777",
+      "content_summary": "Islam is a violent pseudo religion that conquers via terrorism and intimidation! Nothing phobic about fearing stabbings, bombings, assaults.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ChrisIllngworth/status/2061583218512392217",
+      "author": "@ChrisIllngworth",
+      "content_summary": "You can't trust them [Muslims]. They will lie to protect their own and to do anything to push for their replacement plans for Britain.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FLOTUSQNEWS/status/2061583005487956471",
+      "author": "@FLOTUSQNEWS",
+      "content_summary": "Do you consider Islam a religion of peace? (sarcastic poll with implied no)",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PlaneIsMyHome/status/2061582451185520680",
+      "author": "@PlaneIsMyHome",
+      "content_summary": "I, for one Texan, am NOT ok with this invasion of islam across Texas",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
