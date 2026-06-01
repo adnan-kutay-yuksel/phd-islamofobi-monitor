@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-06-01T20-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/ItsMrEnglish/status/2061551016865132946",
+      "author": "@ItsMrEnglish",
+      "content_summary": "Praises leader who promises to punish Pakistani Muslim rape gangs severely, says they will pay for raping British children.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/DeborahSteinme4/status/2061550520095940810",
+      "author": "@DeborahSteinme4",
+      "content_summary": "Calls Islamic call to prayer a veiled threat and demand for subjugation of infidels.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Wildnfree1984/status/2061550006881198529",
+      "author": "@Wildnfree1984",
+      "content_summary": "Shares testimony about Muslim rape gangs targeting white girls, notes race and religion played a part.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/crazyfckingvids/status/2061548793145831478",
+      "author": "@crazyfckingvids",
+      "content_summary": "Claims Muslims in Europe are targeting, kidnapping, grooming and raping white Christian girls with government help.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/JOAlexOK/status/2061548722446803227",
+      "author": "@JOAlexOK",
+      "content_summary": "States rape gangs were predominantly Pakistani Muslims who brought hatred on themselves.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/lna34/status/2061548243268338102",
+      "author": "@lna34",
+      "content_summary": "Tags post with #islam #cancer",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Man28Yes42712/status/2061548115581370484",
+      "author": "@Man28Yes42712",
+      "content_summary": "Refers to enough 'Muslims terrorists' already in the UK.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Fur_Baby_Mama/status/2061447702207229983",
+      "author": "@Fur_Baby_Mama",
+      "content_summary": "Rejects 'violent culture' of Muslims who are here to conquer and don't assimilate.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/ZsForZedd/status/2061252789859131879",
+      "author": "@ZsForZedd",
+      "content_summary": "Compares Islamists to vermin or weeds that should be met with hostility.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/clairdeLun12797/status/2061399611747516683",
+      "author": "@clairdeLun12797",
+      "content_summary": "Calls for banning halal, hijab, mosques, Islamic schools, visas from Muslim countries, and deporting Muslim children and families.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    }
+  ]
+}
