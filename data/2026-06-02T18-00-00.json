@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-06-02T18-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/ByronSaldana777/status/2061881036796289025",
+      "author": "@ByronSaldana777",
+      "content_summary": "These people using Muslim Brotherhood docs to take over America politically and make it Muslim; wake up Congress.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JackIsAwake/status/2061880745912885588",
+      "author": "@JackIsAwake",
+      "content_summary": "Filthy muslim terrorists have no place in America; calls specific Muslim a terrorist and animal-abusing.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KGtalktome/status/2061880634197393499",
+      "author": "@KGtalktome",
+      "content_summary": "Invasion of Asians/Indians taking over suburbs; a lot are Muslim.",
+      "category": "replacement_theory",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
