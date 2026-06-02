@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-06-02T23-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/DavidDble/status/2061958034323320846",
+      "author": "@DavidDble",
+      "content_summary": "Islam breeds terrorists, over 90% of world's terrorists are Muslim, 'NO' TO THEIR CULT",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/hemingernestway/status/2061957722082283627",
+      "author": "@hemingernestway",
+      "content_summary": "All Abrahamic religions are a cancer on humanity... and Islam",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Roguendependent/status/2061957604092367071",
+      "author": "@Roguendependent",
+      "content_summary": "hate you terrorists! Islam is a cancer on the world!",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ken_tx4598/status/2061957503869411580",
+      "author": "@ken_tx4598",
+      "content_summary": "begin deportation of all the other Muslims",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
