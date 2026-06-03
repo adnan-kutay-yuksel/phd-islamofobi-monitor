@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-06-03T09-00-00",
+  "count": 3,
+  "results": [
+    {
+      "url": "https://x.com/Gruodis80/status/2062094050518303216",
+      "author": "@Gruodis80",
+      "content_summary": "Islam is Zionism’s weapon against the West; countries flooded with radicalised Muslims; Islamists = overt terrorists.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/EuroConOfficial/status/2062089586172444820",
+      "author": "@EuroConOfficial",
+      "content_summary": "Asks why Muslim immigrants are more likely to carry out terrorist attacks than any other groups in Europe.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Deepak920582/status/2062087352949121094",
+      "author": "@Deepak920582",
+      "content_summary": "Poland refused Muslim immigrants and is safer; no rape gangs or Hamas rallies.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
