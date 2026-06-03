@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-03T18-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Maxwell9999087/status/2062244499955265909",
+      "author": "@Maxwell9999087",
+      "content_summary": "Accuses Pakistani Muslim men of mass rape of white children and questions if a woman voted against inquiry.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/leahbigtweetsX/status/2062244275237048379",
+      "author": "@leahbigtweetsX",
+      "content_summary": "Calls out 'PAKISTANI MUSLIM GROOMING GANGS' for raping and abusing girls, labels defender as evil.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AltMhor/status/2062244136342675756",
+      "author": "@AltMhor",
+      "content_summary": "Calls Islam 'the cancer killing this country', a 'seventh century political ideology', says Muslims are incompatible with Britain.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/truepoonchi/status/2062241298724319557",
+      "author": "@truepoonchi",
+      "content_summary": "Claims Australia will soon be an 'Islam continent' due to too many following the 'medieval cult'.",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MalcolmFux/status/2062240670748639540",
+      "author": "@MalcolmFux",
+      "content_summary": "Sarcastic quote: 'actually Islam is the religion of peace'.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/PetulaGordeno/status/2062240181210563029",
+      "author": "@PetulaGordeno",
+      "content_summary": "Calls Islam a '7th century cult' founded by an 'illiterate pedophile warlord'.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
