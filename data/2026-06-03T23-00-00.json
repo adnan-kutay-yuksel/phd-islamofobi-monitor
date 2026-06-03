@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-06-03T23-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/beready4rapture/status/2062114650204831878",
+      "author": "@beready4rapture",
+      "content_summary": "Calls to deport ISLAM, equating it with terrorism, 9/11, illegal immigration overload, antisemitism, Sharia Law, and pedophilic prophet.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/beready4rapture/status/2062099177601933756",
+      "author": "@beready4rapture",
+      "content_summary": "Associates ISLAM with terrorism, 9/11, refugee crisis, antisemitism, Sharia, and calls for anger over its growth.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/beready4rapture/status/2062112795764679057",
+      "author": "@beready4rapture",
+      "content_summary": "DEPORT ISLAM, lists associations with terrorism, immigration crisis, Sharia, pedophilic prophet.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Gisella172488/status/2062229860555112789",
+      "author": "@Gisella172488",
+      "content_summary": "Problems with Islam's pedo-rape-stoning-Sharia-child marriage, invasion and destruction of countries and murder of children.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/HeadquartersWh2/status/2062319493171536264",
+      "author": "@HeadquartersWh2",
+      "content_summary": "Muslims taking over Texas with mosques and cities for jihad, plague of Islam to destroy Constitution and install Sharia, demons from 622 A.D. with low IQ and cousin marriage.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/gimmeapizza/status/2062319288040800523",
+      "author": "@gimmeapizza",
+      "content_summary": "Islam is the cancer incompatible with the rest of the world.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/kinsman59/status/2062318282212868486",
+      "author": "@kinsman59",
+      "content_summary": "Islamic existence is domination or death, like cancer must be eradicated from civilized society.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
