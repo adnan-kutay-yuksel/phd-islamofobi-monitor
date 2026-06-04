@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-06-04T18-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/_southy8/status/2062600413417717893",
+      "author": "@_southy8",
+      "content_summary": "Repeats 'Islam isn’t a religion of peace' multiple times in response to a post about Muslims",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GlennWillTweet/status/2062600397424857327",
+      "author": "@GlennWillTweet",
+      "content_summary": "Claims Islam cannot be accommodated, seeks to dominate and annihilate, calls for deportation as self-defense",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SiennaMgl/status/2062600396099506659",
+      "author": "@SiennaMgl",
+      "content_summary": "Associates Muslims/Arab descent with terrorism, grooming, and attacks on Europeans and Whites",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ameriturd/status/2062600305401831541",
+      "author": "@ameriturd",
+      "content_summary": "Calls Pakistani Muslims 'trash' involved in rape, mayhem, and murders on Brits due to Islam",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ColUpton/status/2062600162099290342",
+      "author": "@ColUpton",
+      "content_summary": "Refers to 'pedo Muslim rape gangs' and two-tier system allowing them",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Digital369369/status/2062519611682120000",
+      "author": "@Digital369369",
+      "content_summary": "Claims Muslims use racism/Islamophobia claims for Islamic takeover and to cover rape gangs",
+      "category": "replacement_theory",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/m_tanya94251/status/2062421270025625710",
+      "author": "@m_tanya94251",
+      "content_summary": "Accuses Muslims of raping 8-year-olds, beheading, Sharia, calls them animals and demands they get out of America",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
