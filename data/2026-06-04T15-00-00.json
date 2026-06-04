@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-04T15-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Gato_Cruzado_US/status/2062558868803338727",
+      "author": "@Gato_Cruzado_US",
+      "content_summary": "Muslims allowed by their cult to murder and rape",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LJoseph38001/status/2062558659238822171",
+      "author": "@LJoseph38001",
+      "content_summary": "Muslims are 7th century death cult set on world domination; let them go home",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jml3330/status/2062558623029416262",
+      "author": "@jml3330",
+      "content_summary": "Muslims should be removed from the U.S.; deport them now",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DanLemke5/status/2062558594348806373",
+      "author": "@DanLemke5",
+      "content_summary": "Muslim invasion of European countries",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Andsing49/status/2062558532143038604",
+      "author": "@Andsing49",
+      "content_summary": "Any Muslim in US Congress is direct threat to national security",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gardenmom428922/status/2062558487691903070",
+      "author": "@gardenmom428922",
+      "content_summary": "Deport Islam",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
