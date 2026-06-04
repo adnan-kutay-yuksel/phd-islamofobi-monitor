@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-04T20-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/wkevlin/status/2062417115240333328",
+      "author": "@wkevlin",
+      "content_summary": "Calls for deportation of Muslims citing Quran as making them enemies who can't obey Constitution, no rights for those shouting death to America.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RutiMod/status/2062558191792029876",
+      "author": "@RutiMod",
+      "content_summary": "Calls to denaturalize and expel subversive Muslims linked to jihadi terror warlords and Muslim Brotherhood, labeling it hate speech.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/toscadonna1/status/2062325906211746048",
+      "author": "@toscadonna1",
+      "content_summary": "Demands all Muslims be deported, calling Islam tyrannical governance, invaders, and aiding them treason.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/geoffspark1/status/2062434632008679648",
+      "author": "@geoffspark1",
+      "content_summary": "Demands deport all Muslims to avoid Eid, mass animal slaughter, mass gang rape of children, terrorism.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/William67689150/status/2062599840731681017",
+      "author": "@William67689150",
+      "content_summary": "Says Muslims need to leave, ban immigration, refute faith, destroy mosques, remove all trace in US.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/geoffspark1/status/2062477496210071586",
+      "author": "@geoffspark1",
+      "content_summary": "Calls internal Muslim threat serious, strip citizenship and deport starting with specific figures, using military.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
