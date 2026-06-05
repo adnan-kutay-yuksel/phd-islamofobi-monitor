@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-06-05T22-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/ThorsValhalla/status/2063022274572370207",
+      "author": "@ThorsValhalla",
+      "content_summary": "Calls Islam a 'Satanic Medieval Cult of Conquest' and Muslims 'Creepy Crawlers and Maggots'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AntrimHill/status/2063021866348913041",
+      "author": "@AntrimHill",
+      "content_summary": "Labels Islam a 'satanic death cult' that wants to return the world to the stone age with rape and pedophilia.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ThorsValhalla/status/2063020908928000469",
+      "author": "@ThorsValhalla",
+      "content_summary": "Calls Islam the 'Medieval Cult of Gay Pedophiles and Perverts'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/mayor_twitch/status/2063020902548120060",
+      "author": "@mayor_twitch",
+      "content_summary": "Claims Muslim states 'breed terrorism'.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LucidLahrie/status/2063020499785896342",
+      "author": "@LucidLahrie",
+      "content_summary": "Says 'Islam a religion of peace' sarcastically while linking Muslims to terrorism percentages.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NormanGoodDog/status/2063020220185493735",
+      "author": "@NormanGoodDog",
+      "content_summary": "Calls Islam 'a cancer in Britain'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Ze1Brometheus/status/2063020132876570802",
+      "author": "@Ze1Brometheus",
+      "content_summary": "Says 'Muslims are a detriment and a cancer to Western Civilization'.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Mollie1693448/status/2063020033803006113",
+      "author": "@Mollie1693448",
+      "content_summary": "Frames a video as proof that 'Islam must be recognized as a threat to national security'.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
