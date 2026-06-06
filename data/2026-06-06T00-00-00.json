@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T00-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/richard_duble/status/2063050657456644224",
+      "author": "@richard_duble",
+      "content_summary": "Calls for deporting every Muslim in America",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KennyPh74666641/status/2063050644957626546",
+      "author": "@KennyPh74666641",
+      "content_summary": "Claims all Muslims want to invade, rule, convert, enslave and kill; demands Muslim-free world and mass deportation",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/CommanderK30884/status/2063050478905123271",
+      "author": "@CommanderK30884",
+      "content_summary": "States 'Islam is a cancer in Britain'",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/KennyPh74666641/status/2063050092752306187",
+      "author": "@KennyPh74666641",
+      "content_summary": "Demands ban on all Muslims, claims they invade and kill, calls for Muslim-free world and deportation",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Johnantiislam/status/2063049042980901196",
+      "author": "@Johnantiislam",
+      "content_summary": "Calls Islam 'the cancer of the world'",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NotASheep99/status/2063048909518164086",
+      "author": "@NotASheep99",
+      "content_summary": "Refers to Muslims as 'demons' that need to be 'rounded up and removed', calls Islam cancer",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
