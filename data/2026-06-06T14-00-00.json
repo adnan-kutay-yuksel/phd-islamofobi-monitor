@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-06T14-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/DinkyMyers/status/2063270603591762414",
+      "author": "@DinkyMyers",
+      "content_summary": "Islam is not a religion but a threat to the world.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DetmerDavi24545/status/2063270597430268020",
+      "author": "@DetmerDavi24545",
+      "content_summary": "Muslims were never good at anything other than rape, pillage and destroy everything in their path.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NeonTrees_thfc/status/2063270388629713220",
+      "author": "@NeonTrees_thfc",
+      "content_summary": "Allah allowed Mohammed to rape a 9 year old, that is Islam.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/lawrenceca57764/status/2063270361332924429",
+      "author": "@lawrenceca57764",
+      "content_summary": "Deporting them all back to Syria, Iraq and Egypt, and calls Iran a terrorist cancer regime.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Chris_Pry_420/status/2063270331339407574",
+      "author": "@Chris_Pry_420",
+      "content_summary": "Muslim rape gangs.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    }
+  ]
+}
