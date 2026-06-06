@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T16-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/DeanRoc06408296/status/2063292017807933732",
+      "author": "@DeanRoc06408296",
+      "content_summary": "Calls to get Christian country back, deport all illegals, stop Islam and all mosques",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/blairthomas11/status/2063291892935114863",
+      "author": "@blairthomas11",
+      "content_summary": "Portrays Muslim/Communist invasion as threat to Western civilization, Tenth Crusade to save it",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/vonschnitzel69/status/2063291885431496793",
+      "author": "@vonschnitzel69",
+      "content_summary": "Calls to deport all Muslims (along with Jews and Africans)",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JohnGof41789239/status/2063291523001896992",
+      "author": "@JohnGof41789239",
+      "content_summary": "Claims Muslims/Islam taking over America from within, countries taken over by crazy Islam, deport all illegals",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Saki9160/status/2063291496611414369",
+      "author": "@Saki9160",
+      "content_summary": "Calls Islam the worst religion and a cancer, links Muslims to ruining Europe and Middle East",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/season879/status/2063288490633072806",
+      "author": "@season879",
+      "content_summary": "Associates 'these people' (Muslims/Palestinians) with grooming and raping, frames as part of culture",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
