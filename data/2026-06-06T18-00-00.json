@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-06T18-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/EUornotEu1/status/2063322320094019703",
+      "author": "@EUornotEu1",
+      "content_summary": "References 7/7, Manchester Arena, Muslim rape gangs since the 50s, and MI5 Islam watchlist larger than British Army as reasons to 'smell the coffee'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/soldieronchild3/status/2063322230348558773",
+      "author": "@soldieronchild3",
+      "content_summary": "States 'ISLAM IS TERRORISM' in all caps.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/mythbuster21/status/2063322108172865725",
+      "author": "@mythbuster21",
+      "content_summary": "Describes Beslan school attack by 'Muslim terrorist' involving rape and forcing children to drink urine, framing as Muslim terrorism.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/pato50715/status/2063321931760165330",
+      "author": "@pato50715",
+      "content_summary": "Calls Islam 'le cancer du monde' and says it must be eradicated quickly.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/An89390Anglo/status/2063321931332391149",
+      "author": "@An89390Anglo",
+      "content_summary": "Refers to 'muslim rape gangs' and criticizes response to them.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
