@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-06-07T21-00-00",
+  "count": 8,
+  "results": [
+    {
+      "url": "https://x.com/StammerKie35107/status/2063731940797100161",
+      "author": "@StammerKie35107",
+      "content_summary": "Claims Islam is antisemitic, intolerant, misogynistic, homophobic and in radical guise guilty of terrorism.",
+      "category": "threat_narrative | crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Omololadestores/status/2063731847582945303",
+      "author": "@Omololadestores",
+      "content_summary": "States Islam is a religion of terrorism and calls Yoruba Muslims terrorists and pawns.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ZebraSkeptic/status/2063731794894070164",
+      "author": "@ZebraSkeptic",
+      "content_summary": "Calls military age Muslim invaders a bigger threat than climate change and links them to jihad plans.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NancyGrego38692/status/2063731565876658208",
+      "author": "@NancyGrego38692",
+      "content_summary": "Calls Islam the biggest threat to the world and says bring back the crusades.",
+      "category": "threat_narrative | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/cs124b/status/2063731519634419968",
+      "author": "@cs124b",
+      "content_summary": "Refers to the rape of Europe from Islam.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/lifeschallengin/status/2063731483886457125",
+      "author": "@lifeschallengin",
+      "content_summary": "Accuses a politician of allowing Muslims to rape white children.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Onyeidemili/status/2063731360229994497",
+      "author": "@Onyeidemili",
+      "content_summary": "Links all terrorism to Islam and accuses the religion of raping non-Muslim women.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LBizz/status/2063731340294382026",
+      "author": "@LBizz",
+      "content_summary": "Calls Islam a plague to the world.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
