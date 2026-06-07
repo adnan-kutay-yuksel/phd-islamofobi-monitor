@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-06-07T05-00-00",
+  "count": 11,
+  "results": [
+    {
+      "url": "https://x.com/Satyajeetp1992/status/2063492170418688110",
+      "author": "@Satyajeetp1992",
+      "content_summary": "Generalizes Kashmiri Muslims as terrorists who massacred and raped Hindus, calls for retaliation and making their lives hell.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gimenez_jo37355/status/2063492141742256602",
+      "author": "@gimenez_jo37355",
+      "content_summary": "Claims Islam spreads like cancer.",
+      "category": "dehumanization",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/POwen69637/status/2063492101757718549",
+      "author": "@POwen69637",
+      "content_summary": "Claims Muslims following Quran are okay with raping children and must all be deported, starting with Dearborn.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/khaenriahngold/status/2063492076952776780",
+      "author": "@khaenriahngold",
+      "content_summary": "Supports wiping out terrorist Muslims and calls oppression of women their culture.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/black_njura/status/2063491977312714890",
+      "author": "@black_njura",
+      "content_summary": "States Muslims marrying underage girls is religiously a form of rape.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/AngelsKill/status/2063491826733211752",
+      "author": "@AngelsKill",
+      "content_summary": "Equates Pakistanis/Muslims with loving rape and being dirty disgusting pigs.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Puttya_Chpd/status/2063491633132327053",
+      "author": "@Puttya_Chpd",
+      "content_summary": "Calls Muslims harami traitors who shelter terrorists, demands changing demographics to non-Muslim majority.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/NAMRATAJHA2525/status/2063491423329292372",
+      "author": "@NAMRATAJHA2525",
+      "content_summary": "Associates madrasas, mosques with daily rapes by Muslims, calls for Hindu boycott.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/gen_rafah/status/2063491309667520743",
+      "author": "@gen_rafah",
+      "content_summary": "Declares Islam is a terrorist religion.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/JVOnpoint/status/2063444466942488811",
+      "author": "@JVOnpoint",
+      "content_summary": "Claims Islam threatens the world daily, calls to deport all Muslims.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Farm1945A/status/2063413316375269630",
+      "author": "@Farm1945A",
+      "content_summary": "Frames Muslim migration as demographic/civilizational jihad to transform societies toward Sharia dominance.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
