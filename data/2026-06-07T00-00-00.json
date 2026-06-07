@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-07T00-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/LinetskySemyon/status/2063411960998408486",
+      "author": "@LinetskySemyon",
+      "content_summary": "Associates humanity 'disappearing' with 'Muslims terrorists'",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/rsgie1607494/status/2063411950026113484",
+      "author": "@rsgie1607494",
+      "content_summary": "Islam invasion ALERT!",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/not_tiiito/status/2063411938302824713",
+      "author": "@not_tiiito",
+      "content_summary": "Islam is mental illness, biggest cancer in West is Muslim immigrants who are terrorists",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RoniGoldberg9/status/2063411754235777477",
+      "author": "@RoniGoldberg9",
+      "content_summary": "Sarcastic 'religion of peace and love' for Islam",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/fromBritain/status/2063411744173691129",
+      "author": "@fromBritain",
+      "content_summary": "Islam is not a religion of peace or good by any standard",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
