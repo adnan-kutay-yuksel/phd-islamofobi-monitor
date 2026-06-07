@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-07T14-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/ricrayret/status/2063622003874283764",
+      "author": "@ricrayret",
+      "content_summary": "Quotes long anti-Obama post and concludes 'Deport all Muslims before it is too late'",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/ra4226665334287/status/2063621886982914079",
+      "author": "@ra4226665334287",
+      "content_summary": "Claims 'no matter what MUSLIMS Support TERRORISM & HAMAS' based on UK Muslim police association defending Hamas",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/theholly_jolly2/status/2063621848923816169",
+      "author": "@theholly_jolly2",
+      "content_summary": "Calls Muslim mayor's policies 'Islamic invasion' and says 'They are taking over!'",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MattZoking/status/2063621800878362627",
+      "author": "@MattZoking",
+      "content_summary": "References 'Muslim men of mainly Pakistani heritage Rape, Sodomising,Torture and Grooming Gangs' abusing White British schoolgirls",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/frank_comber/status/2063621753730187562",
+      "author": "@frank_comber",
+      "content_summary": "Says 'START DEPORT ALL MUSLIM SAVAGES, OR START SHOOTING???'",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MrAA76bvs2/status/2063621698717352345",
+      "author": "@MrAA76bvs2",
+      "content_summary": "Claims 'Whatever muslims do in name of their so called ‘religion’ is done to kill, rape, harm...' and calls to #BanIslam",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
