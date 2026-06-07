@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-06-07T17-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/JGerrings/status/2063672742247834025",
+      "author": "@JGerrings",
+      "content_summary": "Claims Labour MP tried to protect Muslim child rape gangs who rape girls including by dogs, to get Muslim votes; associates all such gangs with Muslims collectively.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Maxwell35455885/status/2063672710509563948",
+      "author": "@Maxwell35455885",
+      "content_summary": "Islam is the largest threat the country has ever faced; cities and states are falling to it as it gains control.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/philo_alan/status/2063672693740695644",
+      "author": "@philo_alan",
+      "content_summary": "Claims a politician covered up Pakistani/Muslim rape gangs and calls him evil.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/StoicsArc/status/2063672636903927942",
+      "author": "@StoicsArc",
+      "content_summary": "References terrorism by Kashmiri Muslims and suggests keeping unwanted Muslims while rehabilitating others.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bttr90809591/status/2063672584068288955",
+      "author": "@bttr90809591",
+      "content_summary": "Claims Muslims treat women as chattel, have rape gangs, kill infidels, and any non-Muslim woman is fair game.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/stableofebuka/status/2063672571636129986",
+      "author": "@stableofebuka",
+      "content_summary": "Accuses Muslims of wanting liberty to rape women and demanding sharia in non-Muslim countries.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/izCoopz/status/2063672525146742810",
+      "author": "@izCoopz",
+      "content_summary": "Claims 70% of UK Muslims and Africans commit sexual assault; Hadith and Quran encourage rape.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/Kundalini27927/status/2063672438190170381",
+      "author": "@Kundalini27927",
+      "content_summary": "Simple statement: Muslim invasion.",
+      "category": "threat_narrative",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Xstream1329575/status/2063672371051970705",
+      "author": "@Xstream1329575",
+      "content_summary": "Questions when POTUS will take Islam invasion seriously.",
+      "category": "threat_narrative",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
