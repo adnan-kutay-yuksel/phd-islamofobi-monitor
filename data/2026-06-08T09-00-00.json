@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-06-08T09-00-00",
+  "count": 9,
+  "results": [
+    {
+      "url": "https://x.com/imchauhanshruti/status/2063915231542383030",
+      "author": "@imchauhanshruti",
+      "content_summary": "Ban Pakistanis to protect children from grooming gangs and radical Islam rapists; save women from evils.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BrotherRicky/status/2063915209853677634",
+      "author": "@BrotherRicky",
+      "content_summary": "Muslims murder children, grooming gangs rape kids, clog streets with fake prayers and threaten everyone.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/zucca_incognito/status/2063914547325419976",
+      "author": "@zucca_incognito",
+      "content_summary": "Islam is cancer.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/LoubyRy/status/2063914024266244471",
+      "author": "@LoubyRy",
+      "content_summary": "Muslims follow 7th century political ideas, unlike Jews as ethnicity.",
+      "category": "dog_whistle",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/oileffect/status/2063913954372407521",
+      "author": "@oileffect",
+      "content_summary": "Islam-influenced UK with nukes is existential threat to US.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Chantel21477551/status/2063913774868766935",
+      "author": "@Chantel21477551",
+      "content_summary": "Radical Islam is cancer; inbred scum weaponize it; DEPORT them.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/imchauhanshruti/status/2063915231542383030",
+      "author": "@imchauhanshruti",
+      "content_summary": "Ban Pakistanis; grooming gangs and radical Islam rapists evil.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Popsyno/status/2063915209983459677",
+      "author": "@Popsyno",
+      "content_summary": "Fewest places can say Islam is religion of peace (sarcastic).",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/OLAFUYI2/status/2063914792612450594",
+      "author": "@OLAFUYI2",
+      "content_summary": "Only Muslims claim their religion is one of peace (sarcastic implication).",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    }
+  ]
+}
