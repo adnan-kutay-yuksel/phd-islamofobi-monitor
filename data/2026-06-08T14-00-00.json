@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-08T14-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/Dino57776917169/status/2063987519406936265",
+      "author": "@Dino57776917169",
+      "content_summary": "Islam is a threat to Igbo tribe, take it as a threat",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/anthonyfullard/status/2063987484686496047",
+      "author": "@anthonyfullard",
+      "content_summary": "filthy Muslim inbred vermin scum",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DavedTerr/status/2063987453174669523",
+      "author": "@DavedTerr",
+      "content_summary": "Islam is the biggest threat to modern civilization",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/srizzo70/status/2063987291484299670",
+      "author": "@srizzo70",
+      "content_summary": "Muslims who should not be here, revoke everything for Muslims, they are the enemy",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/miningking12345/status/2063987162891391119",
+      "author": "@miningking12345",
+      "content_summary": "Muslims are the worst invaders, a cancer on every civilized nation",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TINATINA2038712/status/2063987111007567889",
+      "author": "@TINATINA2038712",
+      "content_summary": "Get these Muslim out of this country, that’s a real threat here",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
