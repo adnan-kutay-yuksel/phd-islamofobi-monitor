@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-09T05-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/CaptnSlapNTckle/status/2064212884570485006",
+      "author": "@CaptnSlapNTckle",
+      "content_summary": "Hypothetical about child family slaughtered by muslim arabs, questions if hating 'mongrel muslims' is a crime; implies UK issues with Muslim-related violence.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/jackwhi11504511/status/2064212820170776726",
+      "author": "@jackwhi11504511",
+      "content_summary": "Defines 'Islamopronia' as rational fear from linking Islamic scriptures to terrorism.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/dimndistant/status/2064212765200253418",
+      "author": "@dimndistant",
+      "content_summary": "Claims massive rape crisis and crime wave driven by Muslim immigration who don't contribute economically.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SouthPawfhse/status/2064212628030050456",
+      "author": "@SouthPawfhse",
+      "content_summary": "Says 'Nobody love Russian and Muslim bruh cancer'.",
+      "category": "dehumanization",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/chirp_ing/status/2064175307427336256",
+      "author": "@chirp_ing",
+      "content_summary": "Calls Muslims incest-spawned inbreds, genetic disasters, low-IQ mutants, threat to society who commit disproportionate crime.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GaryWill1539710/status/2064189980583571953",
+      "author": "@GaryWill1539710",
+      "content_summary": "Doesn't want any 'scrounge godless heathen scumsucking Muslim POS' in country; says they must all be deported.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
