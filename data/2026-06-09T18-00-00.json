@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-09T18-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/RanciatoJustin/status/2064411707795992811",
+      "author": "@RanciatoJustin",
+      "content_summary": "Calls Muslims/Islam a hate group like KKK, terrorists, demands deport imams, close mosques and Muslim enclaves as hate groups.",
+      "category": "crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TG3020476536364/status/2064411706361847863",
+      "author": "@TG3020476536364",
+      "content_summary": "Associates Muslims with rape and taking from countries, calls to deport a specific Muslim woman and her group.",
+      "category": "crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/bondservant54/status/2064411680382013691",
+      "author": "@bondservant54",
+      "content_summary": "Calls Muslims a cancer, urges to beat and throw them out of the country.",
+      "category": "dehumanization | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Jess1373659/status/2064411601382305882",
+      "author": "@Jess1373659",
+      "content_summary": "Calls to deport every Muslim.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BooneJosep14247/status/2064411495291593215",
+      "author": "@BooneJosep14247",
+      "content_summary": "Demands to deport all Muslims to save the country.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
