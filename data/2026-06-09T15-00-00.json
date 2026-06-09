@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-09T15-00-00",
+  "count": 6,
+  "results": [
+    {
+      "url": "https://x.com/h5x22/status/2064376227201220668",
+      "author": "@h5x22",
+      "content_summary": "Calls Islam a disease and terror, demands deport and ban all terror (targeting Muslims)",
+      "category": "threat_narrative | crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/h5x22/status/2064375987899420817",
+      "author": "@h5x22",
+      "content_summary": "Calls Islam a disease and terror, links to silent terrorism in non-Muslim countries, demands deport and ban all",
+      "category": "threat_narrative | crime_association | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/corybassett08/status/2064375561976189210",
+      "author": "@corybassett08",
+      "content_summary": "Sarcastic 'religion of peace', associates Islam with crime and violence, tells them to get out",
+      "category": "dog_whistle | crime_association | direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SkippityDooooo/status/2064375333466304698",
+      "author": "@SkippityDooooo",
+      "content_summary": "Calls Islam a cancer that needs to be destroyed",
+      "category": "dehumanization | direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/billionsrule/status/2064375158471540989",
+      "author": "@billionsrule",
+      "content_summary": "Calls for deporting every Muslim in the USA, in response to claims of economic jihad",
+      "category": "direct_hatred | crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/amberc009/status/2064374607797232114",
+      "author": "@amberc009",
+      "content_summary": "States Islam is a threat to humanity due to killing apostates",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
