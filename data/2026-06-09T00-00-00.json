@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-06-09T00-00-00",
+  "count": 7,
+  "results": [
+    {
+      "url": "https://x.com/theholly_jolly/status/2064137677197189452",
+      "author": "@theholly_jolly",
+      "content_summary": "Islamic invasion taking over states, must deport them all now",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/therapeoftheuk/status/2064137570255044783",
+      "author": "@therapeoftheuk",
+      "content_summary": "Muslims need to go, they cry Islamphobia when normal people protest",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/FreedomChild22/status/2064137448767304037",
+      "author": "@FreedomChild22",
+      "content_summary": "Muslims should go home and rape there",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Fill_Yer_Boots/status/2064137254713307339",
+      "author": "@Fill_Yer_Boots",
+      "content_summary": "Islam commands kill, rape, enslave; insane not to hate Islam",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/obamateurs/status/2064135447400595584",
+      "author": "@obamateurs",
+      "content_summary": "Sharia Muslims raping and killing need to be deported",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/areswarrior1776/status/2064135619459088407",
+      "author": "@areswarrior1776",
+      "content_summary": "Fuck Mohammed, get the fuck out of our country",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/henschmann/status/2064137385533673952",
+      "author": "@henschmann",
+      "content_summary": "All male Moroccans/Tunisians/Algerians/Afghans out immediately, they carry knives and hate you",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
