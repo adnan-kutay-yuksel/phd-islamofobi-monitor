@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-06-10T22-00-00",
+  "count": 5,
+  "results": [
+    {
+      "url": "https://x.com/LawrenceBWheel1/status/2064831042943660374",
+      "author": "@LawrenceBWheel1",
+      "content_summary": "Denies the existence of the 'Muslim cancer' while calling mostly Muslim immigrants a net drain on British society.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/GlennyDrag44377/status/2064830997678407887",
+      "author": "@GlennyDrag44377",
+      "content_summary": "Calls to arrest and deport all Muslims.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Soloeffort68/status/2064830946239521104",
+      "author": "@Soloeffort68",
+      "content_summary": "Claims government protects 'Muslim crime and rape gangs'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/SpeakinMatters/status/2064830936999657681",
+      "author": "@SpeakinMatters",
+      "content_summary": "States 'All Muslims are terrorists' and that rape, fraud, and murder are their religious duty.",
+      "category": "threat_narrative",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/lliliillililil/status/2064830569817722986",
+      "author": "@lliliillililil",
+      "content_summary": "Accuses Muslims of justifying rape of little kids and mocks them for not leaving the '7th century'.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
