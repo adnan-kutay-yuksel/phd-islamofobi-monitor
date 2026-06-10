@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-06-10T04-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/DamnItWasFun/status/2064558442681901320",
+      "author": "@DamnItWasFun",
+      "content_summary": "Calls Islam garbage and associates it with child rape by Muhammad.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/c3t1p99/status/2064558340802294209",
+      "author": "@c3t1p99",
+      "content_summary": "Claims peaceful Muslims cover up 75%+ terrorism tied to Islam, making them the problem.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/afewcrayons/status/2064558327313334769",
+      "author": "@afewcrayons",
+      "content_summary": "States Muslims don't belong in civilized nations as a cult commanded to rape and murder non-Muslims.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Jack19001079/status/2064558319218368612",
+      "author": "@Jack19001079",
+      "content_summary": "Claims Europe replaces Jews with terrorist Muslims contributing to crime, filth, murder, and rape.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/RobertEdwamj0r/status/2064558257281376671",
+      "author": "@RobertEdwamj0r",
+      "content_summary": "Frames Muslim from Africa as real threat behind riots and attacks.",
+      "category": "threat_narrative",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Redstallion236/status/2064558224096030729",
+      "author": "@Redstallion236",
+      "content_summary": "Claims 1.8 billion Muslims support and cover 20 million jihadis and their crimes.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/parthianempire/status/2064558166596288929",
+      "author": "@parthianempire",
+      "content_summary": "Uses sarcastic 'religion of peace' and calls to eradicate Islam from culture.",
+      "category": "dog_whistle",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/tuberosedreams/status/2064550914380423312",
+      "author": "@tuberosedreams",
+      "content_summary": "Associates Muslims with beheadings, raping women, and defying rules as a pattern of threat.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/day_willia43436/status/2064514885732765795",
+      "author": "@day_willia43436",
+      "content_summary": "Lists beheadings, terrorism, rape, Sharia, etc., as inherent to opposing 'racists' speaking out.",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/sameejo29/status/2064508011566202913",
+      "author": "@sameejo29",
+      "content_summary": "Claims Islam is taking over areas with gang rapes, stabbings, and demographic replacement.",
+      "category": "replacement_theory",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
