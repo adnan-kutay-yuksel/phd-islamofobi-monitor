@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-06-10T08-00-00",
+  "count": 4,
+  "results": [
+    {
+      "url": "https://x.com/Logarsson70/status/2064630694286876866",
+      "author": "@Logarsson70",
+      "content_summary": "Islam is a cancer on the planet.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/toorn_hans/status/2064630495191630013",
+      "author": "@toorn_hans",
+      "content_summary": "Close borders for Islam to prevent being a medieval EU in 20 years.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheBlazestillDe/status/2064630329747349605",
+      "author": "@TheBlazestillDe",
+      "content_summary": "Islam is cancer to our society. Everything is conquest to them.",
+      "category": "dehumanization",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DaveTheRaveU/status/2064630322747035859",
+      "author": "@DaveTheRaveU",
+      "content_summary": "Mentions grooming gangs, Muslim watchlist, Manchester arena, Southport; 'We don’t want them here.'",
+      "category": "crime_association",
+      "severity": 4,
+      "engagement_estimate": "low"
+    }
+  ]
+}
