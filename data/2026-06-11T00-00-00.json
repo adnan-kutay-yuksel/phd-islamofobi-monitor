@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-06-11T00-00-00",
+  "count": 10,
+  "results": [
+    {
+      "url": "https://x.com/MarkJanson32112/status/2064864497097912609",
+      "author": "@MarkJanson32112",
+      "content_summary": "Claims there are no good Muslims, they steal, rape children, and their religion requires killing non-Muslims.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/Playteaux1/status/2064863535000121346",
+      "author": "@Playteaux1",
+      "content_summary": "Claims Catholics and Protestants in Ireland are united against the common threat of Muslims.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "medium"
+    },
+    {
+      "url": "https://x.com/KenNestegg/status/2064862785675440400",
+      "author": "@KenNestegg",
+      "content_summary": "Islam is a serious and growing threat to Western democracies due to intolerance and violent history.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/2brknot2bfree/status/2064862410087747878",
+      "author": "@2brknot2bfree",
+      "content_summary": "Claims rape isn't a sin in Islam.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/EdidiongOkpokpo/status/2064861240682229823",
+      "author": "@EdidiongOkpokpo",
+      "content_summary": "Claims terrorism is the way of 90% of Islam's followers and brute force is the answer.",
+      "category": "crime_association",
+      "severity": 5,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/BrahimSawad/status/2064860780357366012",
+      "author": "@BrahimSawad",
+      "content_summary": "Supports Israel in its fight against Muslim terrorism.",
+      "category": "crime_association",
+      "severity": 3,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TorontoWriter/status/2064860249337557015",
+      "author": "@TorontoWriter",
+      "content_summary": "Sarcastically questions if Islam is a religion of peace and assimilation.",
+      "category": "dog_whistle",
+      "severity": 2,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/TheHarrisSultan/status/2064864543902457869",
+      "author": "@TheHarrisSultan",
+      "content_summary": "Implies most Muslims are criminals and calls for remigration of these barbarians.",
+      "category": "direct_hatred",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/DuncanDeke7/status/2064864651804852500",
+      "author": "@DuncanDeke7",
+      "content_summary": "Islam is incompatible with freedoms, a political cult with no place in free society; assimilate or leave.",
+      "category": "threat_narrative",
+      "severity": 4,
+      "engagement_estimate": "low"
+    },
+    {
+      "url": "https://x.com/MagicMoments143/status/2064864628530925989",
+      "author": "@MagicMoments143",
+      "content_summary": "Tells Muslims to go back to their countries and get the fuck out.",
+      "category": "direct_hatred",
+      "severity": 5,
+      "engagement_estimate": "low"
+    }
+  ]
+}
